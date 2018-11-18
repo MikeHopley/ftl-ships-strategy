@@ -1,5 +1,3 @@
-# FTL ships guide
-
 I made these notes during my second and third win-streaks, mostly to help me remember some less obvious ideas. I've tidied them up and added to them, so they might help other people too. I also mention [Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page) differences.
 
 | Cruiser    | Type A                        | Type B                     | Type C                               |
@@ -16,8 +14,7 @@ I made these notes during my second and third win-streaks, mostly to help me rem
 | Crystal    | [Bravais](#crystal-a)         | [Carnelian](#crystal-b)    | None                                 |
 
 
-
-## Context
+# Context
 
 This is about winning consistently on Hard, which means playing as "safely" as possible and getting through the dangerous early game in good shape. To be "safe", you need two things ASAP:
 
@@ -29,7 +26,7 @@ This is about winning consistently on Hard, which means playing as "safely" as p
 Hacking is especially strong. When I say "look for a weapon", that's really  shorthand for "look for a weapon, or hacking, or other offence". But ideally I like to start with a good weapon, then add hacking a bit later.
 
 
-## General strategy
+# General strategy
 
 For most ships and most runs:
 
@@ -58,7 +55,7 @@ The balance of risk varies by the ship. Some ships have safer starts than others
 
 In practice, I find I mostly just rush shields, except on specific ships and then only when there is a well-placed store. Even then, I might visit the store and buy nothing. But sometimes the stars align, and I buy a Flak 1 before shields-4 or maybe even shields-3.
 
-### Other strategies
+## Other strategies
 
 Engines-2 and engines-3 are also useful and cheap. Fit them in when you can, but do not allow engine upgrades to stop you upgrading shields or buying an important weapon. At 15 scrap, engines-3 competes with shields-3, and I think shields-3 is almost strictly better.
 
@@ -68,12 +65,14 @@ Piloting-2 can be tempting when you're visiting lots of nebula beacons without a
 
 Never waste early-game scrap on luxury purchases like medbay-2, doors-2, or Scrap Recovery Arm.
 
-### Balance Mod
+## Balance Mod
 
 Burst Laser 2 costs 90 scrap, hacking 120. Much of your starting equipment sells for less, especially augments. Flak 1 costs 75 and is much less common.
 
 The important scrap thresholds are 120, 90, 75, and 55. I'm sad about visiting stores with less than 75 scrap, but 55 is enough for weapons like Burst Laser 1, Heavy Laser, Small Bomb, and many others.
 
+
+# The ships
 
 ## Kestrel A
 
