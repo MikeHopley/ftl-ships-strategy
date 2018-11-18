@@ -80,7 +80,7 @@ The starting weapons can handle two-shield enemies, so get shields-3, shields-4,
 
 Conserve missiles, but do use the Artemis against threatening weapons. Keep the Artemis unless you need the slot or absolutely need the scrap. If you find no weapons but do get crew, consider buying a teleporter: the Artemis provides good boarding support.
 
-With no special systems or crew, distress beacons are less good than usual -- possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+With no special systems or crew, distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
 
 ## Kestrel B
@@ -91,7 +91,7 @@ Ideally you want fast weapons to complement your remaining Basic Lasers. If you 
 
 Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to "de-ionise" shields. Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward.
 
-Distress beacons are less good than usual -- possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
 
 ## Kestrel C
@@ -131,7 +131,7 @@ Late-game the Ion Blast 2 needs help from another ion weapon to reliably take do
 
 Med-bot Dispersal is fine to keep or sell. Take particular note of the "unknown disease" event, which gives a high scrap reward and a weapon, provided you have both med-bots and medbay-2. This event occurs in Civilian, Pirate, Mantis, Rock, and Uncharted Nebula sectors (at a distress beacon).
 
-Medbay-2 is still not worth buying early, but consider it once you are stable -- providing you kept the augment and are visiting a distress beacon in one of those sectors, especially later in the game.
+Medbay-2 is still not worth buying early, but consider it once you are stable&thinsp;&mdash;&thinsp;providing you kept the augment and are visiting a distress beacon in one of those sectors, especially later in the game.
 
 
 ## Engi B
@@ -164,7 +164,7 @@ Heavy Ion Stunner can self-stack with a fully-trained gunner, so finding weapons
 
 Shields-3, shields-4, then look for a weapon. Dual Lasers are great, but may eventually need to be replaced with more slot-efficient weapons.
 
-This ship has a strong start, but must manage drone parts carefully. At each fight, consider whether to use your beam drone, hacking, both -- or neither! Remember that preventing a damage cascade is more important than hoarding resources, and this is especially relevant while you only have 1 shield.
+This ship has a strong start, but must manage drone parts carefully. At each fight, consider whether to use your beam drone, hacking, both&thinsp;&mdash;&thinsp;or neither! Remember that preventing a damage cascade is more important than hoarding resources, and this is especially relevant while you only have 1 shield.
 
 Try crew kills when safe: hack O2 then immediately destroy it.
 
@@ -196,7 +196,7 @@ Put the Slug in piloting. Consider putting the Zoltan in weapons: they can "de-i
 
 Avoid spending scrap on the artillery beam, unless everything else is set.
 
-Distress beacons are less good than usual -- possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
 
 ## Federation C
@@ -234,7 +234,7 @@ Halberd trashes early enemies; start the beam in shields for maximum damage. Let
 
 Your first extra crew member is worth one free power, replacing the pilot. Don't forget that two Zoltans can completely ion-proof one shield layer, and can also "de-ionise" shields.
 
-Distress beacons are less good than usual -- possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
 
 ## Zoltan B
@@ -251,14 +251,14 @@ This ship is somewhat vulnerable to boarding. Start the engines Zoltan on doors 
 
 Don't forget that two Zoltans can completely ion-proof one shield layer, and can also "de-ionise" shields.
 
-Distress beacons are less good than usual -- possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
 
 ## Zoltan C
 
 Zoltan Shield provides strong defence in most fights, so consider delaying shields-3 or even shields-4, in the hope of finding a good weapon. Power constraints also make shields-4 less immediately useful (although still very good).
 
-Delay using the backup battery as long as possible -- usually after your Zoltan Shield goes down. Sometimes it's even worth abandoning piloting for the extra power.
+Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Sometimes it's even worth abandoning piloting for the extra power.
 
 My default crew positioning has one Zoltan in piloting, weapons, engines, and drones. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this!
 
@@ -341,7 +341,7 @@ Start your second Slug on weapons. They can always walk to engines before enemie
 
 Venting the front of the ship is awkward, so consider pre-venting and letting oxygen refill a bit.
 
-Distress beacons are less good than usual -- possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
 
 ## Slug B
@@ -378,7 +378,7 @@ The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades i
 
 ### Balance Mod
 
-Explosive Replicator means you can keep using missiles a bit longer, especially if you accept missile-heavy surrenders. Buying missiles is also much less crippling (they effectively cost 2.5 scrap, instead of 6). Remember to buy them before you get too low -- you don't start with many!
+Explosive Replicator means you can keep using missiles a bit longer, especially if you accept missile-heavy surrenders. Buying missiles is also much less crippling (they effectively cost 2.5 scrap, instead of 6). Remember to buy them before you get too low&thinsp;&mdash;&thinsp;you don't start with many!
 
 Alternative offence is still a priority, and possibly before upgrading shields.
 
@@ -421,13 +421,13 @@ Your weapons are strong initially, but slot-inefficient. You'll probably replace
 
 As on Stealth B, keeping oxygen below 50% decreases the chance of weapons/cloaking being hit. With fast weapons though (and a long walk to sensors), it's not worth using the weapons depower trick.
 
-90% evade during cloak gives you good defences, but you can still get unlucky -- especially against drones. Spending your first 25 scrap on a weapons buffer significantly improves survivability: those weapons are your strongest defence early on.
+90% evade during cloak gives you good defences, but you can still get unlucky&thinsp;&mdash;&thinsp;especially against drones. Spending your first 25 scrap on a weapons buffer significantly improves survivability: those weapons are your strongest defence early on.
 
 After that, save up for shields and weapons. If you see a great weapon, buy it before shields. Also consider buying temporary weapons, such as an Ion Blast.
 
 Once you have shields, upgrading them is not urgent (since you have cloak too). You can skip shields-3, which effectively does the same job as your weapons buffer. However, shields-4 is still a priority, and getting it early gives you more chance of training evade against the easier enemies in sector 2. Also remember you can use the Mini Beam as an Anti-bio Beam, increasing the value of shields-4.
 
-Distress beacons are less good than usual -- probably still better than an unmarked beacon, but worse than a guaranteed fight.
+Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still better than an unmarked beacon, but worse than a guaranteed fight.
 
 ### Balance Mod
 
@@ -461,7 +461,7 @@ Beam drones can drag across to an adjacent room. Beam 1 drones cannot drag acros
 
 On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors and momentarily depower the Glaive Beam **just** before enemy weapons fire; this [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
 
-Distress beacons are less good than usual -- probably still better than an unmarked beacon, but maybe worse than a guaranteed fight.
+Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still better than an unmarked beacon, but maybe worse than a guaranteed fight.
 
 ### Balance Mod
 
@@ -531,11 +531,11 @@ The starting weapons can handle two-shield enemies, so get shields-3, shields-4,
 
 Crystal weapons are powerful (early on) but slow, and don't play nicely with beams. Defence drones shoot them down! Depending on setup, both weapons can be kept until the end of the game; but Heavy Crystal is the better one.
 
-Bear in mind that Engi and Rebel sectors have a higher chance of defence drones. Be particularly careful with the Virus event Engi blue option -- if you can't kill the ship, you lose the Engi!
+Bear in mind that Engi and Rebel sectors have a higher chance of defence drones. Be particularly careful with the Virus event Engi blue option&thinsp;&mdash;&thinsp;if you can't kill the ship, you lose the Engi!
 
 Sell Crystal Vengeance at the first store you visit.
 
-Distress beacons are less good than usual -- possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
 ### Balance Mod
 
