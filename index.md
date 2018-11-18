@@ -13,7 +13,7 @@ I made these notes during my second and third win-streaks, mostly to help me rem
 | Rock       | [Bulwark](#rock-a)            | [Shivan](#rock-b)          | [Tektite](#rock-c)                   |
 | Stealth    | [The Nesasio](#stealth-a)     | [DA-SR 12](#stealth-b)     | [Simo-H](#stealth-c)                 |
 | Lanius     | [Kruos](#lanius-a)            | [The Shrike](#lanius-b)    | None                                 |
-| Crystal    | [Bravais](crystal-a)          | [Carnelian](crystal-b)     | None                                 |
+| Crystal    | [Bravais]#(crystal-a)         | [Carnelian](#crystal-b)    | None                                 |
 
 
 
