@@ -1,6 +1,6 @@
 # FTL ships guide
 
-I made these notes during my second and third win-streaks, mostly to help me remember some less obvious ideas. I've tidied them up and added to them, so they might help other people too. I also mention Balance Mod differences.
+I made these notes during my second and third win-streaks, mostly to help me remember some less obvious ideas. I've tidied them up and added to them, so they might help other people too. I also mention [Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page) differences.
 
 | Cruiser    | Type A                        | Type B                     | Type C                               |
 | ---------- | ----------------------------- | -------------------------- | -------------------------------------|
