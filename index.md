@@ -2,6 +2,23 @@
 
 I made these notes during my second and third win-streaks, mostly to help me remember some less obvious ideas. I've tidied them up and added to them, so they might help other people too. I also mention Balance Mod differences.
 
+| Cruiser    | Type A                        | Type B                     | Type C                           |
+| ---------- | ----------------------------- | -------------------------- | ---------------------------------|
+| Kestrel    | [The Kestrel](#kestrel-a)     | [Red-Tail B](#kestrel-b)   | [The Swallow / Loon](#kestrel-c) |
+| Engi       | [The Torus](#engi-a)          | [The Vortex](#engi-b)      | [Tetragon](#engi-c)              |
+| Federation | [The Osprey](#federation-a)   | [Nisos](#federation-b)     | [The Fregatidae](#federation-c)  |
+| Zoltan     | [The Adjudicator](#zoltan-a)  | [Noether](#zoltan-b)       | [Cerenkov](#zoltan-c)            |
+| Mantis     | [The Gila Monster](#mantis-a) | [The Basilisk](#mantis-b)  | [The Theseus](#mantis-c)         |
+| Slug       | [Man of War](#slug-a)         | [The Stormwalker](#slug-b) | [Ariolimax](#slug-c)             |
+| Rock       | [Bulwark](#rock-a)            | [Shivan](#rock-b)          | [Tektite](#rock-c)               |
+| Stealth    | [The Nesasio](#stealth-a)     | [DA-SR 12](#stealth-b)     | [Simo-H](#stealth-c)             |
+| Lanius     | [Kruos](#lanius-a)            | [The Shrike](#lanius-b)    | None                             |
+| Crystal    | [Bravais](crystal-a)          | [Carnelian](crystal-b)     | None                             |
+
+
+
+## Context
+
 This is about winning consistently on Hard, which means playing as "safely" as possible and getting through the dangerous early game in good shape. To be "safe", you need two things ASAP:
 
 * Two shields
