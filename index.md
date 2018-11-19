@@ -535,7 +535,9 @@ Emergency Respirators sell for just 12 scrap, so you might want to keep them a b
 
 ## Crystal A
 
-The starting weapons can handle two-shield enemies, so get shields-3, shields-4, then look for a weapon or teleporter. Two Crystal crew make a strong boarding party: when enemies have 2 crew, lockdown lets you break 3 weapons bars in ~19 seconds. You can increase this with mind control (when enemies have 3+ crew) or upgrading teleporter (to board with more crew, either into a 4-tile weapons room, or into shields as a distraction).
+The starting weapons can handle two-shield enemies, so get shields-3, shields-4, then look for a weapon or teleporter.
+
+Two Crystal crew make a strong boarding party. Each lockdown lasts 12 seconds; when enemies have two crew, you break 3 weapons bars in ~19 seconds. You can break weapons faster/more by adding mind control, hacking, upgrading teleporter, or just using your weapons.
 
 Crystal weapons are powerful (early on) but slow, and don't play nicely with beams. Defence drones shoot them down! Depending on setup, both weapons can be kept until the end of the game; but Heavy Crystal is the better one.
 
@@ -558,12 +560,12 @@ Cloaking also provides good defence, so consider delaying shield upgrades in the
 
 If you are without weapons in a Rebel sector or Uncharted Nebula, consider buying clone bay so you can kill automated ships. Same goes for Abandoned sectors (although an upgraded teleporter will work there, with careful play).
 
-Your pilot should be walking to the teleporter during the previous jump. You can then decide whether to board with all three Crystals, or keep a pilot. Also consider starting one Crystal in sensors: this delays 2-crew boarding very slightly, but does not delay 3-crew boarding.
+Your pilot should be walking to the teleporter during the previous jump. You can then decide whether to board with all three Crystals, or keep a pilot. Also consider starting one Crystal in sensors: this delays two-crew boarding very slightly, but does not delay three-crew boarding.
 
-Note that Lockdown lasts 12 seconds, and in practice it's unaffected by enemy crew trying to break in (they would need more than 4 crew pounding on the same door). Against enemies with two crew, 2 Crystals will break 3 weapons levels in ~19 seconds; 3 Crystals will break 8 weapons levels (!) in 33 seconds (in a four-tile weapons room).
+Each lockdown lasts 12 seconds. Against enemies with two crew, two Crystals will break 3 weapons levels in ~19 seconds; three Crystals will break 8 weapons levels (!) in ~33 seconds (in a four-tile weapons room). Boarding with four crew lets you break 8 weapons levels in ~25 seconds.
 
 Consider pre-cloaking enemy weapons, if you think you can break them in time. Your cloak resets immediately after killing the enemy crew; use this to dodge last-second missiles.
 
-Board auto-ships with 2 Crystals to neutralise them while getting combat training. Even if your teleporter gets hit through cloak at the worst possible time, your remaining crew will still have time to repair it before the other two die (due to Crystals taking 50% suffocation damage and having 125 health).
+Board auto-ships with two Crystals to neutralise them while getting combat training. Even if your teleporter gets hit through cloak at the worst possible time, your remaining crew will still have time to repair it before the other two die (due to Crystals taking 50% suffocation damage and having 125 health).
 
 Sell Crystal Vengeance at the first store (sells for 20 in Balance Mod). You only have one system slot left, so get hacking.
