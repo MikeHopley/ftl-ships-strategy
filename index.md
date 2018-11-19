@@ -371,7 +371,7 @@ Rushing shields gives you more opportunities for safe crew kills. Mind control c
 
 Chain Laser is slow, but you can still get the first shot by hacking enemy weapons. Hack liberally to reduce damage and risk, especially while you only have 1 shield. Consider buying a weapons buffer, but not if it might prevent you buying a weapon.
 
-Early-game tactics are slightly different depending on enemy crew count. Assuming enemy weapons can hurt you, hack weapons. Against two crew, mind control the pilot when you fire the Chain Laser. But against three crew, mind control the weapons crew instead: this guarantees one point of system damage at 12.5 seconds.
+Early-game tactics are slightly different depending on enemy crew count. Against two crew, mind control the pilot when you fire the Chain Laser. But against three crew, immediately mind control the weapons crew instead: this guarantees one point of system damage at 12.5 seconds.
 
 When completely safe and with a guaranteed crew-kill, damage the hull for surrender offers (as low as 2 hull). The safest way to do this is mind-controlling the pilot (on ships with level 1 piloting).
 
