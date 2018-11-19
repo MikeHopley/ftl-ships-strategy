@@ -203,9 +203,11 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still b
 
 Shields-3, shields-4, then look for weapons. Weapons-2 costs 40 scrap, so 1-power weapons are particularly helpful early on.
 
-Remember to use the airlocks on clone bay and shields! They are hard to see. 
+When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
-Mantis and Human are the strongest and safest boarding party (Zoltan bombing is cute but ineffective). Keeping Zoltans at home also has tactical advantages: they can ion-proof your clone bay, ion-proof one shield layer entirely, or "de-ionise" shields even when you have multiple layers.
+Remember to use the airlocks on clone bay and shields! They are hard to see.
+
+Mantis and Human are the strongest and safest boarding party (Zoltan bombing is more cute than effective). Keeping Zoltans at home also has tactical advantages: they can ion-proof your clone bay, ion-proof one shield layer entirely, or "de-ionise" shields even when you have multiple layers.
 
 Emergency Respirators make automated ships much easier to board. Keep them until you need to sell them for something better, like a weapon.
 
@@ -264,7 +266,7 @@ My default crew positioning has one Zoltan in piloting, weapons, engines, and dr
 
 The clone bay corner is vulnerable to event boarding; pre-vent it, then let some oxygen refill.
 
-Picking up at least one more crew is very helpful, as you can move your zoltan out of piloting.
+Picking up at least one more crew is very helpful, as you can move your Zoltan out of piloting.
 
 Charge Ion is the best ion weapon in the game. Adding another 2-power ion weapon will take down shields reliably for the whole game (even a 1-power ion will do, especially mid-game).
 
@@ -276,6 +278,8 @@ Early reactor upgrades are expensive. Avoid buying more than you absolutely need
 ## Mantis A
 
 Shields-3, shields-4, then look for a weapon. Don't forget weapons-2 is 40 scrap; buying this lets you use the Small Bomb and Basic Laser together. Mantis Pheromones is somewhat useful, but also fine to sell.
+
+When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
 Small Bomb is a great boarding support weapon, and can also disable enemy weapons. Use it liberally in sector 1 to reduce risk.
 
@@ -297,7 +301,7 @@ Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from 
 
 Precise venting helps against solar flares or fire-lighting weapons. Just before the fire starts, have no oxygen in the bottom-left corner, and switch off O2; but also close the doors.
 
-To board as soon as possible, have the pilot Mantis move to the teleporter during the FTL jump.
+To board as soon as possible, have the pilot Mantis move to the teleporter during the FTL jump. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
 Your defences are strong, but not quite as strong as they appear. The defence drone is unreliable at protecting shields and drones.
 
@@ -314,7 +318,7 @@ Piloting-2 is 25 scrap instead of 20, so I'd probably take engines-3 first.
 
 Shields-3, shields-4, then look for weapons. If you're still low on crew in the mid-game, buy some.
 
-Typically board with the Lanius and Mantis. Keep the teleporter full of oxygen, and have your Lanius walk into it during the FTL jump.
+Typically board with the Lanius and Mantis. Keep the teleporter full of oxygen, and have your Lanius walk into it during the FTL jump. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
 The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. Remember that the Engi can board too. Boarding with 3 crew can often disable clone/medbays without spending missiles.
 
@@ -352,7 +356,7 @@ Consider teleporter-2, so you can more safely board automated ships. Without it,
 
 Healing Burst and Slug Repair Gel are fine to keep or sell. Keep the Artemis, unless you need the slot for something more important or desperately need the scrap.
 
-Precise boarding technique helps your bombs/missiles hit. Use the [Safety Dance](https://www.youtube.com/watch?v=d0j4rFfmFDc) to pull the pilot away.
+Precise boarding technique helps your bombs/missiles hit. Use the [Safety Dance](https://www.youtube.com/watch?v=d0j4rFfmFDc) to pull the pilot away. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
 ### Balance Mod
 
@@ -369,12 +373,16 @@ Chain Laser is slow, but you can still get the first shot by hacking enemy weapo
 
 Early-game tactics are slightly different depending on enemy crew count. Assuming enemy weapons can hurt you, hack weapons. Against two crew, mind control the pilot when you fire the Chain Laser. But against three crew, mind control the weapons crew instead: this guarantees one point of system damage at 12.5 seconds.
 
+When completely safe and with a guaranteed crew-kill, damage the hull for surrender offers (as low as 2 hull). The safest way to do this is mind-controlling the pilot (on ships with level 1 piloting).
+
 
 ## Rock A
 
 You urgently need non-missile offence. A teleporter is often best, since you already have boarding crew and the Artemis. Failing that, get decent weapons.
 
 The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades in the hope of hitting a good store.
+
+Use missiles as efficiently as possible. Destroy piloting with the Artemis to guarantee the Hull Missile will hit. Sometimes it might not be worth fighting a Zoltan ship.
 
 ### Balance Mod
 
@@ -397,7 +405,7 @@ Doors are much too expensive to buy. Note you don't get airlocks (although hull 
 
 ### Balance Mod
 
-Doors are much cheaper (30), but still not worth it. Rock Plating sells for 30, Fire Bomb for 45, Teleporter costs 85.
+Doors are much cheaper (30), but still not worth it. Rock Plating sells for 30, Fire Bomb for 22, Teleporter costs 85.
 
 
 ## Rock C
@@ -514,7 +522,7 @@ Shields-3, shields-4, then look for a weapon. Remember you only start with engin
 
 Advanced Flak is hands-down the best weapon in the game, so this easily becomes a monstrous gunship. Mind control helps your shots hit.
 
-With double Lanius boarders and mind control, it's also a strong boarding ship. Start both Lanius in the teleporter, and board whenever you reasonably can. Your Lanius can't use the medical airlock, so try to get them killed off when it's safe to do so (they can "dance" while nearly-dead enemy crew kill them).
+With double Lanius boarders and mind control, it's also a strong boarding ship. Start both Lanius in the teleporter, and board whenever you reasonably can. Your Lanius can't use the medical airlock, so try to get them killed off when it's safe to do so (they can "dance" while nearly-dead enemy crew kill them). When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
 One sneaky tactic is to board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so your Lanius can now attack the system of your choice. This can be a good way to rapidly disable enemy weapons.
 
@@ -527,7 +535,7 @@ Emergency Respirators sell for just 12 scrap, so you might want to keep them a b
 
 ## Crystal A
 
-The starting weapons can handle two-shield enemies, so get shields-3, shields-4, then look for a weapon. Teleporter is a good fallback plan, since you have two Crystal crew.
+The starting weapons can handle two-shield enemies, so get shields-3, shields-4, then look for a weapon or teleporter. Two Crystal crew make a strong boarding party: when enemies have 2 crew, lockdown lets you break 3 weapons bars in ~19 seconds. You can increase this with mind control (when enemies have 3+ crew) or upgrading teleporter (to board with more crew, either into a 4-tile weapons room, or into shields as a distraction).
 
 Crystal weapons are powerful (early on) but slow, and don't play nicely with beams. Defence drones shoot them down! Depending on setup, both weapons can be kept until the end of the game; but Heavy Crystal is the better one.
 
@@ -552,7 +560,7 @@ If you are without weapons in a Rebel sector or Uncharted Nebula, consider buyin
 
 Your pilot should be walking to the teleporter during the previous jump. You can then decide whether to board with all three Crystals, or keep a pilot. Also consider starting one Crystal in sensors: this delays 2-crew boarding very slightly, but does not delay 3-crew boarding.
 
-Note that Lockdown lasts 12 seconds, and in practice it's unaffected by enemy crew trying to break in (they would need more than 4 crew pounding on the same door).
+Note that Lockdown lasts 12 seconds, and in practice it's unaffected by enemy crew trying to break in (they would need more than 4 crew pounding on the same door). Against enemies with two crew, 2 Crystals will break 3 weapons levels in ~19 seconds; 3 Crystals will break 8 weapons levels (!) in 33 seconds (in a four-tile weapons room).
 
 Consider pre-cloaking enemy weapons, if you think you can break them in time. Your cloak resets immediately after killing the enemy crew; use this to dodge last-second missiles.
 
