@@ -382,7 +382,7 @@ You urgently need non-missile offence. A teleporter is often best, since you alr
 
 The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades in the hope of hitting a good store.
 
-Use missiles as efficiently as possible. Destroy piloting with the Artemis to guarantee the Hull Missile will hit. Sometimes it might not be worth fighting a Zoltan ship.
+Use missiles as efficiently as possible, but do use them against threatening weapons. When enemy hull is not a multiple of 4, destroy piloting with the Artemis to guarantee the Hull Missile will hit. Accept missile-heavy surrenders. Sometimes it might not be worth fighting a Zoltan ship. As a last resort, buy missiles: it's better than being unable to win fights.
 
 ### Balance Mod
 
