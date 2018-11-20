@@ -1,4 +1,4 @@
-# ftl-ships-strategy
-Strategy guide to all ships in FTL
+# FTL ships guide
+Strategy and early-game tactics for all ships
 
 https://mikehopley.github.io/ftl-ships-strategy/
