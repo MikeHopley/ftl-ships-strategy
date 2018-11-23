@@ -262,11 +262,9 @@ Zoltan Shield provides strong defence in most fights, so consider delaying shiel
 
 Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Sometimes it's even worth abandoning piloting for the extra power.
 
-My default crew positioning has one Zoltan in piloting, weapons, engines, and drones. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this!
+My default crew positioning has one Zoltan in piloting, weapons, engines, and drones. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this! Picking up at least one more crew is very helpful, as you can move your Zoltan out of piloting.
 
-The clone bay corner is vulnerable to event boarding; pre-vent it, then let some oxygen refill.
-
-Picking up at least one more crew is very helpful, as you can move your Zoltan out of piloting.
+The clone bay corner is vulnerable to event boarding; pre-vent it, then let some oxygen refill. When you need to vent really fast, consider venting through weapons too (6 airlocks rather than 4).
 
 Charge Ion is the best ion weapon in the game. Adding another 2-power ion weapon will take down shields reliably for the whole game (even a 1-power ion will do, especially mid-game).
 
@@ -290,7 +288,7 @@ Weapons and shields are awkward to vent. Consider pre-venting them, then letting
 
 ## Mantis B
 
-On rare occasions, you are vulnerable in the early game, due to terrible firefighting and repairs. Although getting a weapon lets you fight Zoltan ships, the absolute priority is additional crew. Buying crew improves offence and (critically) repairs. Once you get enough crew, you are unstoppable.
+On rare occasions, you are vulnerable in the early game, due to terrible firefighting and repairs. Although getting a weapon lets you fight Zoltan ships, the absolute priority is additional crew. Buying crew improves offence and (critically) repairs.
 
 Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from dangerous fights (e.g. solar flare + enemy with nasty weapons). However, it could stop you from buying crew. So on balance, my preferred strategy is:
 
