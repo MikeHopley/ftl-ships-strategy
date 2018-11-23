@@ -455,7 +455,7 @@ Spend your first 50 scrap on cloaking-3. This lets you kill most enemies before 
 
 The Glaive falls off hard against 2 shields, so get extra offence before sector 3, and this is more important than shields. Hacking is ideal; failing that, look for a 1-power weapon.
 
-However, bear in that buying shields significantly increases your chance to find hacking later. Therefore it's often worth buying shields when the store is not selling hacking! Also consider buying backup battery. If the next store is selling systems, its chance to sell hacking is *approximately*:
+However, bear in mind that buying shields significantly increases your chance to find hacking later. Therefore it's often worth buying shields when the store is not selling hacking! Also consider buying backup battery. If the next store is selling systems, its chance to sell hacking is *approximately*:
 
 * 33% if you bought no systems
 * 40% if you have backup battery
