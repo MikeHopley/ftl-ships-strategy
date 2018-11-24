@@ -532,7 +532,7 @@ Typically buy shields next, and then look at improving offence or upgrading to s
 
 ### Balance Mod
 
-Shields now cost 120. Shield+ Drone sells for 20, and Anti-drone sells for 10. Shield+ only needs 1 power, so drones-3 doesn't do much.
+Shields now cost 120. Shield+ Drone sells for 25, and Anti-drone sells for 10. Shield+ only needs 1 power, so drones-3 doesn't do much.
 
 Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer.
 
