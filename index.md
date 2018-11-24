@@ -512,7 +512,7 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 ## Stealth C
 
-Put the Slug in piloting and the Rock in weapons.
+Put the Slug in piloting. I slightly prefer the Rock on weapons, because the central location offsets their slow movement and the human can man doors faster.
 
 As with Stealth A, your starting weapons are strong but slot-inefficient. They *can* last the whole game, but you'll probably replace one of them eventually.
 
