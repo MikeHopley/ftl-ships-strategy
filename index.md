@@ -248,6 +248,8 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still b
 
 ### Balance Mod
 
+Hacking costs 120, so it's a lot harder to pick up in a sector 1 store. You probably don't want to float that much scrap before upgrading shields. Nevertheless, visiting stores with at least 55 scrap is still useful.
+
 The Leto lets you sneak hacking past defence drones. Bear this in mind for the flagship.
 
 
