@@ -263,6 +263,8 @@ It might be tempting to get engines-3 before shields-2, since it's so much cheap
 
 With the Zoltan Shield and shields-2, you are reasonably safe. Consider delaying shields-3 and maybe shields-4, in the hope of finding a good weapon.
 
+You can use the Pike Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), although the timing is difficult.
+
 This ship is somewhat vulnerable to boarding. Start the engines Zoltan on doors (due to event boarding). Additional crew help, and the first gives one free power by replacing the pilot. If doors get boarded, you can vent them out and then reoccupy it. Consider pre-venting the three empty rooms to the right of doors (and then letting oxygen refill a bit).
 
 Don't forget that two Zoltans can completely ion-proof one shield layer, and can also "de-ionise" shields.
@@ -460,7 +462,7 @@ As on Stealth B, keeping oxygen below 50% decreases the chance of weapons/cloaki
 
 After that, save up for shields and weapons. If you see a great weapon, buy it before shields. Also consider buying temporary weapons, such as an Ion Blast.
 
-Once you have shields, upgrading them is not urgent (since you have cloak too). You can skip shields-3, which effectively does the same job as your weapons buffer. However, shields-4 is still a priority, and getting it early gives you more chance of training evade against the easier enemies in sector 2. Also remember you can use the Mini Beam as an Anti-bio Beam, increasing the value of shields-4.
+Once you have shields, upgrading them is not urgent (since you have cloak too). You can skip shields-3, which effectively does the same job as your weapons buffer. However, shields-4 is still a priority, and getting it early gives you more chance of training evade against the easier enemies in sector 2. Also remember you can use the Mini Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), increasing the value of shields-4.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still better than an unmarked beacon, but worse than a guaranteed fight.
 
@@ -524,11 +526,11 @@ I think weapons-3 provides more safety overall, because it protects you in every
 
 Don't underestimate the Shield+ Drone&thinsp;&mdash;&thinsp;it's actually quite good. Shields are clearly more important, but I'll try to hold onto the drone if I reasonably can.
 
-Typically buy shields next, and then look at improving offence or upgrading to shields-4. It's also reasonable to buy a weapon before shields, so consider doing this if you find something like a Flak 1. Also remember you can use the Mini Beam as an Anti-bio Beam, increasing the value of shields-4.
+Typically buy shields next, and then look at improving offence or upgrading to shields-4. It's also reasonable to buy a weapon before shields, so consider doing this if you find something like a Flak 1. Also remember you can use the Mini Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), increasing the value of shields-4.
 
 ### Balance Mod
 
-Shields now cost 120. Shield+ drone only needs 1 power, making the early drones upgrade unnecessary.
+Shields now cost 120. Shield+ drone only needs 1 power, so drones-3 doesn't do much.
 
 Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer.
 
