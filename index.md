@@ -518,7 +518,11 @@ As with Stealth A, your starting weapons are strong but slot-inefficient. They *
 
 As with Stealth B, keeping oxygen below 50% decreases the chance of weapons being hit. It's awkward on this layout, however; consider pre-venting then refilling slightly.
 
-Spend your first 20 scrap on drones-3, so you can run both drones at once. This improves survivability in the nastiest fights. Your main defence is those great weapons, so spend your next 25 scrap on a weapons buffer.
+There are two cheap upgrades that can make you safer: weapons-3 and drones-3. Drones-3 lets you run both drones, which helps in dangerous fights against combat/beam drones. Weapons-3 gives a damage buffer that makes you safer in every fight.
+
+I think weapons-3 provides more safety overall, because it protects you in every fight. Therefore spend your first 25 scrap on this. Drones-3 is still well worth buying, but maybe wait until you have shields&thinsp;&mdash;&thinsp;after all, you might sell the Shield+ Drone to afford shields.
+
+Don't underestimate the Shield+ Drone&thinsp;&mdash;&thinsp;it's actually quite good. Shields are clearly more important, but I'll try to hold onto the drone if I reasonably can.
 
 Typically buy shields next, and then look at improving offence or upgrading to shields-4. It's also reasonable to buy a weapon before shields, so consider doing this if you find something like a Flak 1. Also remember you can use the Mini Beam as an Anti-bio Beam, increasing the value of shields-4.
 
