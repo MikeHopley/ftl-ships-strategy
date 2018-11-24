@@ -377,7 +377,7 @@ The Breach Bomb can disable defence drones, letting you sneak hacking past them.
 
 Shields-3, shields-4, then look for a weapon. You don't need clone/medbay as urgently as you might think (prefer clone bay).
 
-Even without Reconstructive Teleport, you *can* skip clone/medbay entirely. This gives an extra system slot. However, it also means you'll have a harder time finding the systems you actually want (hacking!), because clone/medbay will always take up a slot in the store. On balance, I feel this approach is more fun than optimal.
+Even without Reconstructive Teleport, you *can* skip clone/medbay entirely. This gives an extra system slot. However, it also means you'll have a harder time finding the systems you actually want (hacking!), because clone/medbay will always take up a slot in the store. On balance, I feel it's better to pick up a medical system.
 
 Consider teleporter-2, so you can more safely board automated ships. Without it, you can still board if you destroy piloting with your Artemis first (guaranteeing the Healing Burst will hit).
 
