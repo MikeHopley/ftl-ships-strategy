@@ -524,9 +524,9 @@ As with Stealth B, keeping oxygen below 50% decreases the chance of weapons bein
 
 There are two cheap upgrades that can make you safer: weapons-3 and drones-3. Drones-3 lets you run both drones, which helps in dangerous fights against combat/beam drones. Weapons-3 gives a damage buffer that makes you safer in every fight.
 
-I think weapons-3 provides more safety overall, because it protects you in every fight. Therefore spend your first 25 scrap on this. Drones-3 is still well worth buying, but maybe wait until you have shields&thinsp;&mdash;&thinsp;after all, you might sell the Shield+ Drone to afford shields.
+I think weapons-3 provides more safety overall, because it protects you in every fight. Therefore spend your first 25 scrap on this. Drones-3 is still well worth buying, but maybe wait until you have shields&thinsp;&mdash;&thinsp;after all, you might sell one or both drones to afford shields.
 
-Don't underestimate the Shield+ Drone&thinsp;&mdash;&thinsp;it's actually quite good. Shields are clearly more important, but I'll try to hold onto the drone if I reasonably can.
+Don't underestimate the Shield+ Drone, however. Shields are clearly more important, but I'll try to hold onto the drone if I reasonably can.
 
 Typically buy shields next, and then look at improving offence or upgrading to shields-4. It's also reasonable to buy a weapon before shields, so consider doing this if you find something like a Flak 1. Also remember you can use the Mini Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), increasing the value of shields-4.
 
