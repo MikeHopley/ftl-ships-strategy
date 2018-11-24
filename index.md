@@ -293,9 +293,9 @@ Early reactor upgrades are expensive. Avoid buying more than you absolutely need
 
 Shields-3, shields-4, then look for a weapon. Don't forget weapons-2 is 40 scrap; buying this lets you use the Small Bomb and Basic Laser together. Mantis Pheromones is somewhat useful, but also fine to sell.
 
-When completely safe, destroy systems for surrender offers (as low as 2 hull).
-
 Small Bomb is a great boarding support weapon, and can also disable enemy weapons. Use it liberally in sector 1 to reduce risk.
+
+When completely safe, destroy systems for surrender offers (as low as 2 hull). Boarding with 3 crew can often disable clone/medbays without spending missiles.
 
 Consider upgrading teleporter somewhat early, as this lets you board automated ships.
 
