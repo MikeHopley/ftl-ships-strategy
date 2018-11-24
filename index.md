@@ -102,7 +102,7 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still b
 
 Treat it as a weaker Lanius A (no hacking) or Kestrel A (weaker weapons). Shields-3, shields-4, then look for a weapon. Dual Lasers are fantastic on a 4-slot ship; almost always keep them.
 
-Put the Lanius in piloting, as this part of the ship is awkward to vent. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled. It also gives the Lanius time to man doors before enemy boarders flee.
+Put the Lanius in piloting, as this part of the ship is awkward to vent, and it protects piloting from boarders. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled. It also gives the Lanius time to man doors before enemy boarders flee.
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
@@ -532,6 +532,8 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 ## Lanius A
 
 Shields-3, shields-4, then look for a weapon. Rushing shields gives you more chances for safe crew kills. Early mind control strengthens your crew-killing abilities. Remember you only have engines-1.
+
+Put one Lanius on piloting, to protect it from boarders and help with nearby venting. Put the other Lanius in engines: this makes it easier for them to help repair weapons without accidentally murdering their crewmate. It also lets you vent shields without moving crew, and the human is faster at running to doors or sensors.
 
 Despite slow weapons, you can still get the first shot by hacking enemy weapons. Use this liberally in sector 1 to reduce risk.
 
