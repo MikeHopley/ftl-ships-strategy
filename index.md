@@ -82,6 +82,10 @@ Conserve missiles, but do use the Artemis against threatening weapons. Keep the 
 
 With no special systems or crew, distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
+### Balance Mod
+
+The Artemis lets you sneak hacking past defence drones. Bear this in mind for the flagship.
+
 
 ## Kestrel B
 
@@ -198,6 +202,10 @@ Avoid spending scrap on the artillery beam, unless everything else is set.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
+### Balance Mod
+
+The Leto lets you sneak hacking past defence drones. Bear this in mind for the flagship.
+
 
 ## Federation C
 
@@ -237,6 +245,10 @@ Halberd trashes early enemies; start the beam in shields for maximum damage. Let
 Your first extra crew member is worth one free power, replacing the pilot. Don't forget that two Zoltans can completely ion-proof one shield layer, and can also "de-ionise" shields.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+
+### Balance Mod
+
+The Leto lets you sneak hacking past defence drones. Bear this in mind for the flagship.
 
 
 ## Zoltan B
@@ -285,6 +297,9 @@ Consider upgrading teleporter somewhat early, as this lets you board automated s
 
 Weapons and shields are awkward to vent. Consider pre-venting them, then letting oxygen refill a bit.
 
+### Balance Mod
+
+The Small Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
 
 ## Mantis B
 
@@ -328,6 +343,10 @@ Note that defence drones are awful on this ship, as shields and weapons are vuln
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
+### Balance Mod
+
+The Stun Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
+
 
 ## Slug A
 
@@ -345,6 +364,10 @@ Venting the front of the ship is awkward, so consider pre-venting and letting ox
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
+### Balance Mod
+
+The Breach Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
+
 
 ## Slug B
 
@@ -359,6 +382,8 @@ Precise boarding technique helps your bombs/missiles hit. Use the [Safety Dance]
 ### Balance Mod
 
 Slug Repair Gel sells for 20, Healing Burst for 12. Healing Burst charges quicker. Reconstructive Teleport costs 45.
+
+The Artemis lets you sneak hacking past defence drones. Bear this in mind for the flagship.
 
 
 ## Slug C
@@ -389,6 +414,8 @@ Explosive Replicator means you can keep using missiles a bit longer, especially 
 Alternative offence is still a priority, and possibly before upgrading shields.
 
 Rock Plating sells for 30, Hull Missile for 22, Explosive Replicator for 20. Teleporter costs 85.
+
+Keeping the Artemis lets you sneak hacking past defence drones. Bear this in mind for the flagship.
 
 
 ## Rock B
@@ -533,7 +560,7 @@ Emergency Respirators have little use, but do help you vent more aggressively. V
 
 ### Balance Mod
 
-Emergency Respirators sell for just 12 scrap, so you might want to keep them a bit longer.
+Emergency Respirators sell for just 12 scrap, so you might want to keep them a bit longer. Advanced Flak can distract defence drones, letting hacking sneak past.
 
 
 ## Crystal A
