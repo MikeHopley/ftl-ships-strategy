@@ -524,15 +524,15 @@ As with Stealth B, keeping oxygen below 50% decreases the chance of weapons bein
 
 Your strong weapons are your best defence, so spend your first 25 scrap on weapons-3 as a damage buffer.
 
-Drones-3 is also tempting, because it lets you run both drones together; this helps in fights against combat/beam drones. But it barely helps at all in other fights, whereas weapons-3 is always relevant. Weapons-3 is also an upgrade you are guaranteed to use later, whereas you might sell one or both drones to afford shields. So on balance, I'd rather buy weapons-3 and then save for a store.
+Drones-3 is also tempting, as it lets you run both drones together; this helps in fights against combat/beam drones. But it barely helps at all in other fights. Weapons-3 protects you in every fight and will definitely be used later&thinsp;&mdash;&thinsp;whereas you might sell one or both drones to afford shields! So on balance, I'd rather buy weapons-3 and then save for a store.
 
-Don't underestimate the Shield+ Drone, however. Shields are clearly more important, but I'll try to hold onto the drone if I reasonably can.
+Don't underestimate the Shield+ Drone, however. Shields are more important, but I'll try to hold onto the drone if I reasonably can.
 
 Typically buy shields next, and then look at improving offence or upgrading to shields-4. It's also reasonable to buy a weapon before shields, so consider doing this if you find something like a Flak 1. Also remember you can use the Mini Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), increasing the value of shields-4.
 
 ### Balance Mod
 
-Shields now cost 120. Shield+ drone only needs 1 power, so drones-3 doesn't do much.
+Shields now cost 120. Shield+ Drone sells for 20, and Anti-drone sells for 10. Shield+ only needs 1 power, so drones-3 doesn't do much.
 
 Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer.
 
