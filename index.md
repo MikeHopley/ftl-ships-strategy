@@ -34,7 +34,7 @@ For most ships and most runs:
 * Spend your next 30 scrap on shields-4
 * Then save up for a weapon, or other offence
 
-Shields-3 provides a damage buffer, so your shield will not go down from (say) a Leto. Bad luck if it's an Artemis instead, but at least you only have to repair one bar to get your shield back.
+Shields-3 provides a damage buffer, so your shield will not go down from (say) a Leto. Bad luck if it's an Artemis instead, but at least you get your shield back after repairing one bar.
 
 Most of the time, you can get away without this. But it only takes one nasty fight where you lose 20 hull to make you appreciate the value of shields-3.
 
