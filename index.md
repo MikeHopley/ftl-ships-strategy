@@ -228,7 +228,7 @@ Flak artillery is slightly buffed, but still bad. Emergency Respirators sell for
 
 ## Zoltan A
 
-The Zoltan Shield provides strong defence in most fights and the Halberd never misses, so consider delaying shield upgrades briefly. Look for hacking or good shield-breaking weapons.
+The Zoltan Shield provides strong defence in most fights, the Halberd never misses, and the Leto is a backup if your weapons get damaged. Therefore this ship has a very safe start. It's also important to find hacking or shield-breaking weapons before sector 3. For these reasons, delay shield upgrades enough so that you can visit sector 1 stores with 80 scrap. Shields-4 is the next priority.
 
 You start with only engines-1. Engines-2 and engines-3 are cheap and work well with the Zoltan Shield, but shields-4 is still better. Fit in engine upgrades later, when you can.
 
