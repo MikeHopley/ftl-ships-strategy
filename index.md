@@ -316,7 +316,7 @@ Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from 
 * If you don't find crew, buy a good weapon
 * Failing that, get engines-3 or piloting-2
 
-Precise venting helps against solar flares or fire-lighting weapons. Just before the fire starts, have no oxygen in the bottom-left corner, and switch off O2; but also close the doors.
+Precise venting helps against solar flares or fire-lighting weapons. Just before the fire starts, have no oxygen in the bottom-left corner, and switch off O2; but also close the doors. [Repairing O2 is possible](https://www.youtube.com/watch?v=J47ENy6-CAM&t=1m22s) even in a fully-vented ship, providing you have medbay-2: you'll need to run relays, and the timing is very tight.
 
 To board as soon as possible, have the pilot Mantis move to the teleporter during the FTL jump. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
