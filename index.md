@@ -102,7 +102,7 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still b
 
 Treat it as a weaker Lanius A (no hacking) or Kestrel A (weaker weapons). Shields-3, shields-4, then look for a weapon. Dual Lasers are fantastic on a 4-slot ship; almost always keep them.
 
-Put the Lanius in piloting, as this part of the ship is awkward to vent. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier to distract your Lanius if they get mind-controlled, and gives them time to man doors before enemy boarders flee.
+Put the Lanius in piloting, as this part of the ship is awkward to vent. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled. It also gives the Lanius time to man doors before enemy boarders flee.
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
