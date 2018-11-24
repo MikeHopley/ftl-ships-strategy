@@ -276,9 +276,9 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still b
 
 Zoltan Shield provides strong defence in most fights, so consider delaying shields-3 or even shields-4, in the hope of finding a good weapon. Power constraints also make shields-4 less immediately useful (although still very good).
 
-Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Sometimes it's even worth abandoning piloting for the extra power.
+Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Sometimes it's even worth abandoning piloting for the extra power. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this!
 
-My default crew positioning has one Zoltan in piloting, weapons, engines, and drones. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this! Picking up at least one more crew is very helpful, as you can move your Zoltan out of piloting.
+My default crew positioning has one Zoltan in piloting, weapons, engines, and drones. The Zoltan in drones gives some flexibility for quickly manning doors, but they also work fine elsewhere (such as weapons). Picking up at least one more crew is very helpful, as you can move your Zoltan out of piloting.
 
 The clone bay corner is vulnerable to event boarding; pre-vent it, then let some oxygen refill. When you need to vent really fast, consider venting through weapons too (6 airlocks rather than 4).
 
