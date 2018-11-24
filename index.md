@@ -452,7 +452,7 @@ Both starting weapons can distract defence drones, allowing hacking to slip thro
 
 ## Stealth A
 
-Time your volley precisely. It's often best to wait a moment before firing the Dual Lasers, so that the Mini Beam damages engines to increase the chance of the second laser hitting.
+Time your volley precisely. It's often best to wait a moment before firing the Dual Lasers, so that the Mini Beam damages engines to increase the chance of the second laser hitting. When possible, start firing the Dual Lasers before cloaking. The Mini Beam can hit four rooms on many ships.
 
 Your weapons are strong initially, but slot-inefficient. You'll probably replace one of them eventually, and it's difficult to choose which. If you're hacking shields, maybe keep the Mini Beam; otherwise, maybe keep the Dual Lasers.
 
@@ -516,7 +516,7 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 Put the Slug in piloting. I slightly prefer the Rock on weapons, because the central location offsets their slow movement and the human can man doors faster.
 
-As with Stealth A, your starting weapons are strong but slot-inefficient. They *can* last the whole game, but you'll probably replace one of them eventually.
+As with Stealth A, your starting weapons are strong but slot-inefficient. They *can* last the whole game, but you'll probably replace one of them eventually. The Mini Beam can hit four rooms on many ships.
 
 As with Stealth B, keeping oxygen below 50% decreases the chance of weapons being hit. It's awkward on this layout, however; consider pre-venting then refilling slightly.
 
