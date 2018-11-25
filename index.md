@@ -82,6 +82,8 @@ Conserve missiles, but do use the Artemis against threatening weapons. Keep the 
 
 With no special systems or crew, distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
+Consider running your pilot to doors during the FTL jump.
+
 ### Balance Mod
 
 The Artemis lets you sneak hacking past defence drones. Bear this in mind for the flagship.
@@ -93,7 +95,7 @@ The starting weapons can handle two-shield enemies, so get shields-3, shields-4,
 
 Ideally you want fast weapons to complement your remaining Basic Lasers. If you find only slow weapons, consider hacking or mind control instead, as this keeps your volley fast for longer.
 
-Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to "de-ionise" shields. Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward.
+Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to "de-ionise" shields. Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward. Consider running your pilot to doors during the FTL jump.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
@@ -102,7 +104,7 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still b
 
 Treat it as a weaker Lanius A (no hacking) or Kestrel A (weaker weapons). Shields-3, shields-4, then look for a weapon. Dual Lasers are fantastic on a 4-slot ship; almost always keep them.
 
-Put the Lanius on piloting, to protect it from boarders and help with nearby venting. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled. It also gives the Lanius time to man doors before enemy boarders flee.
+Put the Lanius on piloting, to protect it from boarders and help with nearby venting. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled. Run your Lanius pilot to doors during the FTL jump.
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
@@ -127,7 +129,7 @@ Avoid selling the Recharge Booster! It's a good economic augment that also makes
 
 ## Engi A
 
-Shields-3, shields-4, then look for a weapon.
+Shields-3, shields-4, then look for a weapon. Consider starting your engines Engi on doors.
 
 Early on, micromanage the drone to break a shield for your ion, which can then rapidly take down weapons. Against harmless ships, try ionising O2 for a crew kill (and this is a good reason for rushing shields-4).
 
@@ -173,6 +175,8 @@ This ship has a strong start, but must manage drone parts carefully. At each fig
 Try crew kills when safe: hack O2 then immediately destroy it.
 
 Don't forget the weirdly-placed airlock on the drones room! With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
+
+Consider running your pilot to doors during the FTL jump.
 
 ### Balance Mod
 
@@ -278,7 +282,7 @@ Zoltan Shield provides strong defence in most fights, so consider delaying shiel
 
 Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Sometimes it's even worth abandoning piloting for the extra power. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this!
 
-My default crew positioning has one Zoltan in piloting, weapons, engines, and drones. The Zoltan in drones gives some flexibility for quickly manning doors, but they also work fine elsewhere (such as weapons). Picking up at least one more crew is very helpful, as you can move your Zoltan out of piloting.
+Consider your crew positions carefully. I start one Zoltan in piloting, weapons, engines, and doors (for boarding defence). The Zoltan in doors runs first into drones, to position the Beam Drone, and then into weapons. Picking up at least one more crew is very helpful, as you can move your Zoltan out of piloting.
 
 The clone bay corner is vulnerable to event boarding; pre-vent it, then let some oxygen refill. When you need to vent really fast, consider venting through weapons too (6 airlocks rather than 4).
 
