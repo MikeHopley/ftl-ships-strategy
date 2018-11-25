@@ -309,7 +309,7 @@ The Small Bomb can disable defence drones, letting you sneak hacking past them. 
 
 On rare occasions, you are vulnerable in the early game, due to terrible firefighting and repairs. Although getting a weapon lets you fight Zoltan ships, the absolute priority is additional crew. Buying crew improves offence and (critically) repairs.
 
-Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from dangerous fights (e.g. solar flare + enemy with nasty weapons). However, it could stop you from buying crew. So on balance, my preferred strategy is:
+Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from dangerous fights (e.g. solar flare + enemy with nasty weapons). However, it could stop you buying crew. So on balance, my preferred strategy is:
 
 * Engines-2 immediately
 * Save scrap for buying crew (ideally an Engi)
