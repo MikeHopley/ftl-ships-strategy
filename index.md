@@ -196,7 +196,7 @@ Shields-3, shields-4, then look for a weapon. Leto is weak but worth keeping unl
 
 Defence drones are awful on this ship: shields and weapons are vulnerable.
 
-Put the Slug in piloting. Consider putting the Zoltan in weapons: they can "de-ionise" shields, and steal power from mind control or hacking, which are slotted nearby. On the other hand, cloaking slots next to engines.
+Put the Slug in piloting. Consider putting the Zoltan in weapons: they can "de-ionise" shields, and steal power from mind control or hacking, which are slotted nearby. On the other hand, cloaking slots next to engines. Consider starting the engines crew on doors.
 
 Avoid spending scrap on the artillery beam, unless everything else is set.
 
