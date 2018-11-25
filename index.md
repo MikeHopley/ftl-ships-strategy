@@ -176,7 +176,7 @@ Try crew kills when safe: hack O2 then immediately destroy it.
 
 Don't forget the weirdly-placed airlock on the drones room! With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
-Consider running your pilot to doors during the FTL jump.
+Run your pilot to doors during the FTL jump.
 
 ### Balance Mod
 
