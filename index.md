@@ -349,7 +349,7 @@ Stun Bomb and Lockdown Bomb are both reasonable boarding support weapons, but ov
 
 Mantis Pheromones is nice to have while you're still (mostly) boarding with two crew, but less relevant once your teleporter is full. Fine to keep or sell.
 
-[Defence drones are awful on this ship](https://imgur.com/a/lOT4r#NmDNKYU), as shields and weapons are vulnerable.
+[Defence drones are awful on this ship](https://i.imgur.com/QALokZf.jpg), as shields and weapons are vulnerable.
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
@@ -372,7 +372,7 @@ Start your second Slug on weapons. They can always walk to engines before enemie
 
 Venting the front of the ship is awkward, so consider pre-venting and letting oxygen refill a bit.
 
-[Defence drones work well on this ship](https://imgur.com/a/lOT4r#NmDNKYU), as all rooms are outside the blind spot.
+[Defence drones work well on this ship](https://i.imgur.com/IQpdpCr.jpg), as all rooms are outside the blind spot.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
