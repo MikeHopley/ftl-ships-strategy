@@ -472,6 +472,8 @@ Both starting weapons can distract defence drones, allowing hacking to slip thro
 
 ## Stealth A
 
+Plan your jumps carefully, to avoid being forced into asteroid fields and suns. Look for flexible routes, so you can skip these hazards without losing beacons. Asteroid fields are not as deadly as you might think, however, because the asteroid frequency is based on your shields system level.
+
 Time your volley precisely. It's often best to wait a moment before firing the Dual Lasers, so that the Mini Beam damages engines to increase the chance of the second laser hitting. When possible, start firing the Dual Lasers before cloaking. The Mini Beam can hit four rooms on many ships.
 
 Your weapons are strong initially, but slot-inefficient. You'll probably replace one of them eventually, and it's difficult to choose which. If you're hacking shields, maybe keep the Mini Beam; otherwise, maybe keep the Dual Lasers.
@@ -494,6 +496,8 @@ Auto-assaults (which have drones) cannot appear in sector 1, making nebula beaco
 
 
 ## Stealth B
+
+Plan your jumps carefully, to avoid being forced into asteroid fields and suns. Look for flexible routes, so you can skip these hazards without losing beacons. Asteroid fields are not as deadly as you might think, however, because the asteroid frequency is based on your shields system level.
 
 The ideal upgrade path is:
 
@@ -533,6 +537,8 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 
 ## Stealth C
+
+Plan your jumps carefully, to avoid being forced into asteroid fields and suns. Look for flexible routes, so you can avoid these hazards without losing beacons. Asteroid fields are not as deadly as you might think, however, because the asteroid frequency is based on your shields system level.
 
 Put the Slug in piloting. I slightly prefer the Rock on weapons, because the central location offsets their slow movement. The Human can start in doors, and quickly move to engines.
 
