@@ -189,7 +189,7 @@ Shields-3, shields-4, then look for a weapon. Teleporter is a reasonable fallbac
 
 Artillery is nice late-game if you have scrap to spare (particularly for the flagship), but too expensive to upgrade earlier.
 
-Since artillery uses a system slot, you can only pick two more systems. Note that defence drones work badly on this ship (weapons and drones are vulnerable).
+Since artillery uses a system slot, you can only pick two more systems. [Defence drones work badly on this ship](https://i.imgur.com/Y92J2ml.jpg) (weapons and drones are vulnerable).
 
 Your diverse crew makes distress beacons great. Put the Rock on piloting and the Mantis on weapons. Move the Engi to doors initially. Consider pre-venting the empty rooms on the right side, then letting them refill a bit.
 
@@ -198,7 +198,7 @@ Your diverse crew makes distress beacons great. Put the Rock on piloting and the
 
 Shields-3, shields-4, then look for a weapon. Leto is weak but worth keeping unless you need the slot for something else. Dual Lasers are fantastic on a 4-slot ship; almost always keep them.
 
-Defence drones are awful on this ship: shields and weapons are vulnerable.
+[Defence drones are awful on this ship](https://i.imgur.com/TpuD5BE.jpg): shields and weapons are vulnerable.
 
 Put the Slug in piloting. Consider putting the Zoltan in weapons: they can "de-ionise" shields, and steal power from mind control or hacking, which are slotted nearby. On the other hand, cloaking slots next to engines. Consider starting the engines crew on doors.
 
@@ -223,7 +223,7 @@ Mantis and Human are the strongest and safest boarding party (Zoltan bombing is 
 
 Emergency Respirators make automated ships much easier to board. Keep them until you need to sell them for something better, like a weapon.
 
-You can only buy one system, so buy hacking. Defence drones are bad on this ship (weapons, cloaking, and drones are vulnerable).
+You can only buy one system, so buy hacking. [Defence drones are bad on this ship](https://i.imgur.com/4kNq8jj.jpg) (weapons, cloaking, and drones are vulnerable).
 
 As usual, the artillery is too expensive to upgrade, unless you are late in the game with plenty of scrap.
 
@@ -275,6 +275,8 @@ Don't forget that two Zoltans can completely ion-proof one shield layer, and can
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
+[Defence drones work badly on this ship](https://i.imgur.com/hUidgrH.jpg) (weapons and drones are vulnerable).
+
 
 ## Zoltan C
 
@@ -324,7 +326,7 @@ Precise venting helps against solar flares or fire-lighting weapons. Just before
 
 To board as soon as possible, have the pilot Mantis move to the teleporter during the FTL jump. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
-Your defences are strong, but not quite as strong as they appear. The defence drone is unreliable at protecting shields and drones.
+Your defences are strong, but not quite as strong as they appear. The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg).
 
 Don't hesitate to spend drone parts when fights look dangerous. Your boarding drone is not just for automated ships. A rapid crew-kill can be your best defence.
 
@@ -347,7 +349,7 @@ Stun Bomb and Lockdown Bomb are both reasonable boarding support weapons, but ov
 
 Mantis Pheromones is nice to have while you're still (mostly) boarding with two crew, but less relevant once your teleporter is full. Fine to keep or sell.
 
-Note that defence drones are awful on this ship, as shields and weapons are vulnerable.
+[Defence drones are awful on this ship](https://imgur.com/a/lOT4r#NmDNKYU), as shields and weapons are vulnerable.
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
@@ -370,6 +372,8 @@ Start your second Slug on weapons. They can always walk to engines before enemie
 
 Venting the front of the ship is awkward, so consider pre-venting and letting oxygen refill a bit.
 
+[Defence drones work well on this ship](https://imgur.com/a/lOT4r#NmDNKYU), as all rooms are outside the blind spot.
+
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
 ### Balance Mod
@@ -388,6 +392,8 @@ Consider teleporter-2, so you can more safely board automated ships. Without it,
 Healing Burst and Slug Repair Gel are fine to keep or sell. Keep the Artemis, unless you need the slot for something more important or desperately need the scrap.
 
 Precise boarding technique helps your bombs/missiles hit. Use the [Safety Dance](https://www.youtube.com/watch?v=d0j4rFfmFDc) to pull the pilot away. When completely safe, destroy systems for surrender offers (as low as 2 hull).
+
+[Defence drones work badly on this ship](https://i.imgur.com/vOgB7mg.jpg), as weapons and clone/medbay are vulnerable.
 
 ### Balance Mod
 
@@ -408,6 +414,8 @@ Early-game tactics are slightly different depending on enemy crew count. Against
 
 When completely safe and with a guaranteed crew-kill, damage the hull for surrender offers (as low as 2 hull). The safest way to do this is mind-controlling the pilot (on ships with level 1 piloting).
 
+[Defence drones work well on this ship](https://i.imgur.com/bhrfCeE.jpg), as all rooms are outside the blind spot.
+
 
 ## Rock A
 
@@ -416,6 +424,8 @@ You urgently need non-missile offence. A teleporter is often best, since you alr
 The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades in the hope of hitting a good store.
 
 Use missiles as efficiently as possible, but do use them against threatening weapons. When enemy hull is not a multiple of 4, destroy piloting with the Artemis to guarantee the Hull Missile will hit. Accept missile-heavy surrenders. Sometimes it might not be worth fighting a Zoltan ship. As a last resort, buy missiles: it's better than being unable to win fights.
+
+[Defence drones work well on this ship](https://i.imgur.com/Hrmzp9N.jpg), as all rooms are outside the blind spot.
 
 ### Balance Mod
 
@@ -438,6 +448,8 @@ Heavy Pierce is good early on, but power-hungry and does not play well with beam
 
 Doors are much too expensive to buy. Note you don't get airlocks (although hull breaches can be used).
 
+[Defence drones work well on this ship](https://i.imgur.com/FUSYVNi.jpg), as all rooms are outside the blind spot.
+
 ### Balance Mod
 
 Doors are much cheaper (30), but still not worth it. Rock Plating sells for 30, Fire Bomb for 22, Teleporter costs 85.
@@ -450,6 +462,8 @@ You have a 2-point buffer for the Heavy Crystal. Consider delaying shield upgrad
 Weapons are good early on, but a little awkward to upgrade. In particular, Heavy Crystal doesn’t play well with beams. Although inaccurate against small rooms, Swarm Missiles can fire before almost any enemy weapon. Use them to reduce damage and risk, especially early on.
 
 Remember to use your Crystal tactically when defending against boarders! You have good boarding crew, so a teleporter is a good fallback plan if weapons are lacking.
+
+[Defence drones work well on this ship](https://i.imgur.com/xtqlP7k.jpg), as all rooms are outside the blind spot.
 
 ### Balance Mod
 
@@ -557,6 +571,8 @@ Double Lanius make a good boarding crew, so buying a teleporter is a solid fallb
 
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you're pretty safe doing this.
 
+[Defence drones work well on this ship](https://i.imgur.com/KaCw0ky.jpg), as all rooms are well outside the blind spot.
+
 ### Balance Mod
 
 Emergency Respirators sell for just 12 scrap, so you might want to keep them a bit longer.
@@ -573,6 +589,8 @@ With double Lanius boarders and mind control, it's also a strong boarding ship. 
 One sneaky tactic is to board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so your Lanius can now attack the system of your choice. This can be a good way to rapidly disable enemy weapons.
 
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you're pretty safe doing this.
+
+[Defence drones work well on this ship](https://i.imgur.com/orY9chJ.jpg), as all rooms are well outside the blind spot. But you only have one system slot, so probably buy hacking instead.
 
 ### Balance Mod
 
@@ -592,6 +610,8 @@ Bear in mind that Engi and Rebel sectors have a higher chance of defence drones.
 Sell Crystal Vengeance at the first store you visit.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+
+[Defence drones work badly on this ship](https://i.imgur.com/CEsuzYp.jpg), as weapons are vulnerable.
 
 ### Balance Mod
 
