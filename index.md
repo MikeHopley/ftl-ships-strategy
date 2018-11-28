@@ -472,7 +472,7 @@ Both starting weapons can distract defence drones, allowing hacking to slip thro
 
 ## Stealth A
 
-Plan your jumps carefully, to avoid being forced into asteroid fields and suns. Look for flexible routes, so you can skip these hazards without losing beacons. Asteroid fields are not as deadly as you might think, however, because the asteroid frequency is based on your shields system level.
+Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones. Look for flexible routes, so you can skip these hazards without losing beacons. Consider avoiding nebulas too, as they often contain auto-assaults (with drones).
 
 Time your volley precisely. It's often best to wait a moment before firing the Dual Lasers, so that the Mini Beam damages engines to increase the chance of the second laser hitting. When possible, start firing the Dual Lasers before cloaking. The Mini Beam can hit four rooms on many ships.
 
@@ -492,12 +492,12 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still b
 
 Shields cost 120, and Titanium System Casing sells for 25.
 
-Auto-assaults (which have drones) cannot appear in sector 1, making nebula beacons safer.
+Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer. This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout. Therefore suns are actually *safer* than other fights!
 
 
 ## Stealth B
 
-Plan your jumps carefully, to avoid being forced into asteroid fields and suns. Look for flexible routes, so you can skip these hazards without losing beacons. Asteroid fields are not as deadly as you might think, however, because the asteroid frequency is based on your shields system level.
+Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones (and pulsars can reset your Glaive). Look for flexible routes, so you can skip these hazards without losing beacons. Try to avoid nebulas too, as they often contain auto-assaults (with drones); plasma storms are especially risky, since you can only power the Glaive and a level-1 cloak (with no engines).
 
 The ideal upgrade path is:
 
@@ -525,7 +525,7 @@ Protect your weapons by checking where combat drones are aiming before you cloak
 
 Beam drones can drag across to an adjacent room. Beam 1 drones cannot drag across the "long side" of a room (their beam is shorter than 1 tile), but Beam 2 drones can.
 
-On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors and momentarily depower the Glaive Beam **just** before enemy weapons fire; this [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
+Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors and momentarily depower the Glaive Beam **just** before enemy weapons fire; this [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still better than an unmarked beacon, but maybe worse than a guaranteed fight.
 
@@ -533,12 +533,12 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still b
 
 Cloaking-3 costs 40, shields cost 120, and you start with Titanium System Casing which now sells for 25. But hacking costs 120!
 
-Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer.
+Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer (you might still want to avoid plasma storms). This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout. Therefore suns are actually *safer* than other fights!
 
 
 ## Stealth C
 
-Plan your jumps carefully, to avoid being forced into asteroid fields and suns. Look for flexible routes, so you can avoid these hazards without losing beacons. Asteroid fields are not as deadly as you might think, however, because the asteroid frequency is based on your shields system level.
+Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones. Look for flexible routes, so you can avoid these hazards without losing beacons. Consider avoiding nebulas too, as they often contain auto-assaults (with drones)&thinsp;&mdash;&thinsp;but plasma storms are worth trying, as you have a clone bay for the [incapacitated ships event](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships).
 
 Put the Slug in piloting. I slightly prefer the Rock on weapons, because the central location offsets their slow movement. The Human can start in doors, and quickly move to engines.
 
@@ -558,7 +558,7 @@ Typically buy shields next, and then look at improving offence or upgrading to s
 
 Shields now cost 120. Shield+ Drone sells for 25, and Anti-drone sells for 10. Shield+ only needs 1 power, so drones-3 doesn't do much.
 
-Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer.
+Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer. This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout. Therefore suns are actually *safer* than other fights!
 
 
 ## Lanius A
