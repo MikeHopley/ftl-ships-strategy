@@ -472,7 +472,7 @@ Both starting weapons can distract defence drones, allowing hacking to slip thro
 
 ## Stealth A
 
-Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones. Look for flexible routes, so you can skip these hazards without losing beacons. Consider avoiding nebulas too, as they often contain auto-assaults (with drones).
+Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones. Look for flexible routes, so you can skip these hazards without losing beacons. Consider avoiding nebulas too, as they often contain Auto-assaults (with drones).
 
 Time your volley precisely. It's often best to wait a moment before firing the Dual Lasers, so that the Mini Beam damages engines to increase the chance of the second laser hitting. When possible, start firing the Dual Lasers before cloaking. The Mini Beam can hit four rooms on many ships.
 
@@ -497,7 +497,7 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 ## Stealth B
 
-Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones (and pulsars can reset your Glaive). Look for flexible routes, so you can skip these hazards without losing beacons. Try to avoid nebulas too, as they often contain auto-assaults (with drones); plasma storms are especially risky, since you can only power the Glaive and a level-1 cloak (with no engines).
+Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones (and pulsars can reset your Glaive). Look for flexible routes, so you can skip these hazards without losing beacons. Try to avoid nebulas too, as they often contain Auto-assaults (with drones). Plasma storms are especially risky: you can only power the Glaive and a level-1 cloak, with no engines.
 
 The ideal upgrade path is:
 
@@ -538,7 +538,7 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 ## Stealth C
 
-Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones. Look for flexible routes, so you can avoid these hazards without losing beacons. Consider avoiding nebulas too, as they often contain auto-assaults (with drones)&thinsp;&mdash;&thinsp;but plasma storms are worth trying, as you have a clone bay for the [incapacitated ships event](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships).
+Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones. Look for flexible routes, so you can avoid these hazards without losing beacons. Consider avoiding nebulas too, as they often contain Auto-assaults (with drones)&thinsp;&mdash;&thinsp;but plasma storms are worth trying, as you have a clone bay for the [incapacitated ships event](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships).
 
 Put the Slug in piloting. I slightly prefer the Rock on weapons, because the central location offsets their slow movement. The Human can start in doors, and quickly move to engines.
 
