@@ -82,7 +82,7 @@ Conserve missiles, but do use the Artemis against threatening weapons. Keep the 
 
 With no special systems or crew, distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
-Consider running your pilot to doors during the FTL jump.
+Consider running your pilot to doors during the FTL jump. Just remember to send them back!
 
 ### Balance Mod
 
@@ -95,7 +95,7 @@ The starting weapons can handle two-shield enemies, so get shields-3, shields-4,
 
 Ideally you want fast weapons to complement your remaining Basic Lasers. If you find only slow weapons, consider hacking or mind control instead, as this keeps your volley fast for longer.
 
-Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to "de-ionise" shields. Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward. Consider running your pilot to doors during the FTL jump.
+Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to "de-ionise" shields. Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward. Consider running your pilot to doors during the FTL jump; just remember to send them back!
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
@@ -106,7 +106,7 @@ Treat it as a weaker Lanius A (no hacking) or Kestrel A (weaker weapons). Shield
 
 Typcially you'll wait a moment for the Ion Stunner to (nearly) reach shields, then fire the Dual Lasers at weapons. But against some enemy weapons, it's better to fire immediately. If all shots hit, the Dual Lasers will take down one weapon, and the ion will disable the second (even a two-power weapon).
 
-Put the Lanius on piloting, to protect it from boarders and help with nearby venting. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled. Run your Lanius pilot to doors during the FTL jump.
+Put the Lanius on piloting, to protect it from boarders and help with nearby venting. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled. Run your Lanius pilot to doors during the FTL jump; just remember to send them back!
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
@@ -140,6 +140,8 @@ Late-game the Ion Blast 2 needs help from another ion weapon to reliably take do
 Med-bot Dispersal is fine to keep or sell. Take particular note of the [unknown disease event](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony), which gives a high scrap reward and a weapon, provided you have both med-bots and medbay-2. This event occurs in Civilian, Pirate, Mantis, Rock, and Uncharted Nebula sectors (at a distress beacon).
 
 Medbay-2 is still not worth buying early, but consider it once you are stable&thinsp;&mdash;&thinsp;providing you kept the augment and are visiting a distress beacon in one of those sectors, especially later in the game.
+
+Start your engines crew on doors. Just remember to send them back!
 
 
 ## Engi B
@@ -178,7 +180,7 @@ Try crew kills when safe: hack O2 then immediately destroy it.
 
 Don't forget the weirdly-placed airlock on the drones room! With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
-Run your pilot to doors during the FTL jump.
+Start your engines crew on sensors, and run your pilot to doors during the FTL jump. Just remember to send them back!
 
 ### Balance Mod
 
@@ -202,7 +204,7 @@ Shields-3, shields-4, then look for a weapon. Leto is weak but worth keeping unl
 
 [Defence drones are awful on this ship](https://i.imgur.com/TpuD5BE.jpg): shields and weapons are vulnerable.
 
-Put the Slug in piloting. Consider putting the Zoltan in weapons: they can "de-ionise" shields, and steal power from mind control or hacking, which are slotted nearby. On the other hand, cloaking slots next to engines. Consider starting the engines crew on doors.
+Put the Slug in piloting. Consider putting the Zoltan in weapons: they can "de-ionise" shields, and steal power from mind control or hacking, which are slotted nearby. On the other hand, cloaking slots next to engines. Consider starting the engines crew on doors; just remember to send them back!
 
 Avoid spending scrap on the artillery beam, unless everything else is set.
 
@@ -296,20 +298,18 @@ Consider your crew positions carefully. I start one Zoltan in piloting, weapons,
 
 The clone bay corner is vulnerable to event boarding; pre-vent it, then let some oxygen refill. When you need to vent really fast, consider venting through weapons too (6 airlocks rather than 4).
 
-Charge Ion is the best ion weapon in the game. Adding another 2-power ion weapon will take down shields reliably for the whole game (even a 1-power ion will do, especially mid-game).
-
-Hacking somewhat overlaps with the ion cascade, but is still very strong.
+Charge Ion is the best ion weapon in the game. Adding another 2-power ion weapon will take down shields reliably for the whole game (even a 1-power ion will do, especially mid-game). Hacking somewhat overlaps with the ion cascade, but is still very strong.
 
 Early reactor upgrades are expensive. Avoid buying more than you absolutely need. You can get by with much less than you might think, for quite some time.
 
 
 ## Mantis A
 
-Shields-3, shields-4, then look for a weapon. Don't forget weapons-2 is 40 scrap; buying this lets you use the Small Bomb and Basic Laser together. Mantis Pheromones is somewhat useful, but also fine to sell.
-
-Small Bomb is a great boarding support weapon, and can also disable enemy weapons. Use it liberally in sector 1 to reduce risk.
+Shields-3, shields-4, then look for a weapon. Don't forget weapons-2 is 40 scrap; buying this lets you use the Small Bomb and Basic Laser together. Mantis Pheromones is somewhat useful, but also fine to sell. Small Bomb is a great boarding support weapon, and can also disable enemy weapons. Use it liberally in sector 1 to reduce risk.
 
 When completely safe, destroy systems for surrender offers (as low as 2 hull). Boarding with 3 crew can often disable clone/medbays without spending missiles.
+
+Start two Mantis in the teleporter. I like the third Mantis on piloting, as that's closer to the teleporter and makes the Engi more mobile. Start your fourth crew on weapons, then run to engines as needed.
 
 Consider upgrading teleporter somewhat early, as this lets you board automated ships.
 
@@ -376,9 +376,7 @@ Sometimes you can use the Breach Bomb for early skill-farming against automated 
 
 Dual Lasers are fantastic on a 4-slot ship; almost always keep them. Anti-bio Beam is good for crew-kills early on, but falls off later; don't be afraid to sell it in exchange for something more straightforward. Breach Bomb remains useful the whole game, but you may find something more potent instead.
 
-Start your second Slug on weapons. They can always walk to engines before enemies fire.
-
-Venting the front of the ship is awkward, so consider pre-venting and letting oxygen refill a bit.
+Start your second Slug on weapons, then move to engines as needed. Venting the front of the ship is awkward, so consider pre-venting and letting oxygen refill a bit.
 
 [Defence drones work well on this ship](https://i.imgur.com/IQpdpCr.jpg), as all rooms are outside the blind spot.
 
@@ -548,7 +546,7 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones. Look for flexible routes, so you can avoid these hazards without losing beacons. Consider avoiding nebulas too, as they often contain Auto-assaults (with drones)&thinsp;&mdash;&thinsp;but plasma storms are worth trying, as you have a clone bay for the [incapacitated ships event](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships).
 
-Put the Slug in piloting. I slightly prefer the Rock on weapons, because the central location offsets their slow movement. The Human can start in doors, and quickly move to engines.
+Put the Slug in piloting. I prefer the Rock on weapons, because the central location offsets their slow movement. The Human can start in doors, and quickly move to engines.
 
 As with Stealth A, your starting weapons are strong but slot-inefficient. They *can* last the whole game, but you'll probably replace one of them eventually. The Mini Beam can hit four rooms on many ships.
 
@@ -575,9 +573,7 @@ Shields-3, shields-4, then look for a weapon. Rushing shields gives you more cha
 
 Put one Lanius on piloting, to protect it from boarders and help with nearby venting. Put the other Lanius in engines: this makes it easier for them to help repair weapons without accidentally murdering their crewmate. It also lets you vent shields without moving crew, and the human is faster at running to doors or sensors.
 
-Despite slow weapons, you can still get the first shot by hacking enemy weapons. Use this liberally in sector 1 to reduce risk.
-
-Don't wait with the Ion Stunner: fire when ready, and the shield will still be down for the lasers.
+Despite slow weapons, you can still get the first shot by hacking enemy weapons. Use this liberally in sector 1 to reduce risk. Don't wait with the Ion Stunner: fire when ready, and the shield will still be down for the lasers.
 
 Ion Stunner can help with crew kills. For example: hack O2, destroy O2, then stun whoever repairs it. You can depower the Chain Laser after one shot to avoid damaging the hull (although this resets its charge time). Sometimes you can stun them in the shields room instead, as they walk towards O2.
 
