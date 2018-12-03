@@ -176,7 +176,7 @@ Shields-3, shields-4, then look for a weapon. Dual Lasers are great, but may eve
 
 This ship has a strong start, but must manage drone parts carefully. At each fight, consider whether to use your beam drone, hacking, both&thinsp;&mdash;&thinsp;or neither! Remember that preventing a damage cascade is more important than hoarding resources, and this is especially relevant while you only have 1 shield.
 
-Try crew kills when safe: hack O2 then immediately destroy it.
+Try crew kills when safe: hack O2 then immediately destroy it. Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
 Don't forget the weirdly-placed airlock on the drones room! With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
@@ -418,7 +418,7 @@ Chain Laser is slow, but you can still get the first shot by hacking enemy weapo
 
 Early-game tactics are slightly different depending on enemy crew count. Against two crew, mind control the pilot when you fire the Chain Laser. But against three crew, immediately mind control the weapons crew instead: this guarantees one point of system damage at 12.5 seconds.
 
-When completely safe and with a guaranteed crew-kill, damage the hull for surrender offers (as low as 2 hull). The safest way to do this is mind-controlling the pilot (on ships with level 1 piloting).
+When completely safe and with a guaranteed crew-kill, damage the hull for surrender offers (as low as 2 hull). The safest way to do this is mind-controlling the pilot (on ships with level 1 piloting). Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
 [Defence drones work well on this ship](https://i.imgur.com/bhrfCeE.jpg), as all rooms are outside the blind spot.
 
@@ -576,6 +576,8 @@ Put one Lanius on piloting, to protect it from boarders and help with nearby ven
 Despite slow weapons, you can still get the first shot by hacking enemy weapons. Use this liberally in sector 1 to reduce risk. Don't wait with the Ion Stunner: fire when ready, and the shield will still be down for the lasers.
 
 Ion Stunner can help with crew kills. For example: hack O2, destroy O2, then stun whoever repairs it. You can depower the Chain Laser after one shot to avoid damaging the hull (although this resets its charge time). Sometimes you can stun them in the shields room instead, as they walk towards O2.
+
+Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
 Double Lanius make a good boarding crew, so buying a teleporter is a solid fallback plan if weapons are thin (it also slots next to the clone bay).
 
