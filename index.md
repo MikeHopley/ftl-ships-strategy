@@ -184,7 +184,7 @@ Start your engines crew on sensors, and run your pilot to doors during the FTL j
 
 ### Balance Mod
 
-Defence Scrambler sells for 20. Try to keep it, so you can hack ships with defence drones (notably Phase 2).
+Defence Scrambler sells for 20. Try to keep it, so you can hack ships with defence drones (notably flagship phase 2).
 
 
 ## Federation A
@@ -363,7 +363,7 @@ With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consid
 
 ### Balance Mod
 
-The Stun Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
+The Stun Bomb can disable defence drones, letting you sneak hacking past them. But for the flagship phase 2, it's faster to board their drones system (the crew should already be dead).
 
 
 ## Slug A
