@@ -367,6 +367,8 @@ With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consid
 
 The Stun Bomb can disable defence drones, letting you sneak hacking past them. But for the flagship phase 2, it's faster to board their drones system (the crew should already be dead).
 
+Stun Bomb sells for 17, Lockdown Bomb for 12.
+
 
 ## Slug A
 
