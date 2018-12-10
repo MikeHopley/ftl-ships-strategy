@@ -80,7 +80,7 @@ The starting weapons can handle two-shield enemies, so get shields-3, shields-4,
 
 Conserve missiles, but do use the Artemis against threatening weapons. Keep the Artemis unless you need the slot or absolutely need the scrap. If you find no weapons but do get crew, consider buying a teleporter: the Artemis provides good boarding support.
 
-With no special systems or crew, distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual. With no special systems or crew, distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
 Consider running your pilot to doors during the FTL jump. Just remember to send them back!
 
@@ -93,7 +93,7 @@ The Artemis lets you sneak hacking past defence drones. Bear this in mind for th
 
 The starting weapons can handle two-shield enemies, so get shields-3, shields-4, then look for a weapon. Your Zoltan can power shields-3 against ion.
 
-Ideally you want fast weapons to complement your remaining Basic Lasers. If you find only slow weapons, consider hacking or mind control instead, as this keeps your volley fast for longer.
+Ideally you want fast weapons to complement your remaining Basic Lasers. If you find only slow weapons, consider hacking or mind control instead, as this keeps your volley fast for longer. You have three empty system slots to fill, so try to buy your first system a little early anyway.
 
 Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to "de-ionise" shields. Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward. Consider running your pilot to doors during the FTL jump; just remember to send them back!
 
@@ -109,6 +109,8 @@ Typcially you'll wait a moment for the Ion Stunner to (nearly) reach shields, th
 Put the Lanius on piloting, to protect it from boarders and help with nearby venting. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled. Run your Lanius pilot to doors during the FTL jump; just remember to send them back!
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
+
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual.
 
 ### Balance Mod
 
@@ -252,7 +254,7 @@ Halberd trashes early enemies; start the beam in shields for maximum damage. Let
 
 Your first extra crew member is worth one free power, replacing the pilot. Don't forget that two Zoltans can completely ion-proof one shield layer, and can also "de-ionise" shields.
 
-Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual. Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
 ### Balance Mod
 
@@ -281,7 +283,7 @@ Don't forget that two Zoltans can completely ion-proof one shield layer, and can
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
-[Defence drones work badly on this ship](https://i.imgur.com/hUidgrH.jpg) (weapons and drones are vulnerable).
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones work badly on this ship](https://i.imgur.com/hUidgrH.jpg) (weapons and drones are vulnerable).
 
 ### Balance Mod
 
@@ -370,15 +372,13 @@ The Stun Bomb can disable defence drones, letting you sneak hacking past them. B
 
 Shields-3, shields-4, then look for a weapon. Rushing shields gives you more opportunities for safe crew kills. Slug Repair Gel is fine to keep or sell (sells for 20 in Balance Mod).
 
-Start fights with Dual Lasers + Breach Bomb powered, then switch to Anti-bio Beam when enemies are not a threat. Use the bomb against threatening weapons.
-
-Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
+Start fights with Dual Lasers + Breach Bomb powered, then switch to Anti-bio Beam when enemies are not a threat. Use the bomb against threatening weapons. Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
 
 Dual Lasers are fantastic on a 4-slot ship; almost always keep them. Anti-bio Beam is good for crew-kills early on, but falls off later; don't be afraid to sell it in exchange for something more straightforward. Breach Bomb remains useful the whole game, but you may find something more potent instead.
 
 Start your second Slug on weapons, then move to engines as needed. Venting the front of the ship is awkward, so consider pre-venting and letting oxygen refill a bit.
 
-[Defence drones work well on this ship](https://i.imgur.com/IQpdpCr.jpg), as all rooms are outside the blind spot.
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones work well on this ship](https://i.imgur.com/IQpdpCr.jpg), as all rooms are outside the blind spot.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
@@ -431,7 +431,7 @@ The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades i
 
 Use missiles as efficiently as possible, but do use them against threatening weapons. When enemy hull is not a multiple of 4, destroy piloting with the Artemis to guarantee the Hull Missile will hit. Accept missile-heavy surrenders. Sometimes it might not be worth fighting a Zoltan ship. As a last resort, buy missiles: it's better than being unable to win fights.
 
-[Defence drones work well on this ship](https://i.imgur.com/Hrmzp9N.jpg), as all rooms are outside the blind spot.
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones work well on this ship](https://i.imgur.com/Hrmzp9N.jpg), as all rooms are outside the blind spot.
 
 ### Balance Mod
 
@@ -454,7 +454,7 @@ Heavy Pierce is good early on, but power-hungry and does not play well with beam
 
 Doors are much too expensive to buy. Note you don't get airlocks (although hull breaches can be used).
 
-[Defence drones work well on this ship](https://i.imgur.com/FUSYVNi.jpg), as all rooms are outside the blind spot.
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones work well on this ship](https://i.imgur.com/FUSYVNi.jpg), as all rooms are outside the blind spot.
 
 ### Balance Mod
 
@@ -469,7 +469,7 @@ Weapons are good early on, but a little awkward to upgrade. In particular, Heavy
 
 Remember to use your Crystal tactically when defending against boarders! You have good boarding crew, so a teleporter is a good fallback plan if weapons are lacking.
 
-[Defence drones work well on this ship](https://i.imgur.com/xtqlP7k.jpg), as all rooms are outside the blind spot.
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones work well on this ship](https://i.imgur.com/xtqlP7k.jpg), as all rooms are outside the blind spot.
 
 ### Balance Mod
 
@@ -623,7 +623,7 @@ Sell Crystal Vengeance at the first store you visit.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
-[Defence drones work badly on this ship](https://i.imgur.com/CEsuzYp.jpg), as weapons are vulnerable.
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones work badly on this ship](https://i.imgur.com/CEsuzYp.jpg), as weapons are vulnerable.
 
 ### Balance Mod
 
