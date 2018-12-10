@@ -399,7 +399,7 @@ Healing Burst and Slug Repair Gel are fine to keep or sell. Keep the Artemis, un
 
 Precise boarding technique helps your bombs/missiles hit. Use the [Safety Dance](https://www.youtube.com/watch?v=d0j4rFfmFDc) to pull the pilot away. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
-You can fight in the weapons room and hit it with a missile, dodging your crew out just in time. But it's difficult to time consistently, so never do this when your crew are low on health (the missile does 30 crew damage).
+You can fight in the weapons room and hit it with a missile, dodging your crew out just in time. But it's difficult to time consistently, so never do this when your crew are low on health (the Artemis does 30 crew damage).
 
 [Defence drones work badly on this ship](https://i.imgur.com/vOgB7mg.jpg), as weapons and clone/medbay are vulnerable.
 
