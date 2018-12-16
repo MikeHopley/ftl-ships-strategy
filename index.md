@@ -95,7 +95,7 @@ The starting weapons can handle two-shield enemies, so get shields-3, shields-4,
 
 Ideally you want fast weapons to complement your remaining Basic Lasers. If you find only slow weapons, consider hacking or mind control instead, as this keeps your volley fast for longer. You have three empty system slots to fill, so try to buy your first system a little early anyway.
 
-Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to "de-ionise" shields. Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward. Consider running your pilot to doors during the FTL jump; just remember to send them back!
+Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to "de-ionise" shields. Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
