@@ -133,7 +133,7 @@ Avoid selling the Recharge Booster! It's a good economic augment that also makes
 
 ## Engi A
 
-Shields-3, shields-4, then look for a weapon. Consider starting your engines Engi on doors.
+Shields-3, shields-4, then look for a weapon.
 
 Early on, micromanage the drone to break a shield for your ion, which can then rapidly take down weapons. Against harmless ships, try ionising O2 for a crew kill (and this is a good reason for rushing shields-4).
 
