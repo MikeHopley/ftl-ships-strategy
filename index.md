@@ -560,7 +560,7 @@ As with Stealth B, keeping oxygen below 50% decreases the chance of weapons bein
 
 Your strong weapons are your best defence, so spend your first 25 scrap on weapons-3 as a damage buffer.
 
-Drones-3 is also tempting, as it lets you run both drones together; this helps in fights against combat/beam drones. But it barely helps at all in other fights. Weapons-3 protects you in every fight and will definitely be used later&thinsp;&mdash;&thinsp;whereas you might sell one or both drones to afford shields! So on balance, I'd rather buy weapons-3 and then save for a store.
+Drones-3 is also tempting, as it gives your Shield Drone a damage buffer. It also lets you run both drones together, which helps in fights against combat/beam drones. But it helps much less in other fights. Weapons-3 protects you in every fight and will definitely be used later&thinsp;&mdash;&thinsp;whereas you might sell one or both drones to afford shields! So on balance, I'd rather buy weapons-3 and then save for a store.
 
 Don't underestimate the Shield+ Drone, however. Shields are more important, but I'll try to hold onto the drone if I reasonably can.
 
