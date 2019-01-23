@@ -558,13 +558,13 @@ As with Stealth A, your starting weapons are strong but slot-inefficient. They *
 
 As with Stealth B, keeping oxygen below 50% decreases the chance of weapons being hit. It's awkward on this layout, however; consider pre-venting then refilling slightly.
 
-Your strong weapons are your best defence, so spend your first 25 scrap on weapons-3 as a damage buffer.
+Your strong weapons are your best defence, so spend your first 25 scrap on weapons-3 as a damage buffer. Typically buy shields next, and then look at improving offence or upgrading to shields-4. It's also reasonable to buy a weapon before shields, so consider doing this if you find something like a Flak 1. Also remember you can use the Mini Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), increasing the value of shields-4.
 
-Drones-3 is also tempting, as it gives your Shield Drone a damage buffer. It also lets you run both drones together, which helps in fights against combat/beam drones. But it helps much less in other fights. Weapons-3 protects you in every fight and will definitely be used later&thinsp;&mdash;&thinsp;whereas you might sell one or both drones to afford shields! So on balance, I'd rather buy weapons-3 and then save for a store.
+Drones-3 is tempting, as it gives your Shield Drone a damage buffer. It also lets you run both drones together, which helps in fights against combat/beam drones. But it helps much less in other fights. Weapons-3 protects you in every fight and will definitely be used later&thinsp;&mdash;&thinsp;whereas you might sell one or both drones to afford shields! So on balance, I'd rather buy weapons-3 and then save for a store.
 
 Don't underestimate the Shield+ Drone, however. Shields are more important, but I'll try to hold onto the drone if I reasonably can.
 
-Typically buy shields next, and then look at improving offence or upgrading to shields-4. It's also reasonable to buy a weapon before shields, so consider doing this if you find something like a Flak 1. Also remember you can use the Mini Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), increasing the value of shields-4.
+
 
 ### Balance Mod
 
