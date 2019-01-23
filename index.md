@@ -552,6 +552,8 @@ Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and 
 
 Put the Slug in piloting. I prefer the Rock on weapons, because the central location offsets their slow movement. The Human can start in doors, and quickly move to engines.
 
+Use your Shield Drone precisely. In most fights it's best turned on immediately, but occasionally you should delay it. For example, when you have shields and the enemy has a Basic Laser and a Hermes Missile: wait 6 seconds before powering the drone, and you can block a lot of missiles. Sometimes you should reset the drone timer by momentarily removing power. For example, this makes you invulnerable against an unmanned Heavy Laser; without the drone micro, you will eventually take damage.
+
 As with Stealth A, your starting weapons are strong but slot-inefficient. They *can* last the whole game, but you'll probably replace one of them eventually. The Mini Beam can hit four rooms on many ships.
 
 As with Stealth B, keeping oxygen below 50% decreases the chance of weapons being hit. It's awkward on this layout, however; consider pre-venting then refilling slightly.
