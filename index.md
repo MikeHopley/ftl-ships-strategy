@@ -287,7 +287,7 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 ### Balance Mod
 
-Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer. This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout. Therefore suns may be *safer* than other fights!
+Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer. This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
 
 
 ## Zoltan C
@@ -502,7 +502,7 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still b
 
 Shields cost 120, and Titanium System Casing sells for 25.
 
-Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer. This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout. Therefore suns may be *safer* than other fights!
+Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer. This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
 
 
 ## Stealth B
@@ -543,8 +543,7 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still b
 
 Consider visiting an early store: selling Titanium System Casing gets you 25 scrap closer to cloaking-3 (which costs 40). Shields cost 120.
 
-Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer (you might still want to avoid plasma storms). This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout. Therefore suns may be *safer* than other fights!
-
+Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer (you might still want to avoid plasma storms). This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
 
 ## Stealth C
 
@@ -570,7 +569,7 @@ Don't underestimate the Shield+ Drone, however. Shields are more important, but 
 
 Shields now cost 120. Shield+ Drone sells for 25, and Anti-drone sells for 10. Shield+ only needs 1 power, so drones-3 doesn't do much.
 
-Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer. This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout. Therefore suns may be *safer* than other fights!
+Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer. This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
 
 
 ## Lanius A
