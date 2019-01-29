@@ -541,7 +541,7 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still b
 
 ### Balance Mod
 
-Cloaking-3 costs 40, shields cost 120, and you start with Titanium System Casing which now sells for 25. But hacking costs 120!
+Consider visiting an early store: selling Titanium System Casing gets you 25 scrap closer to cloaking-3 (which costs 40). Shields cost 120.
 
 Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer (you might still want to avoid plasma storms). This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout. Therefore suns may be *safer* than other fights!
 
