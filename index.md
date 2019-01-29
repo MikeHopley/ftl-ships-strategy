@@ -637,7 +637,7 @@ The Crystal weapons can distract defence drones, allowing hacking to slip throug
 
 ## Crystal B
 
-You cannot touch Zoltan ships initially, and can cripple but not kill automated ships. In the worst possible case, you could be forced into a Zoltan sector 2 where you'll have to run from many fights.
+You cannot touch Zoltan ships initially, and can cripple but not kill automated ships*. In the worst possible case, you could be forced into a Zoltan sector 2 where you'll have to run from many fights.
 
 Cloaking also provides good defence, so consider delaying shield upgrades in the hope of finding a weapon.
 
@@ -652,3 +652,5 @@ Consider pre-cloaking enemy weapons, if you think you can break them in time. Yo
 Board auto-ships with two Crystals to neutralise them while getting combat training. Even if your teleporter gets hit through cloak at the worst possible time, your remaining crew will still have time to repair it before the other two die (due to Crystals taking 50% suffocation damage and having 125 health).
 
 Sell Crystal Vengeance at the first store (sells for 20 in Balance Mod). You only have one system slot left, so get hacking.
+
+&hellip;and I lied again. It's [technically possible](https://www.reddit.com/r/ftlgame/comments/al3bil/safely_destroying_auto_ships_with_a_medbay_on_the/) to kill automated ships, with perfect timing. Make one tiny slip and you lose a Crystal though, so I don't think the risk is worth the reward. It's not like this ship needs the scrap.
