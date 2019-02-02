@@ -34,9 +34,7 @@ For most ships and most runs:
 * Spend your next 30 scrap on shields-4
 * Then save up for a weapon, or other offence
 
-Shields-3 provides a damage buffer, so your shield will not go down from (say) a Leto. Bad luck if it's an Artemis instead, but at least you get your shield back after repairing one bar.
-
-Most of the time, you can get away without this. But it only takes one nasty fight where you lose 20 hull to make you appreciate the value of shields-3.
+Shields-3 provides a damage buffer, so your shield will not go down from (say) a Leto. Bad luck if it's an Artemis instead, but at least your shield comes back sooner. Most of the time, you can get away without this; but it only takes one nasty fight where you lose 20 hull to make you appreciate the value of shields-3.
 
 Don't wait on power before buying shields-4. Having two shields makes you vastly safer in sectors 1 and 2: many enemies will be unable to hurt you at all.
 
@@ -57,7 +55,7 @@ In practice, I find I mostly just rush shields, except on specific ships and the
 
 ## Other strategies
 
-Engines-2 and engines-3 are also useful and cheap. Fit them in when you can, but do not allow engine upgrades to stop you upgrading shields or buying an important weapon. At 15 scrap, engines-3 competes with shields-3, and I think shields-3 is almost strictly better.
+Engines-2 and engines-3 are useful and cheap. Fit them in when you can, but do not allow engine upgrades to stop you upgrading shields or buying an important weapon. At 15 scrap, engines-3 competes with shields-3, and I think shields-3 is almost strictly better.
 
 Note that shields-4 is **much** better than early engine upgrades, because it also lets you farm crew skill against enemies that cannot hurt you. 10% free evade works out around 90 scrap value!
 
