@@ -263,8 +263,6 @@ The Leto lets you sneak hacking past defence drones. Bear this in mind for the f
 
 ## Zoltan B
 
-Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones. Look for flexible routes, so you can skip these hazards without losing beacons. Consider avoiding nebulas too, as they often contain Auto-assaults (with drones). With the Zoltan Shield and crew, you do have the advantage in plasma storms, however.
-
 The starting weapons can last you well into sector 4, after which the ion cascade becomes slow and unreliable. Adding more ion works, or you can abandon the ion cascade entirely. A single Ion Blast still removes one shield layer.
 
 Shields-2 costs a whopping 100 scrap. Before then, your Zoltan Shield will serve well in most encounters, but you are vulnerable against drones or asteroid fields. Therefore your first 100 scrap should be spent on shields, unless perhaps you find a top-tier weapon. In that case, consider selling one Ion Blast to get you closer to shields-2.
