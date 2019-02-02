@@ -263,9 +263,11 @@ The Leto lets you sneak hacking past defence drones. Bear this in mind for the f
 
 ## Zoltan B
 
+Consider avoiding nebula beacons, as they often have Auto-assaults (with drones).
+
 The starting weapons can last you well into sector 4, after which the ion cascade becomes slow and unreliable. Adding more ion works, or you can abandon the ion cascade entirely. A single Ion Blast still removes one shield layer.
 
-Shields-2 costs a whopping 100 scrap. Before then, your Zoltan Shield will serve well in most encounters, but you are vulnerable against drones or asteroid fields. Therefore your first 100 scrap should be spent on shields, unless perhaps you find a top-tier weapon. In that case, consider selling one Ion Blast to get you closer to shields-2.
+Shields-2 costs a whopping 100 scrap. Before then, your Zoltan Shield will serve well in most encounters, but you are vulnerable against asteroid fields or drones. Therefore your first 100 scrap should be spent on shields, unless perhaps you find a top-tier weapon. In that case, consider selling one Ion Blast to get you closer to shields-2.
 
 It might be tempting to get engines-3 before shields-2, since it's so much cheaper. But this doesn't help you that much in the really dangerous fights; delaying shields-2 even one jump could prove ruinous.
 
@@ -283,7 +285,7 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 ### Balance Mod
 
-Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer. This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
+Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer.
 
 
 ## Zoltan C
