@@ -263,7 +263,7 @@ The Leto lets you sneak hacking past defence drones. Bear this in mind for the f
 
 ## Zoltan B
 
-Consider avoiding nebula beacons, as they often have Auto-assaults (with drones). If you meet [the mercenary](https://ftl.fandom.com/wiki/The_Mercenary) early in sector 1, it might be worth paying for map data so that you can avoid asteroid fields.
+Consider avoiding nebula beacons, as they often have Auto-assaults (with drones). If you meet [the mercenary](https://ftl.fandom.com/wiki/The_Mercenary) early in sector 1, it might be worth paying for map data to avoid asteroid fields.
 
 The starting weapons can last you well into sector 4, after which the ion cascade becomes slow and unreliable. Adding more ion works, or you can abandon the ion cascade entirely. A single Ion Blast still removes one shield layer, or takes one weapon offline.
 
