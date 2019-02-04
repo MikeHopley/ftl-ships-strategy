@@ -265,15 +265,17 @@ The Leto lets you sneak hacking past defence drones. Bear this in mind for the f
 
 Consider avoiding nebula beacons, as they often have Auto-assaults (with drones).
 
-The starting weapons can last you well into sector 4, after which the ion cascade becomes slow and unreliable. Adding more ion works, or you can abandon the ion cascade entirely. A single Ion Blast still removes one shield layer.
+The starting weapons can last you well into sector 4, after which the ion cascade becomes slow and unreliable. Adding more ion works, or you can abandon the ion cascade entirely. A single Ion Blast still removes one shield layer, or takes one weapon offline.
+
+Use your weapons optimally against enemies with one shield. You can fire both ions immediately at weapons (or drones), and the Pike Beam will still do full damage before the shield comes up. You can even sneak the second volley of ions inside the shield: micromanage your ions so that both of them fire from the third weapon slot initially (giving a longer travel time), then bring them forwards for the second volley.
+
+When enemies have one shield and cannot harm you, try ionising O2 for a crew kill. It's theoretically possible to use the Pike Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), but the timing is painfully difficult.
 
 Shields-2 costs a whopping 100 scrap. Before then, your Zoltan Shield will serve well in most encounters, but you are vulnerable against asteroid fields or drones. Therefore your first 100 scrap should be spent on shields, unless perhaps you find a top-tier weapon. In that case, consider selling one Ion Blast to get you closer to shields-2.
 
 It might be tempting to get engines-3 before shields-2, since it's so much cheaper. But this doesn't help you that much in the really dangerous fights; delaying shields-2 even one jump could prove ruinous.
 
 With the Zoltan Shield and shields-2, you are reasonably safe. Consider delaying shields-3 and maybe shields-4, in the hope of finding a good weapon.
-
-You can use the Pike Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), although the timing is difficult.
 
 This ship is somewhat vulnerable to boarding. Start the engines Zoltan on doors (due to event boarding). Additional crew help, and the first gives one free power by replacing the pilot. If doors get boarded, you can vent them out and then reoccupy it. Consider pre-venting the three empty rooms to the right of doors (and then letting oxygen refill a bit).
 
