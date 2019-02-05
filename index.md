@@ -256,7 +256,7 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 ### Balance Mod
 
-Hacking costs 120, so it's a lot harder to pick up in a sector 1 store. You might not want to float that much scrap before upgrading shields. Nevertheless, visiting stores with at least 55 scrap is still useful.
+Hacking costs 120, so it's a lot harder to pick up in a sector 1 store. Nevertheless, visiting stores with at least 55 scrap is still useful, as this lets you buy almost any one- or two-power weapon. Burst Laser 2 is 90, Flak 1 is 75.
 
 The Leto lets you sneak hacking past defence drones. Bear this in mind for the flagship.
 
