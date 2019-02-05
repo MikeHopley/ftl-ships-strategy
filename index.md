@@ -267,7 +267,7 @@ Consider avoiding nebula beacons, as they often have Auto-assaults (with drones)
 
 The starting weapons can last you well into sector 4, after which the ion cascade becomes slow and unreliable. Adding more ion works, or you can abandon the ion cascade entirely. A single Ion Blast still removes one shield layer, or takes one weapon offline.
 
-Use your weapons optimally against enemies with one shield. You can fire both ions immediately at weapons (or drones), and the Pike Beam will still do full damage before the shield comes up. You can even sneak the second volley of ions inside the shield: micromanage your ions so that both of them fire from the third weapon slot initially (giving a longer travel time), then bring them forwards for the second volley.
+Use your weapons optimally against enemies with one shield. You can fire both ions immediately at weapons (or drones), and the Pike Beam will still do full damage before the shield comes up. On the second volley, you can usually sneak both ions inside the shield: micromanage them so both fire from the third weapon slot initially (giving a longer travel time), then bring them forwards for the second volley (be careful though: with a Zoltan in the room, weapons de-power as you move them!).
 
 When enemies have one shield and cannot harm you, try ionising O2 for a crew kill. It's theoretically possible to use the Pike Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), but the timing is painfully difficult.
 
