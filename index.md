@@ -452,17 +452,17 @@ Keeping the Artemis lets you sneak hacking past defence drones. Bear this in min
 
 Your offence is good initially, but terrible against two-shield enemies. You also have a weapons buffer for the Heavy Pierce. Consider delaying shield upgrades, in the hope of finding a good store.
 
-Other than just buying weapons, consider buying a teleporter for Rock fire-boarding shenanigans. Hacking and especially mind control also pair well with the Fire Bomb. Upgrading weapons early makes Fire Bomb usage more viable.
+Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons. The Fire Bomb can get some early crew kills, but only use it when you are safe. Avoid selling the Fire Bomb unless it gets you something important, as it can help you kill the flagship crew.
 
-Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons.
+Other than just buying weapons, consider a teleporter for Rock fire-boarding shenanigans. Hacking and especially mind control also pair well with the Fire Bomb. Upgrading weapons early makes Fire Bomb usage more viable, but could prevent you affording more reliable offence.
 
-Doors are much too expensive to buy. Note you don't get airlocks (although hull breaches can be used).
+Doors are much too expensive to buy. Note you don't get airlocks, although hull breaches can be used. You can Fire Bomb your own ship to help with boarding defence, but this is mostly not necessary. Mind control helps, especially against the flagship. Phase 3 boarders can be rough without venting, so you have extra incentive to kill the crew in phase 1; you can do this using the Fire Bomb on shields, together with mind control or hacking.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones work well on this ship](https://i.imgur.com/FUSYVNi.jpg), as all rooms are outside the blind spot.
 
 ### Balance Mod
 
-Doors are much cheaper (30), but still not worth it. Rock Plating sells for 30, Fire Bomb for 22, Teleporter costs 85.
+Doors are much cheaper (30), but still not worth it unless you're trying to improve your odds of finding other systems later. Rock Plating sells for 30, Fire Bomb for 22, Teleporter costs 85.
 
 
 ## Rock C
