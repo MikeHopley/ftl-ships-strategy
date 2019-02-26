@@ -649,7 +649,7 @@ Each lockdown lasts 12 seconds. Against enemies with two crew, two Crystals will
 
 Consider pre-cloaking enemy weapons, if you think you can break them in time. Your cloak resets immediately after killing the enemy crew; use this to dodge last-second missiles.
 
-Board auto-ships with two Crystals to neutralise them while getting combat training. Even if your teleporter gets hit through cloak at the worst possible time, your remaining crew will still have time to repair it before the other two die (due to Crystals taking 50% suffocation damage and having 125 health).
+Crystals can survive 37 seconds without air. Board auto-ships with two Crystals to neutralise them while getting combat training, but calculate enemy weapon timings to ensure you can repair the teleporter if it gets hit (12.5 seconds plus walking time). Beware breaches, which double repair time (25 seconds plus walking). In risky cases, consider pre-cloaking to guarantee 5 seconds delay of enemy weapons (in case cloaking is hit through cloak).
 
 Sell Crystal Vengeance at the first store (sells for 20 in Balance Mod). You only have one system slot left, so get hacking.
 
