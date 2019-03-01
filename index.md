@@ -514,7 +514,9 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 ## Stealth B
 
-Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones (and pulsars can reset your Glaive). Look for flexible routes, so you can skip these hazards without losing beacons. Try to avoid nebulas too, as they often contain Auto-assaults (with drones). Plasma storms are especially risky: you can only power the Glaive and a level-1 cloak, with no engines.
+Plan your jumps carefully, to avoid being forced into asteroid fields. Suns are also bad, since they have a higher chance of enemies with drones. Pulsars are awful: every 11&endash;18 seconds, your Glaive has a 23.4% chance to be taken offline for 15 seconds.
+
+Look for flexible routes, so you can skip these hazards without losing beacons. Try to avoid nebulas too, as they often contain Auto-assaults (with drones). Plasma storms are especially risky: you can only power the Glaive and a level-1 cloak, with no engines.
 
 The ideal upgrade path is:
 
