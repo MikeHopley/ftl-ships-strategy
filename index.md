@@ -298,7 +298,7 @@ Consider your crew positions carefully, and move them around as needed. I start 
 
 Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this! When the beam drone has started firing, cutting power will not interrupt its beam; you can micro that power to engines as a shot comes in.
 
-The clone bay is vulnerable to event boarding; pre-vent it, then let oxygen refill to 90%. This lets you vent the clone bay in 4 seconds using 4 airlocks (with O2 turned off). If you forget to do this, you can use all 6 airlocks (venting through weapons too).
+The clone bay is vulnerable to event boarding; pre-vent it, then let oxygen refill to 90%. This lets you vent the clone bay in 4 seconds using 4 airlocks. If you forget to do this, you can use all 6 airlocks (venting through weapons too). In both cases, you also need to turn off O2.
 
 Charge Ion is the best ion weapon in the game. Adding another 2-power ion weapon will take down shields reliably for the whole game (even a 1-power ion will do, especially mid-game). Hacking somewhat overlaps with the ion cascade, but is still very strong.
 
