@@ -296,13 +296,16 @@ Zoltan Shield provides strong defence in most fights, so consider delaying shiel
 
 Consider your crew positions carefully, and move them around as needed. I start two Zoltans in weapons, with the other two in engines and piloting. When fights drag on and your battery is about to run out, consider moving the pilot. Your first extra crew member gives one free power (replacing the pilot).
 
-Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this! When the beam drone has started firing, cutting power will not interrupt its beam; you can micro that power to engines as a shot comes in. Backup battery's cooldown resets when you jump.
+Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this! When the beam drone has started firing, cutting power will not interrupt its beam; you can micro that power to engines as a shot comes in.
 
 The clone bay is vulnerable to event boarding; pre-vent it, then let oxygen refill to 90%. This lets you vent the clone bay in 4 seconds using 4 airlocks. If you forget to do this, you can use all 6 airlocks (venting through weapons too). In both cases, you also need to turn off O2.
 
 Charge Ion is the best ion weapon in the game. Adding another 2-power ion weapon will take down shields reliably for the whole game (even a 1-power ion will do, especially mid-game). Hacking somewhat overlaps with the ion cascade, but is still very strong.
 
 Early reactor upgrades are expensive. Avoid buying more than you absolutely need. You can get by with much less than you might think, for quite some time.
+
+Backup battery's cooldown resets when you jump.
+
 
 
 ## Mantis A
