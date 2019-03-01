@@ -296,7 +296,7 @@ Zoltan Shield provides strong defence in most fights, so consider delaying shiel
 
 Consider your crew positions carefully, and move them around as needed. I start two Zoltans in weapons, with the other two in engines and piloting. When fights drag on and your battery is about to run out, consider moving the pilot. Your first extra crew member gives one free power (replacing the pilot).
 
-Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this! When the beam drone has started firing, cutting power will not interrupt its beam; you can micro that power to engines as a shot comes in.
+Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this! When the beam drone has started firing, cutting power will not interrupt its beam; you can micro that power to engines as a shot comes in. Backup battery's cooldown resets when you jump.
 
 The clone bay is vulnerable to event boarding; pre-vent it, then let oxygen refill to 90%. This lets you vent the clone bay in 4 seconds using 4 airlocks. If you forget to do this, you can use all 6 airlocks (venting through weapons too). In both cases, you also need to turn off O2.
 
@@ -363,6 +363,8 @@ Mantis Pheromones is nice to have while you're still (mostly) boarding with two 
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
+Hacking's cooldown resets when you jump.
+
 ### Balance Mod
 
 The Stun Bomb can disable defence drones, letting you sneak hacking past them. But for the flagship phase 2, it's faster to board their drones system (the crew should already be dead).
@@ -425,6 +427,8 @@ Early-game tactics are slightly different depending on enemy crew count. Against
 When completely safe and with a guaranteed crew-kill, damage the hull for surrender offers (as low as 2 hull). The safest way to do this is mind-controlling the pilot (on ships with level 1 piloting). Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
 [Defence drones work well on this ship](https://i.imgur.com/bhrfCeE.jpg), as all rooms are outside the blind spot.
+
+Hacking and mind control reset their cooldowns when you jump.
 
 
 ## Rock A
@@ -590,6 +594,8 @@ Emergency Respirators have little use, but do help you vent more aggressively. V
 
 [Defence drones work well on this ship](https://i.imgur.com/KaCw0ky.jpg), as all rooms are well outside the blind spot.
 
+Hacking's cooldown is reset when you jump.
+
 ### Balance Mod
 
 Emergency Respirators sell for just 12 scrap, so you might want to keep them a bit longer.
@@ -608,6 +614,8 @@ One sneaky tactic is to board shields, then mind control an enemy in the room. M
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you're pretty safe doing this.
 
 [Defence drones work well on this ship](https://i.imgur.com/orY9chJ.jpg), as all rooms are well outside the blind spot. But you only have one system slot, so probably buy hacking instead.
+
+Mind control's cooldown is reset when you jump (but teleporter's is not).
 
 ### Balance Mod
 
