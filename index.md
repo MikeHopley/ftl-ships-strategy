@@ -656,7 +656,7 @@ If you are without weapons in a Rebel sector or Uncharted Nebula, consider buyin
 
 Start fights with two Crystals in the teleporter, and have the pilot start walking there during the FTL jump. You can then decide whether to board with all three Crystals, or keep a pilot.
 
-Each lockdown lasts 12 seconds. Against enemies with two crew, two Crystals will break 3 weapons levels in ~19 seconds; three Crystals will break 8 weapons levels (!) in ~33 seconds (in a four-tile weapons room). L Hit lockdown **immediately** when boarding: this sometimes prevents enemy crew entering the room, even when they're on adjacent tiles (for example, this can affect Federation Scout engines crew).
+Each lockdown lasts 12 seconds. Against enemies with two crew, two Crystals will break 3 weapons levels in ~19 seconds; three Crystals will break 8 weapons levels (!) in ~33 seconds (in a four-tile weapons room). Hit lockdown **immediately** when boarding: this sometimes prevents enemy crew entering the room, even when they're on adjacent tiles (for example, this can affect Federation Scout engines crew).
 
 Consider pre-cloaking enemy weapons, if you think you can break them in time. Your cloak resets immediately after killing the enemy crew; use this to dodge last-second missiles.
 
