@@ -182,6 +182,8 @@ Don't forget the weirdly-placed airlock on the drones room! With a Lanius and cl
 
 Start your engines crew on sensors, and run your pilot to doors during the FTL jump. Just remember to send them back!
 
+Hacking's cooldown resets when you jump.
+
 ### Balance Mod
 
 Defence Scrambler sells for 20. Try to keep it, so you can hack ships with defence drones (notably flagship phase 2).
@@ -365,8 +367,6 @@ Mantis Pheromones is nice to have while you're still (mostly) boarding with two 
 [Defence drones are awful on this ship](https://i.imgur.com/QALokZf.jpg), as shields and weapons are vulnerable.
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
-
-Hacking's cooldown resets when you jump.
 
 ### Balance Mod
 
