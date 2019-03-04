@@ -148,7 +148,7 @@ Start your engines crew on doors. Just remember to send them back!
 
 You urgently need extra offence, since you **cannot** harm ships with two shields. On the other hand, your bad offence makes you vulnerable. A good compromise might be to rush shields-3, but consider delaying shields-4.
 
-Remember to use your Engi; you only have 10% dodge anyway. Have them walk towards weapons during the FTL jump. Aggressively venting the ship is not necessary, and can lead to problems, such as making it hard for your Engi to help with repairs.
+Remember to use your Engi for manning and repairs; you only have 10% dodge anyway. Walk them towards weapons during the FTL jump. Vent below 50% oxygen to reduce the chance of enemies targetting weapons. Your repair drones make this quite safe, but the layout is a little awkward. Rather than venting important rooms (like shields, weapons, or medbay), turn off O2 to get the oxygen a little lower.
 
 Try crew kills when safe (ion the O2)! This is one reason not to delay shields-4 too long.
 
