@@ -612,9 +612,9 @@ Shields-3, shields-4, then look for a weapon. Remember you only start with engin
 
 Advanced Flak is hands-down the best weapon in the game, so this easily becomes a monstrous gunship. Mind control helps your shots hit.
 
-With double Lanius boarders and mind control, it's also a strong boarding ship. Start both Lanius in the teleporter, and board whenever you reasonably can. Your Lanius can't use the medical airlock, so try to get them killed off when it's safe to do so (they can "dance" while nearly-dead enemy crew kill them). When completely safe, destroy systems for surrender offers (as low as 2 hull).
+With double Lanius boarders and mind control, it's also a strong boarding ship. Start both Lanius in the teleporter, and board whenever you reasonably can. Your Lanius can't use the medical airlock, so try to get them killed rather than leaving them low on health; they can "dance" while nearly-dead enemy crew kill them. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
-One sneaky tactic is to board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so your Lanius can now attack the system of your choice. This can be a good way to rapidly disable enemy weapons.
+Typically board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so enemies fight each other while your Lanius attack another system. When enemies have 3 crew, wait until all of them are fighting in the shields room before leaving it.
 
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you're pretty safe doing this.
 
