@@ -546,7 +546,7 @@ Beam drones can drag across to an adjacent room. Beam 1 drones cannot drag acros
 
 Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors and momentarily depower the Glaive Beam **just** before enemy weapons fire; this [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
 
-If your weapons *do* get hit, you are unlikely to win the fight. Running away is more important than repairing weapons, so prioritise repairs to piloting, engines, and cloaking. Jump to a known safe beacon if possible, which often means jumping backwards.
+If your weapons *do* get hit, you are unlikely to win the fight. Running away is more important than repairing weapons, so prioritise repairs to piloting, engines, and cloaking. Stealth B can run surprisingly fast because cloaking-2 buys time. Its effective minimum escape time is 28.3 seconds (realistically 30). Jump to a known safe beacon if possible, which often means jumping backwards.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still better than an unmarked beacon, but maybe worse than a guaranteed fight.
 
