@@ -163,11 +163,11 @@ Heal your AP drone between fights, even though it's tedious. [Park repair drones
 
 ### Balance Mod
 
-You start with piloting-3, so nebulae have a [chance of a free weapon or crew](http://ftl.wikia.com/wiki/Plasma_Storm_Incapacitated_Ships). Drone Reactor Booster is somewhat useful early on and provides solid comedy value. 
+You start with piloting-3, so nebulae have a [chance of a free weapon or crew](http://ftl.wikia.com/wiki/Plasma_Storm_Incapacitated_Ships). Drone Reactor Booster is somewhat useful early on and provides solid comedy value.
 
-Because your system repair drones move faster, you are slightly safer, making it more reasonable to delay shield upgrades. It's still probably safest to rush shields-3.
+System repair drones sell for 10 scrap each, AP drone for 12. DRB (25) and Heavy Ion (22) unchanged.
 
-Heavy Ion Stunner can self-stack with a fully-trained gunner, so finding weapons is *slightly* less urgent. It also makes crew kills a bit easier (stun crew repairing the O2).
+Because your system repair drones move faster, you are slightly safer, making it more reasonable to delay shield upgrades. It's still probably safest to rush shields-3. Heavy Ion Stunner can self-stack with a fully-trained gunner, so finding weapons is *slightly* less urgent. It also makes crew kills a bit easier (stun crew repairing the O2).
 
 
 ## Engi C
