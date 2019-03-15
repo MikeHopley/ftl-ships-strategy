@@ -298,9 +298,11 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 Zoltan Shield provides strong defence in most fights, so consider delaying shields-3 or even shields-4, in the hope of finding a good weapon. Power constraints also make shields-4 less immediately useful (although still very good).
 
-Consider your crew positions carefully, and move them around as needed. I start two Zoltans in weapons, with the other two in engines and piloting. When fights drag on and your battery is about to run out, consider moving the pilot. Your first extra crew member gives one free power (replacing the pilot).
-
 Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this! When the beam drone has started firing, cutting power will not interrupt its beam; you can micro that power to engines as a shot comes in.
+
+With that in mind, consider your crew positions carefully, and move them around as needed. You can start two Zoltans in weapons, with the other two in engines and piloting. This is simple and flexible. When fights drag on and your battery is about to run out, consider moving the pilot. Your first extra crew member gives one free power (replacing the pilot).
+
+For better defence in boarding events, you can start a Zoltan in doors (with the others in weapons, piloting, engines). This complicates optimal power micro and has little benefit in sector 1, since you are very unlikely to find a boarding event with a ship fight ([Encrypted Federation Signal](https://ftl.fandom.com/wiki/Encrypted_Federation_Signal), and then only 20% of the time).
 
 The clone bay is vulnerable to event boarding; pre-vent it, then let oxygen refill to 90%. This lets you vent the clone bay in 4 seconds using 4 airlocks. If you forget to do this, you can use all 6 airlocks (venting through weapons too). In both cases, you also need to turn off O2.
 
