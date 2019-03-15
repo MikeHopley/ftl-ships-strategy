@@ -154,7 +154,7 @@ Remember to use your Engi for manning and repairs; you only have 10% dodge anywa
 
 Try crew kills when safe (ion the O2)! This is one reason not to delay shields-4 too long.
 
-Drone Reactor Booster has little effect and can be sold immediately. Keep at least the AP drone and one repair drone, until you get more crew. Consider buying crew.
+Drone Reactor Booster has little effect and can be sold immediately. Consider buying crew; and until you get more crew, try to keep the AP drone and one repair drone. AP drone sells for 17, repair drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items (excluding Heavy Laser), so it's also reasonable to visit a store on your first jump.
 
 Note that enemy boarders will stay in an airless room, provided they are already fighting your "crew". Try to time your venting so that the AP drone arrives shortly before the air leaves.
 
@@ -167,7 +167,7 @@ Heal your AP drone between fights, even though it's tedious. [Park repair drones
 
 You start with piloting-3, so nebulae have a [chance of a free weapon or crew](http://ftl.wikia.com/wiki/Plasma_Storm_Incapacitated_Ships). Drone Reactor Booster is somewhat useful early on and provides solid comedy value.
 
-System repair drones sell for 10 scrap each, AP drone for 12. DRB (25) and Heavy Ion (22) unchanged.
+Selling all the drone stuff nets you 57 scrap, or 79 if you also sell the Heavy Ion Stunner (repair drones sell for 10 each, AP drone for 12).
 
 Because your system repair drones move faster, you are slightly safer, making it more reasonable to delay shield upgrades. It's still probably safest to rush shields-3. Heavy Ion Stunner can self-stack with a fully-trained gunner, so finding weapons is *slightly* less urgent. It also makes crew kills a bit easier (stun crew repairing the O2).
 
