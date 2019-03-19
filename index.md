@@ -112,21 +112,17 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 ### Balance Mod
 
-The ship has been remade to make it distinctive. It's probably slightly weaker, but much more interesting.
+The ship has been remade to make it distinctive. It's probably slightly weaker, but much more interesting. Buffed FTL Recharge Booster + engines-4 let you run **fast**. Piloting-2 also helps. You can reliably dive in sector 1, or even double-dive; ASBs will rarely hit before you can escape, and the Breach Bomb helps take the sting out of Rebel Elite weapons.
 
-Buffed FTL Recharge Booster + engines-4 means this ship can run **fast**. Piloting-2 also helps. You can reliably dive in sector 1, or even double-dive; ASBs will rarely hit before you can escape, and the Breach Bomb helps take the sting out of Rebel Elite weapons.
+Weapons are weak, but effective for crew kills. Destroying O2 and scoring breaches drains oxygen fast, and the Breach Bomb deals 30 crew damage. When the enemy has spare hull, try to get breaches from the Hull Laser instead (saving bombs). On the other hand, it's worth spending bombs on scary enemy weapons. Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
 
-Weapons are weak, but effective for crew kills. Destroying O2 and scoring breaches drains oxygen fast, and the Breach Bomb deals 30 crew damage. When the enemy has spare hull, try to get breaches from the Hull Laser instead (saving bombs). On the other hand, it's worth spending bombs on scary enemy weapons.
-
-Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
-
-Fast running means you can delay shields-3, and maybe even shields-4, in the hope of finding a good weapon. But remember shields-4 also helps you fish for more crew kills!
-
-Mind control is particularly good early on, as it complements your crew-killing play.
+Fast running means you can delay shields-3, and maybe even shields-4, in the hope of finding a good weapon. But remember shields-4 also helps you fish for more crew kills! Mind control is particularly good early on, as it complements your crew-killing play.
 
 Even though you have a Slug now, it's still probably better to leave the Lanius in piloting.
 
 Avoid selling the Recharge Booster! It's a good economic augment that also makes you safer. At 35 scrap it's often worth buying; you can think of it as "budget Long-Ranged Scanners".
+
+The Breach Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
 
 
 ## Engi A
@@ -152,7 +148,7 @@ If your weapons take one damage, you can still attack. Fire the ion then switch 
 
 Remember to use your Engi for manning and repairs; you only have 10% dodge anyway. Walk them towards weapons during the FTL jump. Consider venting below 50% oxygen to reduce the chance of enemies targeting weapons. Your repair drones make this quite safe, but the layout is a little awkward. Rather than venting important rooms (like shields, weapons, or medbay), turn off O2 to get the oxygen a little lower.
 
-Try crew kills when safe (ion the O2)! This is one reason not to delay shields-4 too long.
+Try crew kills when safe. Use the Heavy Laser as a shield-breaker, so you can ion O2. This is one reason not to delay shields-4 too long.
 
 Drone Reactor Booster has little effect and can be sold immediately. Consider buying crew; and until you get more crew, try to keep the AP drone and one repair drone. AP drone sells for 17, repair drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items (excluding Heavy Laser), so it's also reasonable to visit a store on your first jump.
 
@@ -452,9 +448,7 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 Explosive Replicator means you can keep using missiles a bit longer, especially if you accept missile-heavy surrenders. Buying missiles is also much less crippling (they effectively cost 2.5 scrap, instead of 6). Remember to buy them before you get too low&thinsp;&mdash;&thinsp;you don't start with many!
 
-Alternative offence is still a priority, and possibly before upgrading shields.
-
-Rock Plating sells for 30, Hull Missile for 22, Explosive Replicator for 20. Teleporter costs 85.
+Alternative offence is still a priority, and possibly before upgrading shields. Rock Plating sells for 30, Hull Missile for 22, Explosive Replicator for 20. Teleporter costs 85.
 
 Keeping the Artemis lets you sneak hacking past defence drones. Bear this in mind for the flagship.
 
