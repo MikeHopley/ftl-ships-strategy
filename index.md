@@ -536,7 +536,7 @@ However, bear in mind that buying shields significantly increases your chance to
 
 At intervals, consider buying a weapons buffer. Early on there are more important uses of scrap. However, if you pick up a two-power weapon, it may be worth buying the buffer while you wait.
 
-Usually start the Glaive in shields, for maximum damage. However, sometimes you're better off starting it in weapons, to prevent them from firing (for example, consider doing this against a manned Heavy Laser). With fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies (notably shieldless auto-scouts).
+Usually start the Glaive in shields, for maximum damage. However, sometimes you're better off starting it in weapons, to prevent them from firing (for example, consider doing this against a manned Heavy Laser).
 
 Protect your weapons by checking where combat drones are aiming before you cloak. Only cloak if they are about to hit weapons or cloaking. While all drones hit the exact centre of the target room, beam drones do not "line up" at the exact angle they will fire, making them harder to predict.
 
@@ -545,6 +545,8 @@ Beam drones can drag across to an adjacent room. Beam 1 drones cannot drag acros
 Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors and momentarily depower the Glaive Beam **just** before enemy weapons fire; this [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
 
 If your weapons *do* get hit, you are unlikely to win the fight. Running away is more important than repairing weapons, so prioritise repairs to piloting, engines, and cloaking. Stealth B can run surprisingly fast because cloaking buys time. Its effective minimum escape time is 28.3 seconds (realistically 30 or longer). Jump to a known safe beacon if possible, which often means jumping backwards.
+
+Later on, with fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies (notably shieldless auto-scouts).
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still better than an unmarked beacon, but maybe worse than a guaranteed fight.
 
