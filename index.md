@@ -202,11 +202,11 @@ Your diverse crew makes distress beacons great. Put the Rock on piloting and the
 
 Shields-3, shields-4, then look for a weapon. Leto is weak but worth keeping unless you need the slot for something else. Dual Lasers are fantastic on a 4-slot ship; almost always keep them.
 
-[Defence drones are awful on this ship](https://i.imgur.com/TpuD5BE.jpg): shields and weapons are vulnerable.
+[Defence drones are awful on this ship](https://i.imgur.com/TpuD5BE.jpg): shields and weapons are vulnerable. Avoid spending scrap on the artillery beam, unless everything else is set.
 
 Put the Slug in piloting. Consider putting the Zoltan in weapons: they can "de-ionise" shields, and steal power from mind control or hacking, which are slotted nearby. On the other hand, cloaking slots next to engines. Consider starting the engines crew on doors; just remember to send them back!
 
-Avoid spending scrap on the artillery beam, unless everything else is set.
+The layout is a little awkward, but you can still vent shields or weapons in under 3 seconds by using **all** airlocks and turning off O2.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
