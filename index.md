@@ -614,9 +614,13 @@ Shields-3, shields-4, then look for a weapon. Remember you only start with engin
 
 Advanced Flak is hands-down the best weapon in the game, so this easily becomes a monstrous gunship. Mind control helps your shots hit.
 
-With double Lanius boarders and mind control, it's also a strong boarding ship. Start both Lanius in the teleporter, and board whenever you reasonably can. Your Lanius can't use the medical airlock, so try to get them killed rather than leaving them low on health; they can "dance" while nearly-dead enemy crew kill them. When completely safe, destroy systems for surrender offers (as low as 2 hull).
+With double Lanius boarders and mind control, it's also a strong boarding ship. Start both Lanius in the teleporter. Typically board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so enemies fight each other while your Lanius attack another system.
 
-Typically board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so enemies fight each other while your Lanius attack another system. When enemies have 3 crew, wait until all of them are fighting in the shields room before leaving it.
+When completely safe, destroy systems for surrender offers (as low as 2 hull).
+
+Your Lanius can't use the medical airlock, so try to limit damage to them. When enemy weapons are no longer a threat, you can take your time and avoid fighting crew directly. Destroy O2, then walk your Lanius around the ship to drain oxygen from rooms (especially weapons). Once a room has no air, you can get free combat XP by punching down the system. You can also trick enemies into running through airless rooms.
+
+If your Lanius get low on health, try to kill them off. They can "dance" while nearly-dead enemy crew kill them; just be careful not to stay in one place too long, or you'll drain the room of oxygen. And of course, you can blow them up on automated ships.
 
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you're pretty safe doing this.
 
