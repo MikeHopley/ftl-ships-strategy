@@ -133,7 +133,7 @@ Early on, micromanage the drone to break a shield for your ion, which can then r
 
 Late-game the Ion Blast 2 needs help from another ion weapon to reliably take down shields. This leaves only one slot for a hull-damaging weapon. Some combinations work, but don't be afraid to ditch the ion in exchange for reliable damage-dealers.
 
-Med-bot Dispersal is fine to keep or sell. Take particular note of the [unknown disease event](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony), which gives a high scrap reward and a weapon, provided you have both med-bots and medbay-2. This event occurs in Civilian, Pirate, Mantis, Rock, and Uncharted Nebula sectors (at a distress beacon).
+Med-bot Dispersal is fine to keep or sell (definitely sell it for anything important). Take particular note of the [unknown disease event](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony), which gives a high scrap reward and a weapon, provided you have both med-bots and medbay-2. This event occurs in Civilian, Pirate, Mantis, Rock, and Uncharted Nebula sectors (at a distress beacon).
 
 Medbay-2 is still not worth buying early, but consider it once you are stable&thinsp;&mdash;&thinsp;providing you kept the augment and are visiting a distress beacon in one of those sectors, especially later in the game.
 
