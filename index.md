@@ -622,6 +622,8 @@ Your Lanius can't use the medical airlock, so try to limit damage to them. When 
 
 If your Lanius get low on health, try to kill them off. They can "dance" while nearly-dead enemy crew kill them; just be careful not to stay in one place too long, or you'll drain the room of oxygen. And of course, you can blow them up on automated ships.
 
+This is the only boarding ship that starts with a level 1 clone bay. In the mid-game, consider upgrading the clone bay to level 2; as well as providing some safety, it helps your Lanius stay healthy.
+
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you're pretty safe doing this.
 
 [Defence drones work well on this ship](https://i.imgur.com/orY9chJ.jpg), as all rooms are well outside the blind spot. But you only have one system slot, so probably buy hacking instead.
