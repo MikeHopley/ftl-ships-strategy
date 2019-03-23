@@ -626,7 +626,7 @@ This is the only boarding ship that starts with a level 1 clone bay. In the mid-
 
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you're pretty safe doing this.
 
-[Defence drones work well on this ship](https://i.imgur.com/orY9chJ.jpg), as all rooms are well outside the blind spot. But you only have one system slot, so probably buy hacking instead.
+[Defence drones work well on this ship](https://i.imgur.com/orY9chJ.jpg), as all rooms are well outside the blind spot. But you only have one system slot, so probably buy hacking or cloaking instead.
 
 Mind control's cooldown is reset when you jump (but teleporter's is not).
 
