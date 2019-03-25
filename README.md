@@ -5,6 +5,7 @@ https://mikehopley.github.io/ftl-ships-strategy/
 
 ## TODO:
 
+* Test whether drones require power to be smart-targeted (relevant to Engi B)
 * Check AI behaviour for Lanius B shield-boarding tactic. How many crew before you are opposed? How many stop you pulling the pilot?
 * (?) Add combat / beam drone DPS to Stealth B, to help estimate overall expected damage and deciding whether running is even possible.
 * (?) Rephrase defence drone efficacy, to make it sound less bad to buy.
