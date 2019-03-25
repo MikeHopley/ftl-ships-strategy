@@ -626,7 +626,7 @@ Emergency Respirators have little use, but do help you vent more aggressively. V
 
 [Defence drones work well on this ship](https://i.imgur.com/orY9chJ.jpg), as all rooms are well outside the blind spot. But you only have one system slot, so probably buy hacking or cloaking instead. Cloaking is particularly good, providing you have reasonable weapons&thinsp;&mdash;&thinsp;and Advanced Flak gives you a huge head-start on that.
 
-With cloaking, boarding, and mind control, it's easy to neutralise phase 1 and slowly kill off the crew. A single point of damage is enough to make the missiles harmless, and once damaged you can disrupt repairs with boarding and mind control. Consider upgrading mind control; level 3 mind control is incredibly disruptive. Also consider upgrading sensors, in case they get hacked (making mind control harder to use).
+With cloaking, boarding, and mind control, it's easy to neutralise phase 1 and slowly kill off the crew. A single point of damage is enough to make the missiles harmless, and once damaged you can disrupt repairs with boarding and mind control. Consider upgrading mind control; level 3 is incredibly disruptive. Also consider upgrading sensors, in case they get hacked (making mind control harder to use).
 
 Mind control's cooldown is reset when you jump (but teleporter's is not).
 
