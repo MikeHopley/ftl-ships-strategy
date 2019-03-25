@@ -612,23 +612,21 @@ Emergency Respirators sell for just 12 scrap, so you might want to keep them a b
 
 Shields-3, shields-4, then look for a weapon. Remember you only start with engines-1. Despite its strength, this ship has nothing special defensively at the start, so it's still possible to have rough encounters.
 
-Start both Lanius in the teleporter. Typically board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so enemies fight each other while your Lanius attack another system (such as weapons). This also pulls the pilot away, so your weapons have a better chance of hitting.
+Start both Lanius in the teleporter. Board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so enemies fight each other while your Lanius attack another system. This also pulls the pilot away, so your weapons have a better chance of hitting. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
 Your Lanius can't use the medical airlock, so try to limit damage to them. When enemy weapons are no longer a threat, you can take your time and avoid fighting crew directly. Destroy O2, then walk your Lanius around the ship to drain oxygen from rooms (especially weapons). Once a room has no air, you can get free combat XP by punching down the system. You can also trick enemies into running through airless rooms.
 
 You can use your teleporter to abduct mind-controlled crew, but in most cases this is just too slow to be useful. Sometimes this could help save your Lanius's health.
 
-When completely safe, destroy systems for surrender offers (as low as 2 hull).
+If your Lanius get low on health, try to kill them off. You can blow them up on automated ships. On crewed ships, they can "dance" while nearly-dead enemy crew kill them. Later on, consider upgrading the clone bay to level 2.
 
-If your Lanius get low on health, try to kill them off. They can "dance" while nearly-dead enemy crew kill them; just be careful not to stay in one place too long, or you'll drain the room of oxygen. And of course, you can blow them up on automated ships. In the mid-game, consider upgrading the clone bay to level 2; as well as providing some safety, it helps your Lanius stay healthy. This is the only boarding ship that starts with a level 1 clone bay.
-
-Also consider buying sensors (but not early on), as they let you use mind control more flexibly. Consider upgrading sensors to level 2 for the flagship, in case of a sensor hack. Sensors are not worth buying if you have a Slug or Lifeform Scanner.
+Consider buying sensors eventually, for using mind control more flexibly. Sensors are not worth buying if you have a Slug or Lifeform Scanner.
 
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you're pretty safe doing this.
 
 [Defence drones work well on this ship](https://i.imgur.com/orY9chJ.jpg), as all rooms are well outside the blind spot. But you only have one system slot, so probably buy hacking or cloaking instead. Cloaking is particularly good, providing you have reasonable weapons&thinsp;&mdash;&thinsp;and Advanced Flak gives you a huge head-start on that.
 
-With cloaking, boarding, and mind control, it's easy to neutralise phase 1 and slowly kill off the crew. A single point of damage is enough to make the missiles harmless, and once damaged you can disrupt repairs with boarding and mind control. Consider upgrading mind control; level 3 mind control is incredibly disruptive.
+With cloaking, boarding, and mind control, it's easy to neutralise phase 1 and slowly kill off the crew. A single point of damage is enough to make the missiles harmless, and once damaged you can disrupt repairs with boarding and mind control. Consider upgrading mind control; level 3 mind control is incredibly disruptive. Also consider upgrading sensors, in case they get hacked (making mind control harder to use).
 
 Mind control's cooldown is reset when you jump (but teleporter's is not).
 
