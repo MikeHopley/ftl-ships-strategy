@@ -271,9 +271,7 @@ Use your weapons optimally against enemies with one shield. You can fire both io
 
 When enemies have one shield and cannot harm you, try ionising O2 for a crew kill. It's theoretically possible to use the Pike Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), but the timing is painfully difficult.
 
-Shields-2 costs a whopping 100 scrap. Before then, your Zoltan Shield will serve well in most encounters, but you are vulnerable against asteroid fields, drones, and even suns. Therefore your first 100 scrap should be spent on shields. Your strong starting offence gives *plenty* of time to find weapons or hacking. *Just buy the damn shield. ;)*
-
-The one item possibly worth buying before shields-2 is Long-Ranged Scanners, which help you avoid asteroid fields and suns. Consider this if you're forced into a store. It might also be tempting to get engines-3 before shields-2, since it's so much cheaper. But this doesn't help you that much in the really dangerous fights; delaying shields-2 even one jump could prove ruinous.
+Shields-2 costs a whopping 100 scrap. Before then, your Zoltan Shield will serve well in most encounters, but you are vulnerable against asteroid fields, drones, and even suns. Therefore your first 100 scrap should be spent on shields. Your strong starting offence gives *plenty* of time to find weapons or hacking. It might be tempting to upgrade engines first, as they're so much cheaper. But this doesn't help you much in the really dangerous fights; delaying shields-2 even one jump could prove ruinous. *Just buy the damn shield. ;)*
 
 With the Zoltan Shield and shields-2, you are reasonably safe. Consider delaying shields-3 and maybe shields-4, in the hope of finding a good weapon.
 
