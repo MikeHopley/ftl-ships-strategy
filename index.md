@@ -326,18 +326,18 @@ The Small Bomb can disable defence drones, letting you sneak hacking past them. 
 
 ## Mantis B
 
-On rare occasions, you are vulnerable in the early game, due to terrible firefighting and repairs. Although getting a weapon lets you fight Zoltan ships, the absolute priority is additional crew. Buying crew improves offence and (critically) repairs.
+Occasionally you can get wrecked in the early game, due to terrible firefighting and repairs. Although getting a weapon lets you fight Zoltan ships, the absolute priority is additional crew. Buying crew improves offence and (critically) repairs.
 
 Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from dangerous fights (e.g. solar flare + enemy with nasty weapons). However, it could stop you buying crew. So on balance, my preferred strategy is:
 
 * Engines-2 immediately
 * Save scrap for buying crew (ideally an Engi)
 
-If you don't find crew, consider buying a weapon instead. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships. Also consider engines-3 or piloting-2, to help you run away from bad fights.
+If you don't find crew, consider buying a weapon instead. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
 Precise venting helps against solar flares or fire-lighting weapons. Just before the fire starts, have no oxygen in the bottom-left corner, and switch off O2; but also close the doors. [Repairing O2 is possible](https://www.youtube.com/watch?v=J47ENy6-CAM&t=1m22s) even in a fully-vented ship, providing you have medbay-2: you'll need to run relays, and the timing is very tight.
 
-To board as soon as possible, have the pilot Mantis move to the teleporter during the FTL jump. When completely safe, destroy systems for surrender offers (as low as 2 hull).
+Have the pilot Mantis move to the teleporter during the FTL jump, and start the other Mantis in sensors. This delays boarding by under 2 seconds, and in some trickier situations sensor information can stop you sending crew on a suicide mission. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
 Your defences are strong, but not quite as strong as they appear. The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg).
 
@@ -354,7 +354,7 @@ Piloting-2 is 25 scrap instead of 20, so I'd probably take engines-3 first.
 
 Shields-3, shields-4, then look for weapons. If you're still low on crew in the mid-game, buy some.
 
-Typically board with the Lanius and Mantis. Keep the teleporter full of oxygen, and have your Lanius walk into it during the FTL jump. When completely safe, destroy systems for surrender offers (as low as 2 hull).
+Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew (usually just two, Lanius and Mantis). When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
 The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. Remember that the Engi can board too. Boarding with 3 crew can often disable clone/medbays without spending missiles.
 
@@ -656,19 +656,19 @@ The Crystal weapons can distract defence drones, allowing hacking to slip throug
 
 ## Crystal B
 
-You cannot touch Zoltan ships initially, and can cripple but not kill automated ships. In the worst possible case, you could be forced into a Zoltan sector 2 where you'll have to run from many fights.
-
-Cloaking also provides good defence, so consider delaying shield upgrades in the hope of finding a weapon.
+You cannot touch Zoltan ships initially, and can cripple but not kill automated ships. In the worst possible case, you could be forced into a Zoltan sector 2 where you'll have to run from many fights. Cloaking also provides good defence, so consider delaying shield upgrades in the hope of finding a weapon.
 
 If you are without weapons in a Rebel sector or Uncharted Nebula, consider buying clone bay so you can kill automated ships. Same goes for Abandoned sectors (although an upgraded teleporter will work there, with careful play).
 
-Start fights with two Crystals in the teleporter, and have the pilot start walking there during the FTL jump. You can then decide whether to board with all three Crystals, or keep a pilot.
+Start fights with one Crystal in the teleporter, one in sensors, and have the pilot start walking there during the FTL jump. Manning sensors delays two-Crystal boarding by about 1 second, but can be relevant for deciding whether to board with all three Crystals or keep one back for piloting and repairs. In particularly awful situations, sensor information can stop you sending crew on a suicide mission.
 
-Each lockdown lasts 12 seconds. Hit lockdown **immediately** when boarding: this prevents enemy crew entering the room, even Mantis on adjacent tiles. When unopposed, two Crystals will break 3 weapons levels in ~19 seconds; three Crystals will break 8 weapons levels (!) in ~33 seconds (in a four-tile weapons room).
+Each lockdown lasts 12 seconds. Hitting lockdown **immediately** when boarding can prevent enemy crew entering the room, even when they are standing on an adjacent tile. When unopposed, two Crystals will break 3 weapons levels in ~19 seconds; three Crystals will break 8 weapons levels (!) in ~33 seconds (in a four-tile weapons room).
+
+Typically board weapons directly; but if they have crew manning the room, it may be better to board elsewhere and sneak back into weapons once it's empty (so you can break weapons without waiting to kill the enemy crew). Crew can walk straight through lockdown, provided they were already past the halfway point on the adjacent tile. Your Crystals can do this too: they will lockdown the room they're *currently* in, but still make it into the weapons room. When enemy crew are trying to break into a room, they will not stop to fight; use this to get free hits.
 
 Consider pre-cloaking enemy weapons, if you think you can break them in time. Your cloak resets immediately after killing the enemy crew; use this to dodge last-second missiles.
 
-Crystals can survive 37 seconds without air. Board auto-ships with two Crystals to neutralise them while getting combat training, but calculate enemy weapon timings to ensure you can repair the teleporter in time. Beware breaches, which double repair time to 25 seconds (plus walking time).
+Crystals can survive almost 39 seconds without air. Board auto-ships with two Crystals to neutralise them while getting combat training, but calculate enemy weapon timings to ensure you can repair the teleporter in time. Beware breaches, which double repair time to 25 seconds. It takes 6 seconds to walk from piloting.
 
 Sell Crystal Vengeance at the first store (sells for 20 in Balance Mod). You only have one system slot left, so get hacking.
 
