@@ -660,7 +660,7 @@ You cannot touch Zoltan ships initially, and can cripple but not kill automated 
 
 If you are without weapons in a Rebel sector or Uncharted Nebula, consider buying clone bay so you can kill automated ships. Same goes for Abandoned sectors (although an upgraded teleporter will work there, with careful play).
 
-Start fights with one Crystal in the teleporter, one in sensors, and have the pilot start walking there during the FTL jump. Manning sensors delays two-Crystal boarding by about 1 second, but can be relevant for deciding whether to board with all three Crystals or keep one back for piloting and repairs. In particularly awful situations, sensor information can stop you sending crew on a suicide mission.
+Start fights with one Crystal in the teleporter, and have the pilot start walking there during the FTL jump. Put the other Crystal in senors. Manning sensors delays two-Crystal boarding by about 1 second, but can be relevant for deciding whether to board with all three Crystals or keep one back for piloting and repairs. In particularly awful situations, sensor information can stop you sending crew on a suicide mission.
 
 Each lockdown lasts 12 seconds. Hitting lockdown **immediately** when boarding can prevent enemy crew entering the room, even when they are standing on an adjacent tile. When unopposed, two Crystals will break 3 weapons levels in ~19 seconds; three Crystals will break 8 weapons levels (!) in ~33 seconds (in a four-tile weapons room).
 
