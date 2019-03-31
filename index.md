@@ -534,7 +534,7 @@ However, bear in mind that buying shields significantly increases your chance to
 
 At intervals, consider buying a weapons buffer. Early on there are more important uses of scrap. However, if you pick up a two-power weapon, it may be worth buying the buffer while you wait.
 
-Usually start the Glaive in shields, for maximum damage. However, sometimes you're better off starting it in weapons, to prevent them from firing (for example, consider doing this against a manned Heavy Laser).
+Usually start the Glaive in shields, for maximum damage. Sometimes it's better to start in weapons or drones; for example, a manned Heavy Laser will fire before your Glaive finishes. But if this doesn't kill the ship, they may run away before your Glaive can fire again.
 
 Protect your weapons by checking where combat drones are aiming before you cloak. Only cloak if they are about to hit weapons or cloaking. While all drones hit the exact centre of the target room, beam drones do not "line up" at the exact angle they will fire, making them harder to predict.
 
