@@ -540,7 +540,9 @@ Protect your weapons by checking where combat drones are aiming before you cloak
 
 Beam drones can drag across to an adjacent room. Beam 1 drones cannot drag across the "long side" of a room (their beam is shorter than 1 tile), but Beam 2 drones can.
 
-Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors and momentarily depower the Glaive Beam **just** before enemy weapons fire; this [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit. It takes 2.5 seconds to run to sensors. In cases where exact timing might matter, consider walking your engines Zoltan around the ship for timing the sensors dash (for example, against a beam drone). Standard crew movement speed is 0.45 seconds per tile.
+Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors and momentarily depower the Glaive Beam **just** before enemy weapons fire; this [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
+
+It takes 2.5 seconds to run to sensors. In cases where exact timing might matter, consider walking your engines Zoltan around the ship for timing the sensors dash (for example, against a beam drone). Standard crew movement speed is 0.45 seconds per tile. When second volleys matter, you can use your cloak cooldown as a timer (0.42 seconds per ion pip).
 
 If your weapons *do* get hit, you are unlikely to win the fight. Running away is more important than repairing weapons, so prioritise repairs to piloting, engines, and cloaking. Stealth B can run surprisingly fast because cloaking buys time. Its effective minimum escape time is 28.3 seconds (realistically 30 or longer). Jump to a known safe beacon if possible, which often means jumping backwards.
 
