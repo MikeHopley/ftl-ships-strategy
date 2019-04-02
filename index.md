@@ -267,7 +267,7 @@ Consider avoiding nebula beacons, as they often have Auto-assaults (with drones)
 
 The starting weapons can last you well into sector 4, after which the ion cascade becomes slow and unreliable. Adding more ion works, or you can abandon the ion cascade entirely. A single Ion Blast still removes one shield layer, or takes one weapon offline.
 
-Use your weapons optimally against enemies with one shield. You can fire both ions immediately at weapons (or drones), and the Pike Beam will still do full damage before the shield comes up. On the second volley, you can sneak at least one ion inside the shield: micromanage them so both fire from the third weapon slot initially (giving a longer travel time), then bring them forwards for the second volley (be careful though: with a Zoltan in the room, weapons de-power as you move them!).
+Use your weapons optimally against enemies with one shield. You can fire both ions immediately at weapons (or drones), and the Pike Beam will still do full damage before the shield comes up. On the second volley, you can sneak at least one ion inside the shield: micromanage them so both fire from the third weapon slot initially (giving a longer travel time), then bring them forwards for the second volley (be careful though: with a Zoltan in the room, weapons depower as you move them!).
 
 When enemies have one shield and cannot harm you, try ionising O2 for a crew kill. It's theoretically possible to use the Pike Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), but the timing is painfully difficult.
 
@@ -540,7 +540,7 @@ Protect your weapons by checking where combat drones are aiming before you cloak
 
 Beam drones can drag across to an adjacent room. Beam 1 drones cannot drag across the "long side" of a room (their beam is shorter than 1 tile), but Beam 2 drones can.
 
-Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors to watch weapons charge. Depower your Glaive when the charge bar is full, but before weapons "turn green"; then re-power when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
+Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors to watch weapons charge. Depower your Glaive when the charge bar is full, but before weapons "turn green"; then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
 
 It takes 2.5 seconds to run to sensors. In cases where exact timing might matter, consider walking your engines Zoltan around the ship for timing the sensors dash (for example, against a beam drone). Standard crew movement speed is 0.45 seconds per tile. When second volleys matter, you can use your cloak cooldown as a timer (0.42 seconds per ion pip).
 
@@ -562,7 +562,7 @@ Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and 
 
 Put the Slug in piloting. I prefer the Rock on weapons, because the central location offsets their slow movement. The Human can start in doors, and quickly move to engines.
 
-Use your Shield Drone precisely. Activate it immediately in most fights, but sometimes delay it instead. For example, when you have shields and the enemy has a Basic Laser and a Hermes Missile: wait 6 seconds before powering the drone, and you can block a lot of missiles. You can also de-power the drone after a shield is hit, to reset the drone's internal timer. For example, this makes you invulnerable against a Heavy Laser.
+Use your Shield Drone precisely. Activate it immediately in most fights, but sometimes delay it instead. For example, when you have shields and the enemy has a Basic Laser and a Hermes Missile: wait 6 seconds before powering the drone, and you can block a lot of missiles. You can also depower the drone after a shield is hit, to reset the drone's internal timer. For example, this makes you invulnerable against a Heavy Laser.
 
 As with Stealth A, your starting weapons are strong but slot-inefficient. They *can* last the whole game, but you'll probably replace one of them eventually. The Mini Beam can hit four rooms on many ships.
 
