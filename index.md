@@ -402,6 +402,8 @@ Consider teleporter-2, so you can more safely board automated ships. Without it,
 
 Healing Burst and Slug Repair Gel are fine to keep or sell. Keep the Artemis, unless you need the slot for something more important or desperately need the scrap.
 
+Start fights with one Slug in the teleporter, one in weapons, and the pilot walking towards the teleporter during the FTL jump. This gives the most flexibility: you have the option of boarding immediately, and also charging your Artemis as fast as possible.
+
 Precise boarding technique helps your bombs/missiles hit. Use the [Safety Dance](https://www.youtube.com/watch?v=d0j4rFfmFDc) to pull the pilot away. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
 You can fight in the weapons room and hit it with a missile, dodging your crew out just in time. But it's difficult to time consistently, so never do this when your crew are low on health (the Artemis does 30 crew damage).
