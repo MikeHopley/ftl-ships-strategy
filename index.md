@@ -434,7 +434,9 @@ Hacking and mind control reset their cooldowns when you jump.
 
 ## Rock A
 
-You urgently need non-missile offence. A teleporter is often best, since you already have boarding crew and the Artemis. Failing that, get decent weapons.
+You urgently need non-missile offence. Ideally get good weapons, but you really need *two* weapons to make a reasonable loadout for sector 3, and that can be tricky without some luck. Nevertheless, a single non-missile weapon can at least reduce your missile usage, so consider damage-dealers like a Heavy Laser. Even an Ion Blast is good, as it's cheap and helps against Zoltan Shields.
+
+Seriously consider buying a teleporter. This fixes your missile dependency and gives you a reliable way to win fights for a long time, as the Artemis is a great boarding support weapon. Unfortunately that means boarding with painfully slow Rocks and leaving just a pilot at home. At least the teleporter slots right next to the medbay. When you get more crew (especially Mantis and Engi), it will be much more comfortable.
 
 The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades in the hope of hitting a good store.
 
