@@ -529,7 +529,9 @@ Spend your first 50 scrap on cloaking-3. This lets you kill most enemies before 
 
 The Glaive falls off hard against 2 shields, so get extra offence before sector 3, and this is more important than shields. Hacking is ideal; failing that, look for a 1-power weapon.
 
-However, bear in mind that buying shields significantly increases your chance to find hacking later. Therefore it's often worth buying shields when the store is not selling hacking! Also consider buying backup battery. If the next store is selling systems, its chance to sell hacking is *approximately*:
+2-power weapons are costly to get online with the Glaive: as well as buying the weapon, you need 165 scrap for weapons-6 and power. This can leave you vulnerable in sector 3 (and maybe even sector 4). Consider replacing the Glaive with another weapon that you can get online sooner; ideally still keep the Glaive for later, but sell it if necessary. For example, something like Flak 1 + Hull Laser 1 requires no upgrades and can last a long time.
+
+Buying shields significantly increases your chance to find hacking later, so generally buy them when the store isn't selling hacking. Also consider buying backup battery. If the next store is selling systems, its chance to sell hacking is *approximately*:
 
 * 33% if you bought no systems
 * 40% if you have backup battery
