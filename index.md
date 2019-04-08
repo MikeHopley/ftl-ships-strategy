@@ -468,7 +468,9 @@ Your offence is good initially, but terrible against two-shield enemies. You als
 
 Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons. The Fire Bomb can get some early crew kills, but only use it when you are safe. Avoid selling the Fire Bomb unless it gets you something important, as it can help you kill the flagship crew.
 
-Other than just buying weapons, consider a teleporter for Rock fire-boarding shenanigans. Hacking and especially mind control also pair well with the Fire Bomb. Upgrading weapons early makes Fire Bomb usage more viable, but could prevent you affording more reliable offence.
+By itself, the Fire Bomb is not that effective, except against Mantis. Enemies prioritise fighting fires, and can usually put them out efficiently. The bomb explosion does 30 crew damage, though. Typically it's only worth trying for crew kills when enemies have no medical system, and after softening them up with the Heavy Pierce (try to score a breach in O2). You can waste a **lot** of missiles trying for an unrealistic crew kill.
+
+It's tempting to upgrade weapons early, so you can use them together; but this doesn't improve your offence much. That scrap is better saved for buying a weapons, a system, or shields. Mind control or hacking makes the Fire Bomb much more effective. Also consider a teleporter for Rock fire-boarding shenanigans.
 
 Doors are much too expensive to buy. Note you don't get airlocks, although hull breaches can be used. You can Fire Bomb your own ship to help with boarding defence, but this is mostly not necessary. Mind control helps, especially against the flagship. Phase 3 boarders can be rough without venting, so you have extra incentive to kill the crew in phase 1; you can do this using the Fire Bomb on shields, together with mind control or hacking.
 
