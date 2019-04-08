@@ -121,7 +121,7 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 The ship has been remade to make it distinctive. It's probably slightly weaker, but much more interesting. Buffed FTL Recharge Booster + engines-4 let you run **fast**. Piloting-2 also helps. You can reliably dive in sector 1, or even double-dive; ASBs will rarely hit before you can escape, and the Breach Bomb helps take the sting out of Rebel Elite weapons.
 
-Weapons are weak, but effective for crew kills. Destroying O2 and scoring breaches drains oxygen fast, and the Breach Bomb deals 30 crew damage. When the enemy has spare hull, try to get breaches from the Hull Laser instead (saving bombs). On the other hand, it's worth spending bombs on scary enemy weapons. Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
+Weapons are weak, but effective for crew kills. Destroying O2 and scoring breaches drains oxygen fast, and the Breach Bomb deals 30 crew damage. Breaches attract a second crew once repaired, giving a chance to hurt two crew with one laser or bomb. When the enemy has spare hull, try to get breaches from the Hull Laser instead (saving bombs). On the other hand, it's worth spending bombs on scary enemy weapons. Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
 
 Fast running means you can delay shields-3, and maybe even shields-4, in the hope of finding a good weapon. But remember shields-4 also helps you fish for more crew kills! Mind control is particularly good early on, as it complements your crew-killing play.
 
@@ -384,7 +384,7 @@ Stun Bomb sells for 17, Lockdown Bomb for 12.
 
 Shields-3, shields-4, then look for a weapon. Rushing shields gives you more opportunities for safe crew kills. Slug Repair Gel is fine to keep or sell (sells for 20 in Balance Mod).
 
-Start fights with Dual Lasers + Breach Bomb powered, then switch to Anti-bio Beam when enemies are not a threat. Use the bomb against threatening weapons. Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
+Start fights with Dual Lasers and Breach Bomb powered, then switch to Anti-bio Beam when enemies are not a threat. Use the bomb against threatening weapons. The Breach Bomb can be an effective crew-killing weapon too (target O2); remember that breaches attract a second crew once repaired, giving a chance to double the damage from a laser or bomb. Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
 
 Dual Lasers are fantastic on a 4-slot ship; almost always keep them. Anti-bio Beam is good for crew-kills early on, but falls off later; don't be afraid to sell it in exchange for something more straightforward. Breach Bomb remains useful the whole game, but you may find something more potent instead.
 
@@ -468,7 +468,7 @@ Your offence is good initially, but terrible against two-shield enemies. You als
 
 Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons. The Fire Bomb can get some early crew kills, but only use it when you are safe. Avoid selling the Fire Bomb unless it gets you something important, as it can help you kill the flagship crew.
 
-By itself, the Fire Bomb is not that effective, except against Mantis. Enemies prioritise fighting fires, and can usually put them out efficiently. The bomb explosion does 30 crew damage, but that's a lot of missiles to kill crew directly. Soften them up with the Heavy Pierce first; either target crew directly, or maybe try for a breach in O2. Breaches attract a second crew once they're repaired, giving a chance to double your Fire Bomb damage. Beware enemies running away, however.
+By itself, the Fire Bomb is not that effective, except against Mantis. Enemies prioritise fighting fires, and can usually put them out efficiently. The bomb explosion does 30 crew damage, but that's a lot of missiles to kill crew directly. Soften them up with the Heavy Pierce first; either target crew directly, or maybe try for a breach in O2. Breaches attract a second crew once repaired, giving a chance to double your Fire Bomb damage. Beware enemies running away, however.
 
 It's tempting to upgrade weapons early, so you can use them together; but this doesn't improve your offence enough. That scrap is better saved for buying a weapon, a system, or shields. Mind control or hacking makes the Fire Bomb much more effective. Also consider a teleporter for Rock fire-boarding shenanigans.
 
