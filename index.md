@@ -468,7 +468,7 @@ Your offence is good initially, but terrible against two-shield enemies. You als
 
 Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons. The Fire Bomb can get some early crew kills, but only use it when you are safe. Avoid selling the Fire Bomb unless it gets you something important, as it can help you kill the flagship crew.
 
-By itself, the Fire Bomb is not that effective, except against Mantis. Enemies prioritise fighting fires, and can usually put them out efficiently. The bomb explosion does 30 crew damage, though. Typically it's only worth trying for crew kills when enemies have no medical system, and after softening them up with the Heavy Pierce (try to score a breach in O2). You can waste a **lot** of missiles trying for an unrealistic crew kill, and even softening up enemies with the Heavy Pierce can be risky: your offence is slow, so they might run away.
+By itself, the Fire Bomb is not that effective, except against Mantis. Enemies prioritise fighting fires, and can usually put them out efficiently. Typically crew kills require you to soften up enemies with the Heavy Pierce (try for a breach in O2) and follow up with Fire Bombs; the bomb explosion does 30 crew damage. You can waste a **lot** of missiles trying for an unrealistic crew kill, and enemies can run away too. Take crew kills opportunistically, just be realistic about it.
 
 It's tempting to upgrade weapons early, so you can use them together; but this doesn't improve your offence enough. That scrap is better saved for buying a weapon, a system, or shields. Mind control or hacking makes the Fire Bomb much more effective. Also consider a teleporter for Rock fire-boarding shenanigans.
 
