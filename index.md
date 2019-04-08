@@ -4,7 +4,7 @@ I made these notes during my second and third win-streaks, mostly to help me rem
 
 I've included small optimisations that are unlikely to make a difference in most cases. These advanced tactics often come with a price: they can be tedious to perform, and getting them wrong might make things worse.
 
-For example, on some ships I think it's optimal to run your pilot to doors during the FTL jump, for boarding defence...but it's **really** easy to forget you did this! Or on the Zoltan B, there is a fiddly tactic to optimise your weapon usage against enemies that have a shield buffer...but messing it up will depower your weapons!
+For example, on some ships I think it's optimal to run your pilot to doors during the FTL jump, for boarding defence...but it's **really** easy to forget you did this! Or on the Zoltan B, there is a fiddly tactic to optimise your weapon usage against certain enemies...but messing it up will depower your weapons!
 
 I've included these tactics because I *think* they are optimal. But with such small optimisations, it can be hard to judge. You might decide some tactics are incorrect, or too error-prone, or just too tedious to bother with.
 
