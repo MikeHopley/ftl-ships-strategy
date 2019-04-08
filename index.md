@@ -6,7 +6,7 @@ I've included small optimisations that are unlikely to make a difference in most
 
 For example, on some ships I think it's optimal to run your pilot to doors during the FTL jump, for boarding defence...but it's **really** easy to forget you did this! Or on the Zoltan B, there is a fiddly tactic to optimise your weapon usage against enemies that have a shield buffer...but messing it up will depower your weapons!
 
-I've included these tactics because I *think* they are optimal. I'm not necessarily right about everything, however! With such small optimisations, it can be hard to judge. You might decide some tactics are incorrect, or too error-prone, or just too tedious to bother with.
+I've included these tactics because I *think* they are optimal. But with such small optimisations, it can be hard to judge. You might decide some tactics are incorrect, or too error-prone, or just too tedious to bother with.
 
 # Context
 
