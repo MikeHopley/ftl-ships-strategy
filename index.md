@@ -30,7 +30,7 @@ For most ships and most runs:
 
 Shields-3 provides a damage buffer, so your shield will not go down from (say) a Leto. Bad luck if it's an Artemis instead, but at least your shield comes back sooner. Most of the time, you can get away without this; but it only takes one nasty fight where you lose 20 hull to make you appreciate the value of shields-3.
 
-Don't wait on power before buying shields-4. Having two shields makes you vastly safer in sectors 1 and 2: many enemies will be unable to hurt you at all.
+Don't wait on power before buying shields-4. Having two shields makes you vastly safer in sectors 1 and 2: many enemies will be unable to hurt you at all. Power can come much later; save for a weapon first.
 
 This strategy has a downside: it may prevent you from buying something useful in a sector 1 store, such as a great weapon. Sector 2 could have an awful layout that prevents you from finding any stores; or you might visit two stores and find only crew and augments. This is unlikely but possible.
 
@@ -41,11 +41,17 @@ For that reason, there can be some benefit in delaying your shield upgrades slig
 
 You can also choose how long you delay them. You could delay just a few jumps, because you are circling around a store in the middle of the sector. Or you could be very greedy, and delay them until you reach a store at the end of sector 1 or even the beginning of sector 2.
 
-In my view, it's not worth delaying shields more than a few jumps, and even then only in favourable circumstances. In many cases it would be best not to delay shields at all.
+In my view, it's usually not worth delaying shields more than a few jumps, and even then only in favourable circumstances. In many cases it would be best not to delay shields at all.
 
-The balance of risk varies by the ship. Some ships have safer starts than others, and in particular a few have less need for shields-3. Some ships are more desperate for additional offence: compare Engi B to Crystal A. Some ships have more stuff to sell at a store.
+The balance of risk varies by the ship. Some ships have safer starts than others, and in particular a few have less need for shields-3. 
+Some ships are more desperate for additional offence: compare Engi B to Crystal A. Some ships have more stuff to sell at a store.
 
-In practice, I find I mostly just rush shields, except on specific ships and then only when there is a well-placed store. Even then, I might visit the store and buy nothing. But sometimes the stars align, and I buy a Flak 1 before shields-4 or maybe even shields-3.
+With some ships it's clear-cut, with others it's harder to be certain. As an overview, here's what I currently think:
+
+* 15 ships should immediately buy shields-3 then shields-4, no matter what
+* 7 ships should **consider** delaying shield upgrades
+* 1 ship should **definitely** delay shield upgrades (Zoltan A)
+* 5 ships work differently (Stealth Cruisers, Zoltan B, Mantis B)
 
 ## Other strategies
 
@@ -251,7 +257,7 @@ Flak artillery is slightly buffed, but still bad. Emergency Respirators sell for
 
 ## Zoltan A
 
-The Zoltan Shield provides strong defence in most fights, the Halberd never misses, and the Leto is a backup if your weapons get damaged. Therefore this ship has a very safe start. It's also important to find hacking or shield-breaking weapons before sector 3. For these reasons, delay shield upgrades enough so that you can visit sector 1 stores with 80 scrap. Shields-4 is the next priority.
+The Zoltan Shield provides strong defence in most fights, the Halberd never misses, and the Leto is a backup if your weapons get damaged. Therefore this ship has a very safe start. It's also important to find hacking or shield-breaking weapons before sector 3. **Delay shield upgrades** enough to visit any store with 80 scrap (including sector 1 stores). Shields-4 is the next priority.
 
 You start with only engines-1. Engines-2 and engines-3 are cheap and work well with the Zoltan Shield, but shields-4 is still better. Fit in engine upgrades later, when you can.
 
@@ -263,7 +269,7 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 ### Balance Mod
 
-Hacking costs 120, so it's a lot harder to pick up in a sector 1 store. Nevertheless, visiting stores with at least 55 scrap is still useful, as this lets you buy almost any one- or two-power weapon. Burst Laser 2 is 90, Flak 1 is 75.
+Hacking costs 120, so it's harder to pick up in sector 1. Nevertheless, visiting stores with at least 55 scrap is still useful, as this lets you buy almost any one- or two-power weapon. Burst Laser 2 is 90, Flak 1 is 75.
 
 The Leto lets you sneak hacking past defence drones. Bear this in mind for the flagship.
 
