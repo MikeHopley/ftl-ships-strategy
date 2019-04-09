@@ -5,7 +5,7 @@ https://mikehopley.github.io/ftl-ships-strategy/
 
 ## TODO:
 
-* Reconsider Engi B strategy: 94 scrap in sellables, so better to just rush shields? How bad is it really to sell all the drones (with only one crew)?
+* Reconsider Engi B strategy: 94 scrap in sellables, so better to just rush shields? How bad is it really to sell the AP drone?
 * Test whether drones require power to be smart-targeted (relevant to Engi B)
 * Check AI behaviour for Lanius B shield-boarding tactic. How many crew before you are opposed? How many stop you pulling the pilot?
 
