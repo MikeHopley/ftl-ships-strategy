@@ -43,10 +43,7 @@ You can also choose how long you delay them. You could delay just a few jumps, b
 
 In my view, it's usually not worth delaying shields more than a few jumps, and even then only in favourable circumstances. In many cases it would be best not to delay shields at all.
 
-The balance of risk varies by the ship. Some ships have safer starts than others, and in particular a few have less need for shields-3. 
-Some ships are more desperate for additional offence. Some ships have more stuff to sell at a store.
-
-With some ships it's clear-cut, with others it's harder to be certain. As an overview, here's what I currently think:
+The balance of risk varies by the ship. Some ships have safer starts. Some ships are more desperate for additional offence. Some ships have more stuff to sell at a store. As an overview, here's what I currently think:
 
 * 15 ships should immediately buy shields-3 then shields-4, no matter what
 * 7 ships should **consider** delaying shield upgrades
