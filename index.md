@@ -2,14 +2,6 @@
 
 I made these notes during my second and third win-streaks, mostly to help me remember some less obvious ideas. I've tidied them up and added to them, so they might help other people too. I also mention [Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page) differences.
 
-I've included small optimisations that are unlikely to make a difference in most cases. These advanced tactics often come with a price: they can be tedious to perform, and getting them wrong might make things worse.
-
-For example, on some ships I think it's optimal to run your pilot to doors during the FTL jump, for boarding defence...but it's **really** easy to forget you did this! Or on the Zoltan B, there is a fiddly tactic to optimise your weapon usage against certain enemies...but messing it up will depower your weapons!
-
-I've included these tactics because I *think* they are optimal. But with such small optimisations, it can be hard to judge. You might decide some tactics are incorrect, or too error-prone, or just too tedious to bother with.
-
-# Context
-
 This is about winning consistently on Hard, which means playing as "safely" as possible and getting through the dangerous early game in good shape. To be "safe", you need two things ASAP:
 
 * Two shields
@@ -65,6 +57,15 @@ Never waste early-game scrap on luxury purchases like medbay-2, doors-2, or Scra
 Burst Laser 2 costs 90 scrap, hacking 120. Much of your starting equipment sells for less, especially augments. Flak 1 costs 75 and is much less common.
 
 The important scrap thresholds are 120, 90, 75, and 55. I'm sad about visiting stores with less than 75 scrap, but 55 is enough for weapons like Burst Laser 1, Heavy Laser, Small Bomb, and many others.
+
+
+# Some tips are micro-optimisations
+
+In this guide, I've included small optimisations that are unlikely to make a difference in most cases. I mainly include them for my own benefit. These advanced tactics often come with a price: they can be tedious to perform, and getting them wrong might make things worse.
+
+For example, on some ships I think it's optimal to run your pilot to doors during the FTL jump, for boarding defence...but it's **really** easy to forget you did this! Or on the Zoltan B, there is a fiddly tactic to optimise your weapon usage against certain enemies...but messing it up will depower your weapons!
+
+I've included these tactics because I *think* they are optimal. But with such small optimisations, it can be hard to judge. You might decide some tactics are incorrect, or too error-prone, or just too tedious to bother with. Feel free to pick and choose!
 
 
 # The ships
