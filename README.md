@@ -11,3 +11,4 @@ https://mikehopley.github.io/ftl-ships-strategy/
   - 94 scrap in sellables, so better to just rush shields? How bad is it really to sell the AP drone?
   - Check Heavy Ion + Reloader: can it self-stack with untrained crew, if you reposition the weapon and hit the shield ROOM on the first shot?
   - Test whether drones require power to be smart-targeted (so turn them on to draw fire)
+  - Test what happens in "smoldering Engi" event if you lose your only crew
