@@ -579,7 +579,7 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also bad, since they have a higher chance of enemies with drones. Look for flexible routes, so you can avoid these hazards without losing beacons. Consider avoiding nebulas too, as they often contain Auto-assaults (with drones)&thinsp;&mdash;&thinsp;but plasma storms are worth trying, as you have a clone bay for the [incapacitated ships event](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships).
 
-Put the Slug in piloting. I prefer the Rock on weapons, because the central location offsets their slow movement; weapons is also an important room to repair, and Rocks have a hidden 67% bonus to fire-fighting. The Human can start in doors, and quickly move to engines.
+Put the Slug in piloting. Put the Rock on weapons, because the central location offsets their slow movement; weapons is also an important room to repair, and Rocks have a hidden 67% bonus to fire-fighting. The Human can start in doors, and quickly move to engines.
 
 Use your Shield Drone precisely. Activate it immediately in most fights, but sometimes delay it instead. For example, when you have shields and the enemy has a Basic Laser and a Hermes Missile: wait 6 seconds before powering the drone, and you can block a lot of missiles. You can also depower the drone after a shield is hit, to reset the drone's internal timer. For example, this makes you invulnerable against a Heavy Laser.
 
