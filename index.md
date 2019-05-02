@@ -282,7 +282,7 @@ Use your weapons optimally against enemies with one shield. You can fire both io
 
 When enemies have one shield and cannot harm you, try ionising O2 for a crew kill. It's theoretically possible to use the Pike Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), but the timing is painfully difficult.
 
-Shields-2 costs a whopping 100 scrap. Before then, your Zoltan Shield will serve well in most encounters, but you are vulnerable against asteroid fields, drones, and even suns. Therefore your first 100 scrap should typically be spent on shields. It's also reasonable to buy a weapon first, but only if it's a great weapon (like a Flak 1 or Heavy Laser) or a useful cheap weapon (like an Ion Blast).
+Shields-2 costs a whopping 100 scrap. Before then, your Zoltan Shield will serve well in most encounters, but you are vulnerable against asteroid fields, drones, and even suns. Therefore your first 100 scrap should typically be spent on shields. It's also reasonable to buy a weapon first, but only if it's a great weapon (like a Flak 1 or Heavy Laser) or a useful cheap weapon (like another Ion Blast).
 
 Do not buy engine upgrades before shields, even though they're so much cheaper: you don't even need evasion for most fights, and it won't help you much in the really dangerous fights. Getting that shield up even one jump earlier could be crucial.
 
