@@ -290,7 +290,7 @@ With the Zoltan Shield and shields-2, you are reasonably safe. Consider delaying
 
 This ship is somewhat vulnerable to boarding. Start the engines Zoltan on doors (due to event boarding). Additional crew help, and the first gives one free power by replacing the pilot. If doors get boarded, you can vent them out and then reoccupy it. Consider pre-venting the three empty rooms to the right of doors (and then letting oxygen refill a bit).
 
-Don't forget that two Zoltans can completely ion-proof one shield layer, and can also "de-ionise" shields. Here's a surprising fact about pulsars: even while you only have shields-1, a single Zoltan in the shields room will guarantee that the pulse hits the shield system, and therefore is less likely to ionise your weapons (but probably you are better just sending all three Zoltans into the weapons).
+Don't forget that two Zoltans can completely ion-proof one shield layer, and can also "de-ionise" shields. Here's a surprising fact about pulsars: even while you only have shields-1, a single Zoltan in the shields room will guarantee that the pulse hits the shield system (but probably it's better to just send all three Zoltans into the weapons).
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
