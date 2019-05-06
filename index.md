@@ -595,6 +595,8 @@ Drones-3 is tempting, as it gives your Shield Drone a damage buffer. It also let
 
 Don't underestimate the Shield+ Drone, however. Shields are more important, but I'll try to hold onto the drone if I reasonably can.
 
+At pulsars, a single Zoltan Shield layer will completely absorb the ion pulse. Bizarrely, this only works *when you have a shields system*. Before then, pulsars will *ignore* the Zoltan Shield.
+
 
 
 ### Balance Mod
