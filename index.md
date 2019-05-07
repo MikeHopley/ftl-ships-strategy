@@ -476,9 +476,9 @@ Heavy Pierce is good early on, but power-hungry and does not play well with beam
 
 By itself, the Fire Bomb is not that effective, except against Mantis. Enemies prioritise fighting fires, and can usually put them out efficiently. The bomb explosion does 30 crew damage, but that's a lot of missiles to kill crew directly. Soften them up with the Heavy Pierce first; either target crew directly, or maybe try for a breach in O2. Breaches attract a second crew once repaired, giving a chance to double your Fire Bomb damage. Beware enemies running away, however.
 
-It's tempting to upgrade weapons early, so you can use them together; but this doesn't improve your offence enough. That scrap is better saved for buying a weapon, a system, or shields. Mind control or hacking makes the Fire Bomb much more effective. Also consider a teleporter for Rock fire-boarding shenanigans.
+It's tempting to upgrade weapons early, so you can use them together; but this doesn't improve your offence enough. That scrap is better saved for buying a weapon, a system, or shields-4. Mind control or hacking makes the Fire Bomb much more effective. Also consider a teleporter for Rock fire-boarding shenanigans.
 
-Doors are much too expensive to buy. Note you don't get airlocks, although hull breaches can be used. You can Fire Bomb your own ship to help with boarding defence, but this is mostly not necessary. Mind control helps, especially against the flagship. Phase 3 boarders can be rough without venting, so you have extra incentive to kill the crew in phase 1; you can do this using the Fire Bomb on shields, together with mind control or hacking.
+Doors are much too expensive to buy. Note you don't get airlocks, although hull breaches can be used. You *can* fire-bomb your own ship to help with boarding defence, but this is rarely useful. Mind control helps, especially against the flagship. Phase 3 boarders can be rough without doors/venting, so you have extra incentive to kill the crew in phase 1; you can do this by fire-bombing shields, together with mind control or hacking.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones work well on this ship](https://i.imgur.com/FUSYVNi.jpg), as all rooms are outside the blind spot.
 
