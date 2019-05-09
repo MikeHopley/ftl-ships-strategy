@@ -535,7 +535,7 @@ Plan your jumps carefully, to avoid being forced into asteroid fields. Suns are 
 
 Look for flexible routes, so you can skip these hazards without losing beacons. Try to avoid nebulas too, as they often contain Auto-assaults (with drones). Plasma storms are especially risky: you can only power the Glaive and a level-1 cloak, with no engines.
 
-Usually start the Glaive in shields, for maximum damage. Sometimes it's better to start in weapons or drones; for example, a manned Heavy Laser will fire before your Glaive finishes. But if this doesn't kill the ship or occupy all crew with repairs, they may run away before your Glaive can fire again. Against Zoltan Shields, use [exact beam placement](https://www.youtube.com/watch?v=hyJ37Eln-h8) to damage weapons; hit a second system too when possible, as this pulls the pilot away and prevents them escaping.
+Usually start the Glaive in shields, for maximum damage. Sometimes it's better to start in weapons or drones; for example, a manned Heavy Laser will fire before your Glaive finishes. But if this doesn't kill the ship or occupy all crew with repairs, they may run away before you can fire again. Against Zoltan Shields, use [exact beam placement](https://www.youtube.com/watch?v=hyJ37Eln-h8) to damage weapons; hit a second system too when possible, as this pulls the pilot away and prevents them escaping.
 
 The ideal upgrade path is:
 
