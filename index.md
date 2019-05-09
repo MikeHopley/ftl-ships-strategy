@@ -311,8 +311,6 @@ Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually
 
 With that in mind, consider your crew positions carefully, and move them around as needed. You can start two Zoltans in weapons, with the other two in engines and piloting. This is simple and flexible. When fights drag on and your battery is about to run out, consider moving the pilot. Your first extra crew member gives one free power (replacing the pilot).
 
-Autofiring the ion on shields wins fights quickly, and this is often best. But sometimes it's better to
-
 For better defence in boarding events, you can start a Zoltan in doors (with the others in weapons, piloting, engines). This complicates optimal power micro and has little benefit in sector 1, since you are very unlikely to find a boarding event with a ship fight ([Encrypted Federation Signal](https://ftl.fandom.com/wiki/Encrypted_Federation_Signal), and then only 20% of the time).
 
 The clone bay is vulnerable to event boarding; pre-vent it, then let oxygen refill to 90%. This lets you vent the clone bay in 4 seconds using 4 airlocks. If you forget to do this, you can use all 6 airlocks (venting through weapons too). In both cases, you also need to turn off O2.
