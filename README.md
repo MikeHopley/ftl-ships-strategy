@@ -5,7 +5,6 @@ https://mikehopley.github.io/ftl-ships-strategy/
 
 ## To do:
 
-* Rephrase defence drone efficacy, to make it sound less bad to buy.
 * Lanius B: check AI behaviour for shield-boarding tactic. How many crew before you are opposed? How many stop you pulling the pilot?
 * Engi B
   - 94 scrap in sellables, so better to just rush shields? How bad is it really to sell the AP drone?
