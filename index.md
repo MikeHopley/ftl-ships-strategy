@@ -183,7 +183,9 @@ Because your system repair drones move faster, you are slightly safer, making it
 
 Shields-3, shields-4, then look for a weapon. Dual Lasers are great, but may eventually need to be replaced with more slot-efficient weapons.
 
-This ship has a strong start, but must manage drone parts carefully. At each fight, consider whether to use your beam drone, hacking, both&thinsp;&mdash;&thinsp;or neither! Remember that preventing a damage cascade is more important than hoarding resources, and this is especially relevant while you only have 1 shield.
+At each fight, consider whether to use your beam drone, hacking, both&thinsp;&mdash;&thinsp;or neither! Remember that preventing a damage cascade is more important than hoarding resources, and this is especially relevant while you only have 1 shield. It's mostly best to use two drones early on, just look for opportunities where you can safely economise.
+
+Choose your hacking targets carefully in the early game. Hacking weapons is tempting, as it lets you fire first; but this only gives you one (targeted) damage against enemy weapons and only if both shots hit. Hacking shields is often better, as it gives you two shots against enemy weapons and may also let the beam drone hit twice; it also gives you a way to do damage even if your weapons are taken out. On the other hand, hacking weapons is great when you can de-synchronise them (e.g. Basic Laser and Mini Beam).
 
 Try crew kills when safe: hack O2 then immediately destroy it. Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
