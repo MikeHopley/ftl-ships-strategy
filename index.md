@@ -187,6 +187,8 @@ At each fight, consider whether to use your beam drone, hacking, both&thinsp;&md
 
 Choose your hacking targets carefully in the early game. Hacking weapons is tempting, as it lets you fire first; but this only gives you one (targeted) damage against enemy weapons and only if both shots hit. Hacking shields is often better, as it gives you two shots against enemy weapons and may also let the beam drone hit twice; it also gives you a way to do damage even if your weapons are taken out. On the other hand, hacking weapons is great when you can de-synchronise them (e.g. Basic Laser and Mini Beam).
 
+Line up your Beam Drone early, as this gives a better chance to hit important systems. If it's aiming at something useless, let it reposition while you wait for weapons / hacking.
+
 Try crew kills when safe: hack O2 then immediately destroy it. Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
 Don't forget the weirdly-placed airlock on the drones room! With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
