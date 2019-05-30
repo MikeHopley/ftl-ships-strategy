@@ -355,6 +355,8 @@ Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from 
 
 If you don't find crew, consider buying a weapon instead. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
+The boarding drone will eventually kill any automated ship, unless it lands in an isolated piloting room. On average, that means it can kill 90% of automated ships. With an upgraded teleporter, this becomes 100% with the help of your Mantis, but it's not worth 30 early-game scrap.
+
 Precise venting helps against solar flares or fire-lighting weapons. Just before the fire starts, have no oxygen in the bottom-left corner, and switch off O2; but also close the doors. [Repairing O2 is possible](https://www.youtube.com/watch?v=J47ENy6-CAM&t=1m22s) even in a fully-vented ship, providing you have medbay-2: you'll need to run relays, and the timing is very tight.
 
 Have the pilot Mantis move to the teleporter during the FTL jump, and start the other Mantis in sensors. This delays boarding by under 2 seconds, and in some trickier situations sensor information can stop you sending crew on a suicide mission. When completely safe, destroy systems for surrender offers (as low as 2 hull).
