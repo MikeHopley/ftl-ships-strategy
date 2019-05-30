@@ -258,11 +258,13 @@ Flak artillery is slightly buffed, but still bad. Emergency Respirators sell for
 
 ## Zoltan A
 
-The Zoltan Shield provides strong defence in most fights, the Halberd never misses, and the Leto is a backup if your weapons get damaged. Therefore this ship has a very safe start. It's also important to find hacking or shield-breaking weapons before sector 3. **Delay shield upgrades** enough to visit any store with 80 scrap (including sector 1 stores). Shields-4 is the next priority.
+The Zoltan Shield provides strong defence in most fights, the Halberd never misses, and the Leto is a backup if your weapons get damaged. Therefore this ship has a very safe start. It's also important to find hacking or shield-breaking weapons before sector 3. **Delay shield upgrades** enough to visit any store with 80 scrap.
 
-You start with only engines-1. Engines-2 and engines-3 are cheap and work well with the Zoltan Shield, but shields-4 is still better. Fit in engine upgrades later, when you can.
+Shields-4 is the next priority. You start with only engines-1. Engines-2 and engines-3 are cheap and work well with the Zoltan Shield, but shields-4 is still better. Fit in engine upgrades later, when you can.
 
-Halberd trashes early enemies; start the beam in shields for maximum damage. Leto is weak, but works in a pinch; it's worth keeping unless you need the slot.
+Try to keep the Leto until you run out of weapons slots. It's tempting to upgrade weapons early and use both together, but this delays shields-4 and could prevent you buying hacking. Only upgrade weapons if you have shields-4 and enough scrap for hacking as well.
+
+In early fights, typically use the Halberd and start the beam in shields for maximum damage. Be aware that some enemies (such as Rebels) are quite likely to have shields-3. Occasionally it may be better to open fights with a Leto to weapons, before switching to the Halberd; consider which weapon will be switched off.
 
 Your first extra crew member is worth one free power, replacing the pilot. Don't forget that two Zoltans can completely ion-proof one shield layer, and can also "de-ionise" shields.
 
