@@ -355,7 +355,7 @@ Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from 
 
 If you don't find crew, consider buying a weapon instead. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
-The boarding drone will eventually kill any automated ship, unless it lands in an isolated piloting room. That means it can kill 90% of automated ships. With an upgraded teleporter, this becomes 100% with the help of your Mantis, but it's not worth 30 early-game scrap.
+The boarding drone will eventually kill any automated ship, unless it lands in an isolated piloting room. That means it can kill 90% of automated ships, unless they are running away. With an upgraded teleporter, this becomes 100% with the help of your Mantis, but it's not worth 30 early-game scrap.
 
 Don't hesitate to spend drone parts when fights look dangerous. Your boarding drone is not just for automated ships. A rapid crew-kill can be your best defence.
 
