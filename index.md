@@ -1,5 +1,6 @@
 | Cruiser    | Type A                        | Type B                     | Type C                               |
 | ---------- | ----------------------------- | -------------------------- | -------------------------------------|
+| Kestrel    | [The Kestrel](#kestrel-a)     | [Red-Tail](#kestrel-b)     | [The Swallow / The Loon](#kestrel-c) |
 | Engi       | [The Torus](#engi-a)          | [The Vortex](#engi-b)      | [Tetragon](#engi-c)                  |
 | Federation | [The Osprey](#federation-a)   | [Nisos](#federation-b)     | [The Fregatidae](#federation-c)      |
 | Zoltan     | [The Adjudicator](#zoltan-a)  | [Noether](#zoltan-b)       | [Cerenkov](#zoltan-c)                |
