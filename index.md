@@ -1,6 +1,5 @@
 | Cruiser    | Type A                        | Type B                     | Type C                               |
 | ---------- | ----------------------------- | -------------------------- | -------------------------------------|
-| Kestrel    | [The Kestrel](#kestrel-a)     | [Red-Tail](#kestrel-b)     | [The Swallow / The Loon](#kestrel-c) |
 | Engi       | [The Torus](#engi-a)          | [The Vortex](#engi-b)      | [Tetragon](#engi-c)                  |
 | Federation | [The Osprey](#federation-a)   | [Nisos](#federation-b)     | [The Fregatidae](#federation-c)      |
 | Zoltan     | [The Adjudicator](#zoltan-a)  | [Noether](#zoltan-b)       | [Cerenkov](#zoltan-c)                |
@@ -262,7 +261,7 @@ The Zoltan Shield provides strong defence in most fights, the Halberd never miss
 
 Shields-4 is the next priority. You start with only engines-1. Engines-2 and engines-3 are cheap and work well with the Zoltan Shield, but shields-4 is still better. Fit in engine upgrades later, when you can.
 
-Try to keep the Leto until you run out of weapon slots. It's tempting to upgrade weapons early and use both together, but this delays shields-4 and could prevent you buying hacking. Only upgrade weapons if you have shields-4 and enough scrap for hacking as well.
+Try to keep the Leto until you run out of weapon slots. It's tempting to upgrade weapons early and use both together, but this delays shields-4 and could prevent you buying hacking.
 
 In early fights, typically use the Halberd and start the beam in shields for maximum damage. Be aware that some enemies (such as Rebels) are quite likely to have shields-3. Occasionally it may be better to open fights with a Leto to weapons, before switching to the Halberd; consider which weapon will be switched off.
 
