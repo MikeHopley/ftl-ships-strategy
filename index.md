@@ -385,7 +385,7 @@ The Stun Bomb and Lockdown Bomb are "bad" weapons, but reliable as boarding supp
 
 However, using both bombs together enables some clever tactics. Sometimes you can board and Lockdown weapons at the same time, making the pilot leave in time to drop evasion. Before the Lockdown wears off, Stun Bomb the crew trying to break in. Lockdown lasts for 12 seconds and the stun lasts 15, so your crew have up to 27 seconds unmolested in the weapons room; that's enough to break 4 weapons levels. Your Mantis will start suffocating after about 14 seconds, and will die 15 seconds later.
 
-Although it's possible to break weapons in this way, it's often faster to just board immediately and kill the crew. Use your sensor information to help decide.
+Although it's possible to break weapons in this way, it's usually faster to board immediately and kill the crew. Use your sensor information to help decide.
 
 Mantis Pheromones is nice to have while you're still (mostly) boarding with two crew, but less relevant once your teleporter is full. Fine to keep or sell.
 
@@ -395,7 +395,7 @@ With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consid
 
 ### Balance Mod
 
-Both bombs charge faster, so advanced tactics like perma-locking weapons are more often viable. With crew manning weapons, the Lockdown Bomb can keep a room locked down permanently.  Following a Lockdown Bomb with a Stun Bomb is still usually better; nevertheless, it's a consideration if you are choosing which bomb to keep.
+Both bombs charge faster, so advanced tactics like perma-locking weapons are more often viable. With crew manning weapons, the Lockdown Bomb can keep a room locked down permanently. Following a Lockdown Bomb with a Stun Bomb is still usually better; nevertheless, it's a consideration if you are choosing which bomb to keep.
 
 The Stun Bomb can disable defence drones, letting you sneak hacking past them. But for the flagship phase 2, it's faster to board their drones system (the crew should already be dead).
 
