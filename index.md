@@ -377,11 +377,15 @@ Auto-assaults no longer appear in sector 1, so the boarding drone can kill 95% o
 
 Shields-3, shields-4, then look for weapons. If you're still low on crew in the mid-game, buy some.
 
-Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew (usually just two, Lanius and Mantis). When completely safe, destroy systems for surrender offers (as low as 2 hull).
+Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew. When completely safe, destroy systems for surrender offers (as low as 2 hull).
 
 The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. Remember that the Engi can board too. Boarding with 3 crew can often disable clone/medbays without spending missiles.
 
-Stun Bomb and Lockdown Bomb are both reasonable boarding support weapons, but overlap in their function. There's little need to keep both, and the Stun Bomb is generally more useful; with good timing, you can stun enemy crew and avoid stunning your own, while also disabling a weapon or drone.
+The Stun Bomb and Lockdown Bomb are "bad" weapons, but reliable as boarding support. Either can get the job done, so it's safe to sell one early. The Stun Bomb is generally more useful; with good timing, you can stun enemy crew and avoid stunning your own, while also disabling a weapon or drone.
+
+However, using both bombs together enables some clever tactics. Sometimes you can board and Lockdown weapons at the same time, making the pilot leave in time to drop evasion. Before the Lockdown wears off, Stun Bomb the crew trying to break in. Lockdown lasts for 12 seconds and the stun lasts 15, so your crew have up to 27 seconds unmolested in the weapons room; that's enough to break 4 weapons levels. Your Mantis will start suffocating after about 14 seconds, and will die 15 seconds later.
+
+Although it's possible to break weapons in this way, it's often faster to just board immediately and kill the crew. Use your sensor information to help decide.
 
 Mantis Pheromones is nice to have while you're still (mostly) boarding with two crew, but less relevant once your teleporter is full. Fine to keep or sell.
 
@@ -390,6 +394,8 @@ Mantis Pheromones is nice to have while you're still (mostly) boarding with two 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
 ### Balance Mod
+
+Both bombs charge faster, so advanced tactics like perma-locking weapons are more often viable. With crew manning weapons, the Lockdown Bomb can keep a room locked down permanently (although following a Lockdown Bomb with a Stun Bomb is still usually better). Nevertheless, it's a consideration if you are choosing which bomb to keep.
 
 The Stun Bomb can disable defence drones, letting you sneak hacking past them. But for the flagship phase 2, it's faster to board their drones system (the crew should already be dead).
 
