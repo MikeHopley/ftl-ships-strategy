@@ -395,7 +395,7 @@ With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consid
 
 ### Balance Mod
 
-Both bombs charge faster, so advanced tactics like perma-locking weapons are more often viable. With crew manning weapons, the Lockdown Bomb can keep a room locked down permanently (although following a Lockdown Bomb with a Stun Bomb is still usually better). Nevertheless, it's a consideration if you are choosing which bomb to keep.
+Both bombs charge faster, so advanced tactics like perma-locking weapons are more often viable. With crew manning weapons, the Lockdown Bomb can keep a room locked down permanently.  Following a Lockdown Bomb with a Stun Bomb is still usually better; nevertheless, it's a consideration if you are choosing which bomb to keep.
 
 The Stun Bomb can disable defence drones, letting you sneak hacking past them. But for the flagship phase 2, it's faster to board their drones system (the crew should already be dead).
 
