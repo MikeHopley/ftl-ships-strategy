@@ -234,7 +234,7 @@ The Leto lets you sneak hacking past defence drones. Bear this in mind for the f
 
 Shields-3, shields-4, then look for weapons. Weapons-2 costs 40 scrap, so 1-power weapons are particularly helpful early on.
 
-When completely safe, destroy systems for surrender offers (as low as 2 hull).
+When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 Remember to use the airlocks on clone bay and shields! They are hard to see.
 
@@ -332,7 +332,7 @@ Backup battery's cooldown resets when you jump.
 
 Shields-3, shields-4, then look for a weapon. Don't forget weapons-2 is 40 scrap; buying this lets you use the Small Bomb and Basic Laser together. Mantis Pheromones is somewhat useful, but also fine to sell. Small Bomb is a great boarding support weapon, and can also disable enemy weapons. Use it liberally in sector 1 to reduce risk.
 
-When completely safe, destroy systems for surrender offers (as low as 2 hull). Boarding with 3 crew can often disable clone/medbays without spending missiles.
+When completely safe, destroy systems for surrender offers (as low as 1 hull). Boarding with 3 crew can often disable clone/medbays without spending missiles.
 
 Start two Mantis in the teleporter. I like the third Mantis on piloting, as that's closer to the teleporter and makes the Engi more mobile. Start your fourth crew on weapons, then run to engines as needed.
 
@@ -361,7 +361,7 @@ Don't hesitate to spend drone parts when fights look dangerous. Your boarding dr
 
 Precise venting helps against solar flares or fire-lighting weapons. Just before the fire starts, have no oxygen in the bottom-left corner, and switch off O2; but also close the doors. [Repairing O2 is possible](https://www.youtube.com/watch?v=J47ENy6-CAM&t=1m22s) even in a fully-vented ship, providing you have medbay-2: you'll need to run relays, and the timing is very tight.
 
-Have the pilot Mantis move to the teleporter during the FTL jump, and start the other Mantis in sensors. This delays boarding by under 2 seconds, and in some trickier situations sensor information can stop you sending crew on a suicide mission. When completely safe, destroy systems for surrender offers (as low as 2 hull).
+Have the pilot Mantis move to the teleporter during the FTL jump, and start the other Mantis in sensors. This delays boarding by under 2 seconds, and in some trickier situations sensor information can stop you sending crew on a suicide mission. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 Your defences are strong, but not quite as strong as they appear. The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg). You only have one spare system slot, so get cloaking or hacking. Probably hacking, which allows you to kill the flagship crew easily.
 
@@ -377,7 +377,7 @@ Auto-assaults no longer appear in sector 1, so the boarding drone can kill 95% o
 
 Shields-3, shields-4, then look for weapons. If you're still low on crew in the mid-game, buy some.
 
-Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew. When completely safe, destroy systems for surrender offers (as low as 2 hull).
+Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. Remember that the Engi can board too. Boarding with 3 crew can often disable clone/medbays without spending missiles.
 
@@ -433,7 +433,7 @@ Healing Burst and Slug Repair Gel are fine to keep or sell. Keep the Artemis, un
 
 Start fights with one Slug in the teleporter, one in weapons, and the pilot walking towards the teleporter during the FTL jump. This gives the most flexibility: you have the option of boarding immediately, and also charging your Artemis as fast as possible.
 
-Precise boarding technique helps your bombs/missiles hit. Use the [Safety Dance](https://www.youtube.com/watch?v=d0j4rFfmFDc) to pull the pilot away. When completely safe, destroy systems for surrender offers (as low as 2 hull).
+Precise boarding technique helps your bombs/missiles hit. Use the [Safety Dance](https://www.youtube.com/watch?v=d0j4rFfmFDc) to pull the pilot away. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 You can fight in the weapons room and hit it with a missile, dodging your crew out just in time. But it's difficult to time consistently, so never do this when your crew are low on health (the Artemis does 30 crew damage).
 
@@ -456,7 +456,7 @@ Chain Laser is slow, but you can still get the first shot by hacking enemy weapo
 
 Early-game tactics are slightly different depending on enemy crew count. Against two crew, mind control the pilot when you fire the Chain Laser. But against three crew, immediately mind control the weapons crew instead: this guarantees one point of system damage at 12.5 seconds.
 
-When completely safe and with a guaranteed crew-kill, damage the hull for surrender offers (as low as 2 hull). The safest way to do this is mind-controlling the pilot (on ships with level 1 piloting). Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
+When completely safe and with a guaranteed crew-kill, damage the hull for surrender offers (as low as 1 hull). The safest way to do this is mind-controlling the pilot (on ships with level 1 piloting). Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
 [Defence drones cover this ship well](https://i.imgur.com/bhrfCeE.jpg), as all rooms are outside the blind spot.
 
@@ -651,7 +651,7 @@ Emergency Respirators sell for just 12 scrap, so you might want to keep them a b
 
 Shields-3, shields-4, then look for a weapon. Remember you only start with engines-1. Despite its strength, this ship has nothing special defensively at the start, so it's still possible to have rough encounters.
 
-Start both Lanius in the teleporter. Board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so enemies fight each other while your Lanius attack another system. This also pulls the pilot away, so your weapons have a better chance of hitting. When completely safe, destroy systems for surrender offers (as low as 2 hull).
+Start both Lanius in the teleporter. Board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so enemies fight each other while your Lanius attack another system. This also pulls the pilot away, so your weapons have a better chance of hitting. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 Your Lanius can't use the medical airlock, so try to limit damage to them. When enemy weapons are no longer a threat, you can take your time and avoid fighting crew directly. Destroy O2, then walk your Lanius around the ship to drain oxygen from rooms (especially weapons). Once a room has no air, you can get free combat XP by punching down the system. You can also trick enemies into running through airless rooms.
 
