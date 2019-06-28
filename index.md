@@ -104,7 +104,7 @@ The starting weapons can handle two-shield enemies, so get shields-3, shields-4,
 
 Ideally you want fast weapons to complement your remaining Basic Lasers. If you find only slow weapons, consider hacking or mind control instead, as this keeps your volley fast for longer. You have three empty system slots to fill, so try to buy your first system a little early anyway.
 
-Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to "de-ionise" shields. Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward.
+Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to ["de-ionise" shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s). Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward.
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
@@ -219,7 +219,7 @@ Shields-3, shields-4, then look for a weapon. Leto is weak but worth keeping unl
 
 [Defence drones cover this ship poorly](https://i.imgur.com/TpuD5BE.jpg): shields and weapons are vulnerable. Avoid spending scrap on the artillery beam, unless everything else is set.
 
-Put the Slug in piloting. Consider putting the Zoltan in weapons: they can "de-ionise" shields, and steal power from mind control or hacking, which are slotted nearby. On the other hand, cloaking slots next to engines. Consider starting the engines crew on doors; just remember to send them back!
+Put the Slug in piloting. Consider putting the Zoltan in weapons: they can ["de-ionise" shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s), and steal power from mind control or hacking, which are slotted nearby. On the other hand, cloaking slots next to engines. Consider starting the engines crew on doors; just remember to send them back!
 
 The layout is a little awkward, but you can still vent shields or weapons in under 3 seconds by using **all** airlocks and turning off O2.
 
@@ -238,7 +238,7 @@ When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 Remember to use the airlocks on clone bay and shields! They are hard to see.
 
-Mantis and Human are the strongest and safest boarding party (Zoltan bombing is more cute than effective). Keeping Zoltans at home also has tactical advantages: they can ion-proof your clone bay, ion-proof one shield layer entirely, or "de-ionise" shields even when you have multiple layers.
+Mantis and Human are the strongest and safest boarding party (Zoltan bombing is more cute than effective). Keeping Zoltans at home also has tactical advantages: they can ion-proof your clone bay, ion-proof one shield layer entirely, or ["de-ionise" shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) even when you have multiple layers.
 
 Emergency Respirators make automated ships much easier to board. Keep them until you need to sell them for something better, like a weapon.
 
@@ -266,7 +266,7 @@ Try to keep the Leto until you run out of weapon slots. It's tempting to upgrade
 
 In early fights, typically use the Halberd and start the beam in shields for maximum damage. Be aware that some enemies (such as Rebels) are quite likely to have shields-3. Occasionally it may be better to open fights with a Leto to weapons, before switching to the Halberd; consider which weapon will be switched off.
 
-Your first extra crew member is worth one free power, replacing the pilot. Don't forget that two Zoltans can completely ion-proof one shield layer, and can also "de-ionise" shields.
+Your first extra crew member is worth one free power, replacing the pilot. Don't forget that two Zoltans can completely ion-proof one shield layer, and can also ["de-ionise" shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s).
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
@@ -295,7 +295,7 @@ With the Zoltan Shield and shields-2, you are reasonably safe. Consider delaying
 
 This ship is somewhat vulnerable to boarding. Start the engines Zoltan on doors (due to event boarding). Additional crew help, and the first gives one free power by replacing the pilot. If doors get boarded, you can vent them out and then reoccupy it. Consider pre-venting the three empty rooms to the right of doors (and then letting oxygen refill a bit).
 
-Don't forget that two Zoltans can completely ion-proof one shield layer, and can also "de-ionise" shields. Here's a surprising fact about pulsars: even while you only have shields-1, a single Zoltan in the shields room will guarantee that the pulse hits the shield system (but probably it's better to just send all three Zoltans into the weapons).
+Don't forget that two Zoltans can completely ion-proof one shield layer, and can also ["de-ionise" shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s). Here's a surprising fact about pulsars: even while you only have shields-1, a single Zoltan in the shields room will guarantee that the pulse hits the shield system (but probably it's better to just send all three Zoltans into the weapons).
 
 Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
 
