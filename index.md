@@ -324,6 +324,8 @@ Charge Ion is the best ion weapon in the game. Adding another 2-power ion weapon
 
 Early reactor upgrades are expensive. In the early game, avoid buying more than you absolutely need. You can get by with much less than you might think, for quite some time.
 
+Don't forget that two Zoltans can completely [ion-proof one shield layer](https://www.youtube.com/watch?v=jpR3veZtlsc&t=3m15s), and can also [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) when you have multiple layers.
+
 Backup battery's cooldown resets when you jump.
 
 
