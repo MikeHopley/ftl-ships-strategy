@@ -67,9 +67,9 @@ Never waste early-game scrap on luxury purchases like medbay-2, doors-2, or Scra
 
 ## Balance Mod
 
-Burst Laser 2 costs 90 scrap, hacking 120. Much of your starting equipment sells for less, especially augments. Flak 1 costs 75 and is much less common.
+Burst Laser 2 costs 90 scrap, hacking  130. Much of your starting equipment sells for less, especially augments. Flak 1 costs 80 and is much less common.
 
-The important scrap thresholds are 120, 90, 75, and 55. I’m sad about visiting stores with less than 75 scrap, but 55 is enough for weapons like Burst Laser 1, Heavy Laser, Small Bomb, and many others.
+The important scrap thresholds are 130, 90, 80, and 55. I’m sad about visiting stores with less than 80 scrap, but 55 is enough for weapons like Burst Laser 1, Heavy Laser, Small Bomb, and many others.
 
 
 # Some tips are micro-optimisations
@@ -287,7 +287,7 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 ### Balance Mod
 
-Hacking costs 120, so it’s harder to pick up in sector 1. Nevertheless, visiting stores with at least 55 scrap is still useful, as this lets you buy almost any one- or two-power weapon. Burst Laser 2 is 90, Flak 1 is 75.
+Hacking costs 130, so it’s harder to pick up in sector 1. Nevertheless, visiting stores with at least 55 scrap is still useful, as this lets you buy almost any one- or two-power weapon. Burst Laser 2 is 90, Flak 1 is 80.
 
 The Leto lets you sneak hacking past defence drones. Bear this in mind for the flagship.
 
@@ -496,7 +496,7 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 Explosive Replicator means you can keep using missiles a bit longer, especially if you accept missile-heavy surrenders. Buying missiles is also much less crippling (they effectively cost 2.5 scrap, instead of 6). Remember to buy them before you get too low&thinsp;&mdash;&thinsp;you don’t start with many!
 
-Alternative offence is still a priority, and possibly before upgrading shields. Rock Plating sells for 30, Hull Missile for 22, Explosive Replicator for 20. Teleporter costs 85.
+Alternative offence is still a priority, and possibly before upgrading shields. Rock Plating sells for 30, Hull Missile for 22, Explosive Replicator for 20. Teleporter costs 80.
 
 Keeping the Artemis lets you sneak hacking past defence drones. Bear this in mind for the flagship.
 
@@ -517,7 +517,7 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 ### Balance Mod
 
-Doors are much cheaper (30), but still not worth it unless you’re trying to improve your odds of finding other systems later. Rock Plating sells for 30, Fire Bomb for 22, Teleporter costs 85.
+Doors are much cheaper (30), but still not worth it unless you’re trying to improve your odds of finding other systems later. Rock Plating sells for 30, Fire Bomb for 22, Teleporter costs 80.
 
 
 ## Rock C
@@ -532,7 +532,7 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 ### Balance Mod
 
-Both starting weapons can distract defence drones, allowing hacking to slip through. Rock Plating sells for 30, Teleporter costs 85.
+Both starting weapons can distract defence drones, allowing hacking to slip through. Rock Plating sells for 30, Teleporter costs 80.
 
 
 ## Stealth A
