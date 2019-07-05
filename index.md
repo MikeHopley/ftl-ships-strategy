@@ -231,19 +231,21 @@ Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still b
 
 The ship has been remade to be more distinct from the Federation A.
 
-You start with shields-3, which your Zoltan can [power against ion](https://www.youtube.com/watch?v=jpR3veZtlsc&t=1m59s). Shields-4 is even better value than usual, compared to saving scrap for a store. You also have somewhat slow weapons with no damage buffer. Spend your first 30 scrap on shields-4, then look for a weapon.
+You start with shields-3, which your Zoltan can [power against ion](https://www.youtube.com/watch?v=jpR3veZtlsc&t=1m59s). Use the same crew positions as in vanilla.
 
-You have a Heavy Laser 2 and a Hermes Missile (12 starting missiles), but only 3 weapons power. The Hermes does more damage and must only pass one evasion check, so use it to shut down enemy weapons before switching to the Heavy Laser 2. Against two-shield enemies, it’s still worth sending your first Hermes to weapons, providing you have a good stock of missiles. Bear in mind that the Hermes takes down two shields unless they have a damage buffer (shields-5). The damage buffer is fairly uncommon in sector 3, but quite likely in sector 4.
+Shields-4 is even better value than usual, compared to saving scrap for a store. You also have somewhat slow weapons with no damage buffer. Spend your first 30 scrap on shields-4, then look for a weapon.
+
+You have a Heavy Laser 2 and a Hermes Missile (12 starting missiles), but only 3 weapons power. The Hermes does more damage and must only pass one evasion check, so use it to shut down enemy weapons before switching to the Heavy Laser 2. Against two-shield enemies, it’s still worth sending your first Hermes to weapons, providing you have a good stock of missiles. Bear in mind that the Hermes takes down two shields unless they have a damage buffer (shields-5). The damage buffer is much more likely from sector 4 onwards.
 
 You can eventually run both weapons together, but it’s still weak for a 6-power weapons setup. Ideally get fast shield-breakers and hacking, which turn the Heavy Laser 2 into a room-wrecking monster. Hacking evasion can be strong here, to guarantee landing both Heavy Laser shots in the weapons room, for 4 system damage and a high chance of fires or breaches.
 
-Don’t rush to sell the Hermes, unless it lets you buy something important. Remember it can be used to distract defence drones for hacking. On phase 2, however, you might sacrifice your first hacking drone to slip the Hermes through instead, doing 3 damage to drones and letting your *next* hacking drone get through while opening up the Flagship to more Hermes missiles. Note there is a 20% chance that the Hermes will miss.
+Don’t rush to sell the Hermes, unless it lets you buy something important. Remember it can be used to distract defence drones for hacking.
 
-When calculating weapon timings, remember you have an Automated Reloader. This multiplies your charge time by 1/1.1, so with untrained crew the Hermes takes 11.5 seconds and the Heavy Laser 2 takes 10.6 seconds. Keep the Reloader if possible, but sell it for anything important. The Reloader also affects your Artillery Beam.
+When calculating weapon timings, remember you have an Automated Reloader. This multiplies your charge time by 1/1.1, so with untrained crew the Hermes takes 11.5 seconds and the Heavy Laser 2 takes 10.6 seconds. The Reloader also affects your Artillery Beam.
 
 With the slow weapons, it’s important to use your Artillery Beam tactically. Enemies may start running away when your weapons or Artillery hits them, so try to have the other damage source ready to fire immediately afterwards. Manage the power on your Artillery Beam so that it fires at a good time.
 
-You start with medbay-2, so some "always skip" events are actually safe! You can take ["dilapidated station"](https://ftl.fandom.com/wiki/Damaged_Space_Station) and ["no response to your hails"](https://ftl.fandom.com/wiki/Small_research_station_with_no_response). Giant alien spiders are still no joke.
+You start with medbay-2, so some "always skip" events are safe! You can take "[dilapidated station](https://ftl.fandom.com/wiki/Damaged_Space_Station)" and "[no response to your hails](https://ftl.fandom.com/wiki/Small_research_station_with_no_response)". Medbay-2 makes distress beacons better. Giant alien spiders remain no joke.
 
 ## Federation C
 
