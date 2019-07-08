@@ -233,11 +233,11 @@ The ship has been remade to be more distinct from the Federation A.
 
 You start with shields-3, which your Zoltan can [power against ion](https://www.youtube.com/watch?v=jpR3veZtlsc&t=1m59s). Use the same crew positions as in vanilla.
 
-Shields-4 is even better value than usual, compared to saving scrap for a store. You also have somewhat slow weapons with no damage buffer. Spend your first 30 scrap on shields-4, then look for a weapon.
+Shields-4 is even better value than usual, compared to saving scrap for a store. You also have somewhat slow weapons with no damage buffer, and shields-4 effectively saves you missiles. Spend your first 30 scrap on shields-4, then look for a weapon.
 
-You have a Heavy Laser 2 and a Hermes Missile (12 starting missiles), but only 3 weapons power. The Hermes does more damage and must only pass one evasion check, so use it to shut down enemy weapons before switching to the Heavy Laser 2. Against two-shield enemies, it’s still worth sending your first Hermes to weapons, providing you have a good stock of missiles. Bear in mind that the Hermes takes down two shields unless they have a damage buffer (shields-5). The damage buffer is much more likely from sector 4 onwards.
+You have a Heavy Laser 2 and a Hermes Missile (12 starting missiles), but only 3 weapons power. The Hermes does more damage and must only pass one evasion check, so use it to shut down enemy weapons before switching to the Heavy Laser 2. Later on, the Hermes takes down two shields unless they have a damage buffer (shields-5). The damage buffer is much more likely from sector 4 onwards.
 
-You can eventually run both weapons together, but it’s still weak for a 6-power weapons setup. Ideally get fast shield-breakers and hacking, which turn the Heavy Laser 2 into a room-wrecking monster. Hacking evasion can be strong here, to guarantee landing both Heavy Laser shots in the weapons room, for 4 system damage and a high chance of fires or breaches.
+You can eventually run both weapons together, but it’s weak for a 6-power weapons setup. Ideally get fast shield-breakers and hacking, which turn the Heavy Laser 2 into a room-wrecking monster.
 
 Don’t rush to sell the Hermes, unless it lets you buy something important. Remember it can be used to distract defence drones for hacking.
 
@@ -245,7 +245,7 @@ When calculating weapon timings, remember you have an Automated Reloader. This m
 
 With the slow weapons, it’s important to use your Artillery Beam tactically. Enemies may start running away when your weapons or Artillery hits them, so try to have the other damage source ready to fire immediately afterwards. Manage the power on your Artillery Beam so that it fires at a good time.
 
-You start with medbay-2, so some "always skip" events are safe! You can take "[dilapidated station](https://ftl.fandom.com/wiki/Damaged_Space_Station)" and "[no response to your hails](https://ftl.fandom.com/wiki/Small_research_station_with_no_response)". Medbay-2 makes distress beacons better. Giant alien spiders remain no joke.
+You start with medbay-2, so some "always skip" events are safe! You can take "[dilapidated station](https://ftl.fandom.com/wiki/Damaged_Space_Station)" and "[no response to your hails](https://ftl.fandom.com/wiki/Small_research_station_with_no_response)". Medbay-2 makes distress beacons a little better. Giant alien spiders remain no joke.
 
 ## Federation C
 
