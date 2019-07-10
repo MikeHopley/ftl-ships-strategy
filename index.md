@@ -643,17 +643,17 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 ## Lanius A
 
-Shields-3, shields-4, then look for a weapon. Rushing shields gives you more chances for safe crew kills. Early mind control strengthens your crew-killing abilities. Remember you only have engines-1.
+Shields-3, shields-4, then look for a weapon. Rushing shields reduces your reliance on hacking for safety, and gives more chances for safe crew kills, . Early mind control can strengthen your crew-killing abilities. Remember you only have engines-1.
 
 Put one Lanius on piloting, to protect it from boarders and help with nearby venting. Put the other Lanius in engines: this makes it easier for them to help repair weapons without accidentally murdering their crewmate. It also lets you vent shields without moving crew, and the human is faster at running to doors or sensors.
 
-Despite slow weapons, you can still get the first shot by hacking enemy weapons. Use this liberally in sector 1 to reduce risk. Don’t wait with the Ion Stunner: fire when ready, and the shield will still be down for the lasers.
+Despite slow weapons, you can still get the first shot by hacking enemy weapons. Use this liberally in sector 1 to reduce risk. You can fire the Ion Stunner immediately, and the shield will still be down for the lasers. But sometimes it’s be better to fire them together: if all shots hit, the ion will disable a second weapon (even a two-power weapon).
 
 Ion Stunner can help with crew kills. For example: hack O2, destroy O2, then stun whoever repairs it. You can depower the Chain Laser after one shot to avoid damaging the hull (although this resets its charge time). Sometimes you can stun them in the shields room instead, as they walk towards O2.
 
 Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
-Double Lanius make a good boarding crew, so buying a teleporter is a solid fallback plan if weapons are thin (it also slots next to the clone bay).
+Double Lanius make a good boarding crew, especially with the Ion Stunner, and even more so if you already bought mind control. Therefore buying a teleporter is a solid fallback plan if weapons are thin (it slots next to the clone bay).
 
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you’re pretty safe doing this.
 
