@@ -334,7 +334,7 @@ Don’t forget that two Zoltans can completely [ion-proof one shield layer](http
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship poorly](https://i.imgur.com/hUidgrH.jpg): weapons and drones are vulnerable.
 
-In sector 1, prefer unmarked beacons over distress. Your only blue option is from the Ion Blast (good, but just one event). 
+Sector 1 distress beacons are somewhat worth visiting, mostly because they are not asteroid fields! You have one blue option from the Ion Blast (good, but just one event).
 
 ### Balance Mod
 
@@ -363,7 +363,7 @@ Don’t forget that two Zoltans can completely [ion-proof one shield layer](http
 
 Backup battery’s cooldown resets when you jump.
 
-Distress beacons are worth visiting in sector 1. You have a clone bay, plus blue options from Charge Ion (good) and the drone (weak).
+Sector 1 distress beacons are worth visiting. You have a clone bay, plus blue options from Charge Ion (good) and the drone (weak).
 
 
 ## Mantis A
@@ -407,7 +407,7 @@ Your defences are strong, but not quite as strong as they appear. The defence dr
 
 Mantis Pheromones is nice to have while you’re still boarding with two crew, but when you fill up the teleporter it becomes less relevant. Fine to keep or sell.
 
-Distress beacons are worth visiting in sector 1. You have good blue options from the teleporter and Defence Drone, but they apply to the same event. The drone is typically better, but the teleporter gives a 50% chance of crew; therefore choose teleporter unless you already got some non-Mantis crew. The Boarding Drone also has one low-scrap blue option. Even without blue options, distress beacons can give crew and do not risk any (rare) spiral-of-doom ship fights.
+Sector 1 distress beacons are worth visiting. You have good blue options from the teleporter and Defence Drone, but they apply to the same event. The drone is typically better, but the teleporter gives a 50% chance of crew; therefore choose teleporter unless you already got some non-Mantis crew. The Boarding Drone also has one low-scrap blue option. Even without blue options, distress beacons can give crew and do not risk any (rare) spiral-of-doom ship fights.
 
 ### Balance Mod
 
@@ -588,7 +588,7 @@ Cloaking-2 fills a similar role to weapons-3, as it often lets you fire an extra
 
 Once you have shields, upgrading them is not urgent (since you have cloak too). You can skip shields-3, which effectively does the same job as your weapons buffer. However, shields-4 is still a priority, and getting it early gives you more chance of training evade against the easier enemies in sector 2. Also remember you can use the Mini Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), increasing the value of shields-4.
 
-Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You only have blue options from cloaking-1 (weak), Mini Beam (weak). However, note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
+Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You only have blue options from cloaking-1 (weak) and Mini Beam (weak). However, note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
 ### Balance Mod
 
@@ -667,7 +667,7 @@ Don’t underestimate the Shield+ Drone, however. Shields are more important, bu
 
 At pulsars, a single Zoltan Shield layer will completely absorb the ion pulse. Bizarrely, this only works *when you have a shields system*. Before then, pulsars will *ignore* the Zoltan Shield.
 
-Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You have a clone bay, plus blue options from the Rock (good), Slug (weak), and beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
+Sector 1 distress beacons are well worth visiting, but guaranteed fights are better. You have a clone bay, plus blue options from the Rock (good), Slug (weak), and beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
 ### Balance Mod
 
@@ -746,7 +746,7 @@ Sell Crystal Vengeance at the first store you visit.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship poorly](https://i.imgur.com/CEsuzYp.jpg), as weapons are vulnerable.
 
-You have no blue options for distress beacons. In sector 1, prefer unmarked beacons to distress.
+You have no blue options for distress beacons in sector 1, so prefer unmarked beacons.
 
 ### Balance Mod
 
@@ -773,4 +773,4 @@ Sell Crystal Vengeance at the first store (sells for 20 in Balance Mod). You onl
 
 &hellip;and I lied again. It’s [technically possible](https://www.reddit.com/r/ftlgame/comments/al3bil/safely_destroying_auto_ships_with_a_medbay_on_the/) to kill automated ships, with perfect timing. Make one tiny slip and you lose a Crystal though, so I don’t think the risk is worth the reward. It’s not like this ship needs the scrap.
 
-Sector 1 distress beacons are somewhat worth visiting. You have blue options from cloaking-1 (okay, upgraded is better) and teleporter (okay).
+Sector 1 distress beacons are&hellip;maybe worth visiting. You have blue options from cloaking-1 (weak) and teleporter (okay).
