@@ -89,9 +89,12 @@ The starting weapons can handle two-shield enemies, so get shields-3, shields-4,
 
 Conserve missiles, but do use the Artemis against threatening weapons. Keep the Artemis unless you need the slot or absolutely need the scrap. If you find no weapons but do get crew, consider buying a teleporter: the Artemis provides good boarding support.
 
-You have three empty system slots to fill, so try to buy your first system a little earlier than usual. With no special systems or crew, distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual.
 
 Consider running your pilot to doors during the FTL jump. Just remember to send them back!
+
+You have no blue options for distress beacons in sector 1, so prefer unmarked beacons.
+
 
 ### Balance Mod
 
@@ -106,7 +109,7 @@ Ideally you want fast weapons to complement your remaining Basic Lasers. If you 
 
 Move the shield-room Mantis to doors initially. You probably want the Zoltan on engines. Remember you can use them to [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s). Cooldown systems like hacking and mind control appear rather far away from the main systems, so power-stealing is awkward.
 
-Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+You have no blue options for distress beacons in sector 1, so prefer unmarked beacons.
 
 
 ## Kestrel C
@@ -120,6 +123,8 @@ Put the Lanius on piloting, to protect it from boarders and help with nearby ven
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual.
+
+Sector 1 distress beacons are worth visiting. You have a clone bay and a good blue option from the Ion Stunner.
 
 ### Balance Mod: The Loon
 
@@ -137,6 +142,8 @@ Avoid selling the Recharge Booster! It’s a good economic augment that also mak
 
 The Breach Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
 
+Sector 1 distress beacons are worth visiting. You have a clone bay, plus blue options from the Lanius (good) and the Slug (weak).
+
 
 ## Engi A
 
@@ -151,6 +158,8 @@ Med-bot Dispersal is fine to keep or sell (definitely sell it for anything impor
 Medbay-2 is still not worth buying early, but consider it once you are stable&thinsp;&mdash;&thinsp;providing you kept the augment and are visiting a distress beacon in one of those sectors, especially later in the game.
 
 Start your engines crew on doors. Just remember to send them back!
+
+Sector 1 distress beacons are worth visiting, since the Engi gives good blue options.
 
 
 ## Engi B
@@ -170,6 +179,8 @@ Note that enemy boarders will stay in an airless room, provided they are already
 Heal your AP drone between fights, even though it’s tedious. [Park repair drones](https://www.reddit.com/r/ftlgame/comments/8mxqw5/depower_a_repair_drone_to_park_it_in_a_system/) for quicker repairs and to prevent boarders trashing them. Note that having even one extra crew helps you [control repair drones](https://www.reddit.com/r/ftlgame/comments/7wvjed/controlling_system_repair_drones/).
 
 &hellip;and I lied. It is [technically possible](https://www.reddit.com/r/ftlgame/comments/6eoqw6/impossible_to_get_through_2_bubbles_with_the/) to kill two-shield enemies with your starting weapons, if you’re utterly desperate.
+
+Sector 1 distress beacons are well worth visiting. You have good blue options from the Engi and both drones. It might even be better to pick distress over a guaranteed fight, especially since early fights can go badly on this ship.
 
 
 ### Balance Mod
@@ -199,6 +210,8 @@ Start your engines crew on sensors, and run your pilot to doors during the FTL j
 
 Hacking’s cooldown resets when you jump.
 
+Sector 1 distress beacons are worth visiting. You have a clone bay, plus blue options from the Engi (good) and drone (weak).
+
 ### Balance Mod
 
 Defence Scrambler sells for 20. Try to keep it, so you can hack ships with defence drones (notably flagship phase 2).
@@ -212,7 +225,9 @@ Artillery is nice late-game if you have scrap to spare (particularly for the fla
 
 Since artillery uses a system slot, you can only pick two more systems. [Defence drones cover this ship poorly](https://i.imgur.com/Y92J2ml.jpg): weapons and drones are vulnerable.
 
-Your diverse crew makes distress beacons great. Put the Rock on piloting and the Mantis on weapons. Move the Engi to doors initially. Consider pre-venting the empty rooms on the right side, then letting them refill a bit.
+Put the Rock on piloting and the Mantis on weapons. Move the Engi to doors initially. Consider pre-venting the empty rooms on the right side, then letting them refill a bit.
+
+Sector 1 distress beacons are well worth visiting. You have good blue options with Engi and Rock crew. A guaranteed fight is probably still better.
 
 
 ## Federation B
@@ -225,7 +240,7 @@ Put the Slug in piloting. Consider putting the Zoltan in weapons: they can [de-i
 
 The layout is a little awkward, but you can still vent shields or weapons in under 3 seconds by using **all** airlocks and turning off O2.
 
-Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+In sector 1, prefer unmarked beacons over distress. Your only blue option is from the Slug (weak).
 
 ### Balance Mod: The Albatross
 
@@ -245,7 +260,7 @@ When calculating weapon timings, remember you have an Automated Reloader. This m
 
 With the slow weapons, it’s important to use your Artillery Beam tactically. Enemies may start running away when your weapons or Artillery hits them, so try to have the other damage source ready to fire immediately afterwards. Manage the power on your Artillery Beam so that it fires at a good time.
 
-You start with medbay-2, so some "always skip" events are safe! You can take "[dilapidated station](https://ftl.fandom.com/wiki/Damaged_Space_Station)" and "[no response to your hails](https://ftl.fandom.com/wiki/Small_research_station_with_no_response)". Medbay-2 makes distress beacons a little better. Giant alien spiders remain no joke.
+Medbay-2 makes sector 1 distress beacons slightly better, but not much. Unmarked beacons are probably still better.
 
 ## Federation C
 
@@ -259,8 +274,9 @@ Mantis and Human are the strongest and safest boarding party (Zoltan bombing is 
 
 Emergency Respirators make automated ships much easier to board. Keep them until you need to sell them for something better, like a weapon.
 
-
 As usual, the artillery is too expensive to upgrade, unless you are late in the game with plenty of scrap.
+
+Sector 1 distress beacons are worth visiting. You have a clone bay, plus an okay teleporter blue option.
 
 ### Balance Mod
 
@@ -285,7 +301,9 @@ In early fights, typically use the Halberd and start the beam in shields for max
 
 Your first extra crew member is worth one free power, replacing the pilot. Don’t forget that two Zoltans can completely [ion-proof one shield layer](https://www.youtube.com/watch?v=jpR3veZtlsc&t=3m15s), and can also [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) even when you have multiple layers.
 
-You have three empty system slots to fill, so try to buy your first system a little earlier than usual. Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+You have three empty system slots to fill, so try to buy your first system a little earlier than usual.
+
+In sector 1, prefer unmarked beacons over distress. Your only blue option is from the Halberd (weak).
 
 ### Balance Mod
 
@@ -314,9 +332,9 @@ This ship is somewhat vulnerable to boarding. Start the engines Zoltan on doors 
 
 Don’t forget that two Zoltans can completely [ion-proof one shield layer](https://www.youtube.com/watch?v=jpR3veZtlsc&t=3m15s), and can also [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) when you have multiple layers. Here’s a surprising fact about pulsars: even while you only have shields-1, a single Zoltan in the shields room will guarantee that the pulse hits the shield system (but probably it’s better to just send all three Zoltans into the weapons).
 
-Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
-
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship poorly](https://i.imgur.com/hUidgrH.jpg): weapons and drones are vulnerable.
+
+In sector 1, prefer unmarked beacons over distress. Your only blue option is from the Ion Blast (good, but just one event). 
 
 ### Balance Mod
 
@@ -345,6 +363,7 @@ Don’t forget that two Zoltans can completely [ion-proof one shield layer](http
 
 Backup battery’s cooldown resets when you jump.
 
+Distress beacons are worth visiting in sector 1. You have a clone bay, plus blue options from Charge Ion (good) and the drone (weak).
 
 
 ## Mantis A
@@ -358,6 +377,8 @@ Start two Mantis in the teleporter. I like the third Mantis on piloting, as that
 Consider upgrading teleporter somewhat early, as this lets you board automated ships.
 
 Weapons and shields are awkward to vent. Consider pre-venting them, then letting oxygen refill a bit.
+
+Sector 1 distress beacons are worth visting. You have blue options from the Engi (good) and teleporter (okay).
 
 ### Balance Mod
 
@@ -386,6 +407,8 @@ Your defences are strong, but not quite as strong as they appear. The defence dr
 
 Mantis Pheromones is nice to have while you’re still boarding with two crew, but when you fill up the teleporter it becomes less relevant. Fine to keep or sell.
 
+Distress beacons are worth visiting in sector 1. You have good blue options from the teleporter and Defence Drone, but they apply to the same event. The drone is typically better, but the teleporter gives a 50% chance of crew; therefore choose teleporter unless you already got some non-Mantis crew. The Boarding Drone also has one low-scrap blue option. Even without blue options, distress beacons can give crew and do not risk any (rare) spiral-of-doom ship fights.
+
 ### Balance Mod
 
 Piloting-2 is 25 scrap instead of 20, so I’d probably take engines-3 first.
@@ -412,6 +435,8 @@ Mantis Pheromones is nice to have while you’re still (mostly) boarding with tw
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
+Sector 1 distress beacons are well worth visiting&thinsp;&mdash;&thinsp;maybe even better than a guaranteed fight, considering how useful extra crew are to this ship. You have a clone bay, plus blue options from the Engi (good) and teleporter (good for this ship).
+
 ### Balance Mod
 
 Both bombs charge faster, so advanced tactics like perma-locking weapons are more often viable. With crew manning weapons, the Lockdown Bomb can keep a room locked down permanently. Following a Lockdown Bomb with a Stun Bomb is still usually better; nevertheless, it’s a consideration if you are choosing which bomb to keep.
@@ -433,7 +458,7 @@ Start your second Slug on weapons, then move to engines as needed. Venting the f
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship well](https://i.imgur.com/IQpdpCr.jpg), as all rooms are outside the blind spot.
 
-Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
+Sector 1 distress beacons are probably worth visiting. You have blue options from the Anti-bio Beam (good) and the Slug (weak).
 
 ### Balance Mod
 
@@ -458,6 +483,8 @@ You can fight in the weapons room and hit it with a missile, dodging your crew o
 
 [Defence drones cover this ship poorly](https://i.imgur.com/vOgB7mg.jpg): as weapons and clone/medbay are vulnerable.
 
+Sector 1 distress beacons are&hellip;maybe worth visiting. You have blue options from the teleporter (okay) and the Slug (weak).
+
 ### Balance Mod
 
 Slug Repair Gel sells for 20, Healing Burst for 12. Healing Burst charges quicker. Reconstructive Teleport costs 45.
@@ -481,6 +508,8 @@ When completely safe and with a guaranteed crew-kill, damage the hull for surren
 
 Hacking and mind control reset their cooldowns when you jump.
 
+Sector 1 distress beacons are probably worth visiting. You have a clone bay and a blue option from the Slug (weak).
+
 
 ## Rock A
 
@@ -493,6 +522,8 @@ The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades i
 Use missiles as efficiently as possible, but do use them against threatening weapons. When enemy hull is not a multiple of 4, destroy piloting with the Artemis to guarantee the Hull Missile will hit. Accept missile-heavy surrenders. Sometimes it might not be worth fighting a Zoltan ship. As a last resort, buy missiles: it’s better than being unable to win fights.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship well](https://i.imgur.com/Hrmzp9N.jpg), as all rooms are outside the blind spot.
+
+Sector 1 distress beacons are worth visiting. You have blue options from Rock crew (good) and Rock Plating (okay). 
 
 ### Balance Mod
 
@@ -517,6 +548,8 @@ Doors are much too expensive to buy. Note you don’t get airlocks, although hul
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship well](https://i.imgur.com/FUSYVNi.jpg), as all rooms are outside the blind spot.
 
+Sector 1 distress beacons are worth visiting. You have blue options from Rock crew (good) and Rock Plating (okay).
+
 ### Balance Mod
 
 Doors are much cheaper (30), but still not worth it unless you’re trying to improve your odds of finding other systems later. Rock Plating sells for 30, Fire Bomb for 22, Teleporter costs 80.
@@ -531,6 +564,8 @@ Weapons are good early on, but a little awkward to upgrade. In particular, Heavy
 Remember to use your Crystal tactically when defending against boarders! You have good boarding crew, so a teleporter is a good fallback plan if weapons are lacking.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship well](https://i.imgur.com/xtqlP7k.jpg), as all rooms are outside the blind spot.
+
+Sector 1 distress beacons are well worth visiting. You have a clone bay, plus blue options from Rock crew (good) and Rock Plating (okay).
 
 ### Balance Mod
 
@@ -553,7 +588,7 @@ Cloaking-2 fills a similar role to weapons-3, as it often lets you fire an extra
 
 Once you have shields, upgrading them is not urgent (since you have cloak too). You can skip shields-3, which effectively does the same job as your weapons buffer. However, shields-4 is still a priority, and getting it early gives you more chance of training evade against the easier enemies in sector 2. Also remember you can use the Mini Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), increasing the value of shields-4.
 
-Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still better than an unmarked beacon, but worse than a guaranteed fight.
+Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You only have blue options from cloaking-1 (weak), Mini Beam (weak). However, note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
 ### Balance Mod
 
@@ -604,7 +639,7 @@ If your weapons *do* get hit, you are unlikely to win the fight. Running away is
 
 Later on, with fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies (notably shieldless auto-scouts).
 
-Distress beacons are less good than usual&thinsp;&mdash;&thinsp;probably still better than an unmarked beacon, but maybe worse than a guaranteed fight.
+Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You have blue options from cloaking (okay, good once upgraded) and the Glaive Beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
 ### Balance Mod
 
@@ -632,7 +667,7 @@ Don’t underestimate the Shield+ Drone, however. Shields are more important, bu
 
 At pulsars, a single Zoltan Shield layer will completely absorb the ion pulse. Bizarrely, this only works *when you have a shields system*. Before then, pulsars will *ignore* the Zoltan Shield.
 
-
+Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You have a clone bay, plus blue options from the Rock (good), Slug (weak), and beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
 ### Balance Mod
 
@@ -661,6 +696,8 @@ Emergency Respirators have little use, but do help you vent more aggressively. V
 
 Hacking’s cooldown is reset when you jump.
 
+Sector 1 distress beacons are worth visiting. You have a clone bay and a good blue option from the Ion Stunner.
+
 ### Balance Mod
 
 Emergency Respirators sell for just 12 scrap, so you might want to keep them a bit longer.
@@ -688,6 +725,8 @@ With cloaking, boarding, and mind control, it’s easy to neutralise phase 1 and
 
 Mind control’s cooldown is reset when you jump (but teleporter’s is not).
 
+Sector 1 distress beacons are worth visiting. You have a clone bay, plus blue options from the Engi (good) and teleporter (okay).
+
 ### Balance Mod
 
 Emergency Respirators sell for just 12 scrap, so you might want to keep them a bit longer. Advanced Flak can distract defence drones, letting hacking sneak past.
@@ -705,9 +744,9 @@ Bear in mind that Engi and Rebel sectors have a higher chance of defence drones.
 
 Sell Crystal Vengeance at the first store you visit.
 
-Distress beacons are less good than usual&thinsp;&mdash;&thinsp;possibly still better than a "standard" beacon, but worse than a guaranteed fight (if you have map data).
-
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship poorly](https://i.imgur.com/CEsuzYp.jpg), as weapons are vulnerable.
+
+You have no blue options for distress beacons. In sector 1, prefer unmarked beacons to distress.
 
 ### Balance Mod
 
@@ -733,3 +772,5 @@ Crystals can survive almost 39 seconds without air. Board auto-ships with two Cr
 Sell Crystal Vengeance at the first store (sells for 20 in Balance Mod). You only have one system slot left, so get hacking.
 
 &hellip;and I lied again. It’s [technically possible](https://www.reddit.com/r/ftlgame/comments/al3bil/safely_destroying_auto_ships_with_a_medbay_on_the/) to kill automated ships, with perfect timing. Make one tiny slip and you lose a Crystal though, so I don’t think the risk is worth the reward. It’s not like this ship needs the scrap.
+
+Sector 1 distress beacons are somewhat worth visiting. You have blue options from cloaking-1 (okay, upgraded is better) and teleporter (okay).
