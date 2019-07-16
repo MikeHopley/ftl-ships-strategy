@@ -180,7 +180,7 @@ Heal your AP drone between fights, even though it’s tedious. [Park repair dron
 
 &hellip;and I lied. It is [technically possible](https://www.reddit.com/r/ftlgame/comments/6eoqw6/impossible_to_get_through_2_bubbles_with_the/) to kill two-shield enemies with your starting weapons, if you’re utterly desperate.
 
-Sector 1 distress beacons are well worth visiting. You have good blue options from the Engi and both drones. It might even be better to pick distress over "ship detected", especially since early fights can go badly on this ship.
+Sector 1 distress beacons are well worth visiting. You have good blue options from the Engi and both drones. It might even be better to pick distress over a guaranteed fight, especially since early fights can go badly on this ship.
 
 
 ### Balance Mod
@@ -227,7 +227,7 @@ Since artillery uses a system slot, you can only pick two more systems. [Defence
 
 Put the Rock on piloting and the Mantis on weapons. Move the Engi to doors initially. Consider pre-venting the empty rooms on the right side, then letting them refill a bit.
 
-Sector 1 distress beacons are well worth visiting. You have good blue options with Engi and Rock crew. "Ship detected" is probably still better.
+Sector 1 distress beacons are well worth visiting. You have good blue options with Engi and Rock crew. A guaranteed fight is probably still better.
 
 
 ## Federation B
@@ -435,7 +435,7 @@ Mantis Pheromones is nice to have while you’re still (mostly) boarding with tw
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
-Sector 1 distress beacons are well worth visiting&thinsp;&mdash;&thinsp;maybe even better than "ship detected", considering how useful extra crew are to this ship. You have a clone bay, plus blue options from the Engi (good) and teleporter (good for this ship).
+Sector 1 distress beacons are well worth visiting&thinsp;&mdash;&thinsp;maybe even better than a guaranteed fight, considering how useful extra crew are to this ship. You have a clone bay, plus blue options from the Engi (good) and teleporter (good for this ship).
 
 ### Balance Mod
 
@@ -588,7 +588,7 @@ Cloaking-2 fills a similar role to weapons-3, as it often lets you fire an extra
 
 Once you have shields, upgrading them is not urgent (since you have cloak too). You can skip shields-3, which effectively does the same job as your weapons buffer. However, shields-4 is still a priority, and getting it early gives you more chance of training evade against the easier enemies in sector 2. Also remember you can use the Mini Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), increasing the value of shields-4.
 
-Sector 1 distress beacons are worth visiting, but "ship detected" beacons are better. You only have blue options from cloaking-1 (weak) and Mini Beam (weak). However, note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
+Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You only have blue options from cloaking-1 (weak) and Mini Beam (weak). However, note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
 ### Balance Mod
 
@@ -639,7 +639,7 @@ If your weapons *do* get hit, you are unlikely to win the fight. Running away is
 
 Later on, with fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies (notably shieldless auto-scouts).
 
-Sector 1 distress beacons are worth visiting, but "ship detected" beacons are better. You have blue options from cloaking (okay, good once upgraded) and the Glaive Beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
+Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You have blue options from cloaking (okay, good once upgraded) and the Glaive Beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
 ### Balance Mod
 
@@ -667,7 +667,7 @@ Don’t underestimate the Shield+ Drone, however. Shields are more important, bu
 
 At pulsars, a single Zoltan Shield layer will completely absorb the ion pulse. Bizarrely, this only works *when you have a shields system*. Before then, pulsars will *ignore* the Zoltan Shield.
 
-Sector 1 distress beacons are well worth visiting, but "ship detected" beacons are better. You have a clone bay, plus blue options from the Rock (good), Slug (weak), and beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
+Sector 1 distress beacons are well worth visiting, but guaranteed fights are better. You have a clone bay, plus blue options from the Rock (good), Slug (weak), and beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
 ### Balance Mod
 
