@@ -274,6 +274,8 @@ Remember to use the airlocks on clone bay and shields! They are hard to see.
 
 Mantis and Human are the strongest and safest boarding party (Zoltan bombing is more cute than effective). Keeping Zoltans at home also has tactical advantages: they can ion-proof your clone bay, [ion-proof one shield layer](https://www.youtube.com/watch?v=jpR3veZtlsc&t=3m15s), or [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) even when you have multiple layers.
 
+If you’re tight on power, consider starting the engines Zoltan in the artillery room. They can run through the teleporter to power it, and will reach the engines station after 4 seconds.
+
 Emergency Respirators make automated ships much easier to board. Keep them until you need to sell them for something better, like a weapon.
 
 As usual, the artillery is too expensive to upgrade, unless you are late in the game with plenty of scrap.
@@ -747,6 +749,8 @@ Bear in mind that Engi and Rebel sectors have a higher chance of defence drones.
 Sell Crystal Vengeance at the first store you visit.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship poorly](https://i.imgur.com/CEsuzYp.jpg), as weapons are vulnerable.
+
+Crew positions are hard to decide. Crystal crew are slow to move around this sprawling ship, so there’s an argument for putting them on piloting and engines. But you might want to board with them later; they also have a 17% penalty to fire-fighting. On balance, I prefer the default positions (Humans on piloting and engines).
 
 You have no blue options for distress beacons in sector 1, so prefer unmarked beacons.
 
