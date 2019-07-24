@@ -178,9 +178,9 @@ Note that enemy boarders will stay in an airless room, provided they are already
 
 Heal your AP drone between fights, even though it’s tedious. [Park repair drones](https://www.reddit.com/r/ftlgame/comments/8mxqw5/depower_a_repair_drone_to_park_it_in_a_system/) for quicker repairs and to prevent boarders trashing them. Note that having even one extra crew helps you [control repair drones](https://www.reddit.com/r/ftlgame/comments/7wvjed/controlling_system_repair_drones/).
 
-&hellip;and I lied. It is [technically possible](https://www.reddit.com/r/ftlgame/comments/6eoqw6/impossible_to_get_through_2_bubbles_with_the/) to kill two-shield enemies with your starting weapons, if you’re utterly desperate.
-
 Sector 1 distress beacons are well worth visiting. You have good blue options from the Engi and both drones. It might even be better to pick distress over a guaranteed fight, especially since early fights can go badly on this ship.
+
+&hellip;and I lied. It is [technically possible](https://www.reddit.com/r/ftlgame/comments/6eoqw6/impossible_to_get_through_2_bubbles_with_the/) to kill two-shield enemies with your starting weapons, if you’re utterly desperate.
 
 
 ### Balance Mod
@@ -225,7 +225,9 @@ Artillery is nice late-game if you have scrap to spare (particularly for the fla
 
 Since artillery uses a system slot, you can only pick two more systems. [Defence drones cover this ship poorly](https://i.imgur.com/Y92J2ml.jpg): weapons and drones are vulnerable.
 
-Put the Rock on piloting and the Mantis on weapons. Move the Engi to doors initially. Consider pre-venting the empty rooms on the right side, then letting them refill a bit.
+For crew positions, I like: Rock piloting, Mantis engines, Human weapons, Engi starting on doors. The Engi should be mobile for repairs, and can move to shields if doors aren’t needed. Piloting is awkward to vent, so the Rock’s fire-immunity and 67% fire-fighting bonus is helpful. Weapons is a high-priority room to repair, so I prefer the Human over the Mantis here.
+
+Consider pre-venting the empty rooms on the right side, then letting them refill a bit. Also consider pre-venting the top-left rooms above engines.
 
 Sector 1 distress beacons are well worth visiting. You have good blue options with Engi and Rock crew. A guaranteed fight is probably still better.
 
@@ -771,6 +773,6 @@ Crystals can survive almost 39 seconds without air. Board auto-ships with two Cr
 
 Sell Crystal Vengeance at the first store (sells for 20 in Balance Mod). You only have one system slot left, so get hacking.
 
-&hellip;and I lied again. It’s [technically possible](https://www.reddit.com/r/ftlgame/comments/al3bil/safely_destroying_auto_ships_with_a_medbay_on_the/) to kill automated ships, with perfect timing. Make one tiny slip and you lose a Crystal though, so I don’t think the risk is worth the reward. It’s not like this ship needs the scrap.
-
 Sector 1 distress beacons are&hellip;maybe worth visiting. You have blue options from cloaking-1 (weak) and teleporter (okay).
+
+&hellip;and I lied again. It’s [technically possible](https://www.reddit.com/r/ftlgame/comments/al3bil/safely_destroying_auto_ships_with_a_medbay_on_the/) to kill automated ships, with perfect timing. Make one tiny slip and you lose a Crystal though, so I don’t think the risk is worth the reward. It’s not like this ship needs the scrap.
