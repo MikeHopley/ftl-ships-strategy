@@ -521,7 +521,7 @@ You urgently need non-missile offence. Ideally get good weapons, but you really 
 
 Seriously consider buying a teleporter. This fixes your missile dependency and gives you a reliable way to win fights for a long time, as the Artemis is a great boarding support weapon. Unfortunately that means boarding with painfully slow Rocks and leaving just a pilot at home. At least the teleporter slots right next to the medbay. When you get more crew (especially Mantis and Engi), it will be much more comfortable.
 
-The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades in the hope of hitting a good store.
+The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades in the hope of hitting a good store. Selling the Rock Plating and Hull Missile nets you 72 scrap. Don’t sell the Hull Missile unless it gets you something relevant. For example, you might buy a teleporter but then be forced into an Abandoned sector 2.
 
 Use missiles as efficiently as possible, but do use them against threatening weapons. When enemy hull is not a multiple of 4, destroy piloting with the Artemis to guarantee the Hull Missile will hit. Accept missile-heavy surrenders. Sometimes it might not be worth fighting a Zoltan ship. As a last resort, buy missiles: it’s better than being unable to win fights.
 
