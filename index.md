@@ -738,7 +738,7 @@ Emergency Respirators sell for just 12 scrap, so you might want to keep them a b
 
 ## Crystal A
 
-The starting weapons can handle two-shield enemies, so get shields-3, shields-4, then look for a weapon or teleporter.
+The starting weapons can handle two-shield enemies, so get shields-3, shields-4, then look for a weapon. If weapons are thin, seriously consider a teleporter.
 
 Two Crystal crew make a strong boarding party. Each lockdown lasts 12 seconds; when enemies have two crew, you break 3 weapons bars in ~19 seconds. You can break weapons faster/more by adding mind control, hacking, upgrading teleporter, or just using your weapons.
 
