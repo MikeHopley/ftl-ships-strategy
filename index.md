@@ -378,7 +378,7 @@ When completely safe, destroy systems for surrender offers (as low as 1 hull). B
 
 Start two Mantis in the teleporter. I like the third Mantis on piloting, as that’s closer to the teleporter and makes the Engi more mobile. Start your fourth crew on weapons, then run to engines as needed.
 
-Consider upgrading teleporter somewhat early, as this lets you board automated ships.
+Consider upgrading teleporter somewhat early, as this lets you board automated ships. Also consider avoiding nebula beacons early on, especially if you are low on missiles.
 
 Weapons and shields are awkward to vent. Consider pre-venting them, then letting oxygen refill a bit.
 
@@ -399,7 +399,7 @@ Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from 
 
 If you don’t find crew, consider buying a weapon instead. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
-The boarding drone will eventually kill any automated ship, unless it lands in an isolated piloting room. That means it can kill 90% of automated ships, unless they are running away. With an upgraded teleporter, this becomes 100% with the help of your Mantis, but it’s not worth 30 early-game scrap.
+The boarding drone will eventually kill any automated ship, unless it lands in an isolated piloting room. That means it can kill 90% of automated ships, unless they are running away. With an upgraded teleporter, this becomes 100% with the help of your Mantis, but it’s not worth 30 early-game scrap. Regardless, consider avoiding nebula beacons early on, as you are stronger against crewed ships.
 
 Don’t hesitate to spend drone parts when fights look dangerous. Your boarding drone is not just for automated ships. A rapid crew-kill can be your best defence.
 
