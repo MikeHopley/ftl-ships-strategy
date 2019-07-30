@@ -521,9 +521,11 @@ You urgently need non-missile offence. Ideally get good weapons, but you really 
 
 Seriously consider buying a teleporter. This fixes your missile dependency and gives you a reliable way to win fights for a long time, as the Artemis is a great boarding support weapon. Unfortunately that means boarding with painfully slow Rocks and leaving just a pilot at home. At least the teleporter slots right next to the medbay. When you get more crew (especially Mantis and Engi), it will be much more comfortable.
 
-The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades in the hope of hitting a good store. Selling the Rock Plating and Hull Missile nets you 72 scrap. Don’t sell the Hull Missile unless it gets you something relevant. For example, you might buy a teleporter but then be forced into an Abandoned sector 2.
+The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades in the hope of hitting a good store. Selling the Rock Plating and Hull Missile nets you 72 scrap. Bear in mind that the Hull Missile may still be useful if you bought a teleporter: you might get forced into an Abandoned sector 2. Similarly, consider keeping the Rock Plating if you can: it has a blue option that guarantees a weapon in one reasonably common event in Engi, Rock, and Pirate sectors. Without the blue option, it’s 1/3 chance.
 
-Use missiles as efficiently as possible, but do use them against threatening weapons. When enemy hull is not a multiple of 4, destroy piloting with the Artemis to guarantee the Hull Missile will hit. Accept missile-heavy surrenders. Sometimes it might not be worth fighting a Zoltan ship. As a last resort, buy missiles: it’s better than being unable to win fights.
+Use missiles as efficiently as possible, but do use them against threatening weapons. Sometimes it might not be worth fighting a Zoltan ship. As a last resort, buy missiles: it’s better than being unable to win fights. Accept missile-heavy surrenders.
+
+When enemy hull is a multiple of 4, consider just using Hull missiles; otherwise, consider destroying piloting with the Artemis to guarantee a Hull Missile will hit. Bear in mind that enemy ships can run away: for example, against a 10-hull enemy, consider starting with a Hull Missile before the Artemis to piloting. If they start running away when the Artemis hits, they have no chance of escape.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship well](https://i.imgur.com/Hrmzp9N.jpg), as all rooms are outside the blind spot.
 
