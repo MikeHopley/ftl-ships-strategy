@@ -671,7 +671,7 @@ Drones-3 is tempting, as it gives your Shield Drone a damage buffer. It also let
 
 Don’t underestimate the Shield+ Drone, however. Shields are more important, but I’ll try to hold onto the drone if I reasonably can.
 
-At pulsars, a single Zoltan Shield layer will completely absorb the ion pulse. Bizarrely, this only works *when you have a shields system*. Before then, pulsars will *ignore* the Zoltan Shield.
+At pulsars, a single Zoltan Shield layer will completely absorb the ion pulse. Bizarrely, [this only works when you have a shields system](https://www.youtube.com/watch?v=FcfjeR9GIhQ&t=3m45s). Before then, pulsars will *ignore* the Zoltan Shield.
 
 Sector 1 distress beacons are well worth visiting, but guaranteed fights are better. You have a clone bay, plus blue options from the Rock (good), Slug (weak), and beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
