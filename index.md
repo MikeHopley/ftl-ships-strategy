@@ -584,6 +584,8 @@ Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and 
 
 Time your volley precisely. It’s often best to wait a moment before firing the Dual Lasers, so that the Mini Beam damages engines to increase the chance of the second laser hitting. When possible, start firing the Dual Lasers before cloaking. The Mini Beam can hit four rooms on many ships.
 
+Against Zoltan Shields, use [precise beam placement and timing](https://www.youtube.com/watch?v=PPji41olyFM&t=1m20s) to help disable weapons.
+
 Your weapons are strong initially, but slot-inefficient. You’ll probably replace one of them eventually, and it’s difficult to choose which. If you’re hacking shields, maybe keep the Mini Beam; otherwise, maybe keep the Dual Lasers.
 
 As on Stealth B, keeping oxygen below 50% decreases the chance of weapons/cloaking being hit. With fast weapons though (and a long walk to sensors), it’s not worth using the weapons depower trick.
@@ -660,6 +662,8 @@ Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and 
 Put the Slug in piloting. Put the Rock on weapons, because the central location offsets their slow movement; weapons is also an important room to repair, and Rocks have a hidden 67% bonus to fire-fighting. The Human can start in doors, and quickly move to engines.
 
 Use your Shield Drone precisely. Activate it immediately in most fights, but sometimes delay it instead. For example, when you have shields and the enemy has a Basic Laser and a Hermes Missile: wait 6 seconds before powering the drone, and you can block a lot of missiles. You can also depower the drone after a shield is hit, to reset the drone’s internal timer. For example, this makes you invulnerable against a Heavy Laser.
+
+Against Zoltan Shields, use [precise beam placement and timing](https://www.youtube.com/watch?v=PPji41olyFM&t=5m39s) to help disable weapons.
 
 As with Stealth B, keeping oxygen below 50% decreases the chance of weapons being hit.
 
