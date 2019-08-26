@@ -238,7 +238,7 @@ Shields-3, shields-4, then look for a weapon. Your Zoltan can [power shields-3](
 
 [Defence drones cover this ship poorly](https://i.imgur.com/TpuD5BE.jpg): shields and weapons are vulnerable. Avoid spending scrap on the artillery beam, unless everything else is set.
 
-Put the Slug in piloting. Consider putting the Zoltan in weapons: they can [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) and steal power from mind control or hacking, which are slotted nearby (although cloaking slots next to engines). Consider starting the engines crew on doors; just remember to send them back!
+Put the Slug in piloting, and the Zoltan in weapons: they can [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) and steal power from mind control or hacking, which are slotted nearby (although cloaking slots next to engines). Consider starting the engines crew on doors; just remember to send them back!
 
 The layout is a little awkward, but you can still vent shields or weapons in under 3 seconds by using **all** airlocks and turning off O2.
 
