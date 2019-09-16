@@ -376,7 +376,7 @@ Shields-3, shields-4, then look for a weapon. Don’t forget weapons-2 is 40 scr
 
 Mind control can be a strong purchase on a two-tile boarding ship, especially early, as it enables the same early-game tactics as Lanius B.
 
-When completely safe, destroy systems for surrender offers (as low as 1 hull). Boarding with 3 crew can often disable clone/medbays without spending missiles.
+When completely safe, destroy systems for surrender offers (as low as 1 hull). Boarding with three crew can often disable clone/medbays without spending missiles.
 
 Start two Mantis in the teleporter. I like the third Mantis on piloting, as that’s closer to the teleporter and makes the Engi more mobile. Start your fourth crew on weapons, then run to engines as needed.
 
@@ -401,7 +401,7 @@ Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from 
 
 If you don’t find crew, consider buying a weapon instead. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
-Once you have 3 crew, you gain the option of using distraction tactics to break weapons (see Mantis C for an explanation).
+Once you have three crew, you gain the option of using distraction tactics to break weapons (see Mantis C for an explanation).
 
 The boarding drone will eventually kill any automated ship, unless it lands in an isolated piloting room. That means it can kill 90% of automated ships, unless they are running away. With an upgraded teleporter, this becomes 100% with the help of your Mantis, but it’s not worth 30 early-game scrap. Regardless, consider avoiding nebula beacons early on, as you are stronger against crewed ships.
 
@@ -429,7 +429,7 @@ Shields-3, shields-4, then look for weapons. If you’re still low on crew in th
 
 Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew.
 
-Boarding with all three crew can be your fastest way to disable enemy weapons, using distraction tactics (similar to Lanius B). Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times). For even more time punching weapons, follow this with a Lockdown or Stun Bomb. This tactic only fails when enemies have three crew **and** a two-tile shields room.
+Boarding with all three crew often lets you disable clone/medbays without spending missiles. It's also often most effective way to disable enemy weapons, using distraction tactics similar to Lanius B. Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times). For even more time punching weapons, follow this with a Lockdown or Stun Bomb. This tactic only fails when enemies have three crew **and** a two-tile shields room.
 
 The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
@@ -725,7 +725,7 @@ Emergency Respirators sell for just 12 scrap, so you might want to keep them a b
 
 Shields-3, shields-4, then look for a weapon. Remember you only start with engines-1. Despite its strength, this ship has nothing special defensively at the start, so it’s still possible to have rough encounters.
 
-Start both Lanius in the teleporter. Board shields, then mind control an enemy in the room. Make sure the enemy has space to stay in the room (move a Lanius out while paused, if necessary). Defending shields takes top priority, so enemies fight each other while your Lanius attack another system. This also pulls the pilot away, so your weapons have a better chance of hitting. When completely safe, destroy systems for surrender offers (as low as 1 hull).
+Start both Lanius in the teleporter, and [use distraction tactics](https://www.youtube.com/watch?v=gmEKvFe8A30) to make enemies fight in shields while your Lanius punch down another system (such as weapons or medbay). When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 Your Lanius can’t use the medical airlock, so try to limit damage to them. When enemy weapons are no longer a threat, you can take your time and avoid fighting crew directly. Destroy O2, then walk your Lanius around the ship to drain oxygen from rooms (especially weapons). Once a room has no air, you can get free combat XP by punching down the system. You can also trick enemies into running through airless rooms.
 
