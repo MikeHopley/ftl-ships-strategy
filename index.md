@@ -429,7 +429,7 @@ Shields-3, shields-4, then look for weapons. If you’re still low on crew in th
 
 Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew.
 
-Boarding with all 3 crew can be your fastest way to disable enemy weapons, using distraction tactics (similar to Lanius B). Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times). For even more time punching weapons, follow this with a Lockdown or Stun Bomb. This tactic only fails when enemies have 3 crew **and** a two-tile shields room.
+Boarding with all three crew can be your fastest way to disable enemy weapons, using distraction tactics (similar to Lanius B). Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times). For even more time punching weapons, follow this with a Lockdown or Stun Bomb. This tactic only fails when enemies have three crew **and** a two-tile shields room.
 
 The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
