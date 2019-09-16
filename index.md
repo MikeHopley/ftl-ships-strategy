@@ -429,17 +429,21 @@ Shields-3, shields-4, then look for weapons. If you’re still low on crew in th
 
 Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew.
 
-Boarding with all three crew often lets you disable clone/medbays without spending missiles. It's also often most effective way to disable enemy weapons, using distraction tactics similar to Lanius B. Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times). For even more time punching weapons, follow this with a Lockdown or Stun Bomb. This tactic only fails when enemies have three crew **and** a two-tile shields room.
+Sometimes the safest option is the simplest: just kill the enemy crew as quickly as possible.
+
+Boarding with all three crew often lets you disable clone/medbays without spending missiles. It can also be your most effective way to disable enemy weapons, using distraction tactics similar to Lanius B. Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times). This tactic only really fails when enemies have three crew **and** a two-tile shields room.
+
+For even more time punching weapons, use your bombs tactically. Lockdown lasts for 12 seconds, and stun lasts for 15. You can stun all the enemy crew in shields; then if needed, use the Lockdown Bomb as well. Or lockdown weapons first, then stun the crew trying to break in. Or you might want to use the Stun Bomb on weapons, to switch off a dangerous weapon more quickly. There are many possible tactics!
+
+With good timing, it’s possible to dodge all your crew out a room while stunning the enemy crew. But even stunning your Lanius is effective: enemy crew will rapidly suffocate. Stunning them in an airless room can be more effective than attacking the medbay.
 
 The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
-The Stun Bomb and Lockdown Bomb are "bad" weapons, but reliable as boarding support. Either can get the job done, so it’s safe to sell one early. The Stun Bomb is generally more useful; with good timing, you can stun enemy crew and avoid stunning your own, while also disabling a weapon or drone. Even without perfect timing, you can just stun enemies with your Lanius and let them suffocate. Sometimes this is more effective than breaking the medbay.
-
-However, using both bombs together enables some clever tactics. Sometimes you can board and Lockdown weapons at the same time, making the pilot leave in time to drop evasion. Before the Lockdown wears off, Stun Bomb the crew trying to break in. Lockdown lasts for 12 seconds and the stun lasts 15, so your crew have up to 27 seconds unmolested in the weapons room; that’s enough to break 4 weapons levels. Your Mantis will start suffocating after about 14 seconds, and will die 15 seconds later.
-
-Although it’s possible to break weapons in this way, it’s usually faster to board immediately and kill the crew. Use your sensor information to help decide.
-
 Mantis Pheromones is nice to have while you’re still (mostly) boarding with two crew, but less relevant once your teleporter is full. Fine to keep or sell.
+
+Although keeping both bombs does extend your tactical options, they mostly overlap in function. Either bomb is sufficient for boarding support, so it’s fine to sell one early. Generally the Stun Bomb is more tactically useful, and it also lets you break Zoltan shields. You’ll probably sell both bombs eventually, as you transition to more powerful weapons.
+
+Note that stuns can be chained when manning weapons with level 1 training, and so can lockdowns with fully-trained crew (but only just, so occasionally enemy crew will get through). 
 
 [Defence drones cover this ship poorly](https://i.imgur.com/QALokZf.jpg): shields and weapons are vulnerable.
 
@@ -449,7 +453,7 @@ Sector 1 distress beacons are well worth visiting&thinsp;&mdash;&thinsp;maybe ev
 
 ### Balance Mod
 
-Both bombs charge faster, so advanced tactics like perma-locking weapons are more often viable. With crew manning weapons, the Lockdown Bomb can keep a room locked down permanently. Following a Lockdown Bomb with a Stun Bomb is still usually better; nevertheless, it’s a consideration if you are choosing which bomb to keep.
+Both bombs charge faster, so advanced tactics like perma-locking weapons are more often viable. The Lockdown Bomb chains with untrained crew manning weapons, and the Stun Bomb chains even without manning weapons
 
 The Stun Bomb can disable defence drones, letting you sneak hacking past them. But for the flagship phase 2, it’s faster to board their drones system (the crew should already be dead).
 
