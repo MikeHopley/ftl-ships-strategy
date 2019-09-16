@@ -399,6 +399,8 @@ Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from 
 
 If you don’t find crew, consider buying a weapon instead. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
+Once you have 3 crew, you gain the option of using distraction tactics to break weapons (see Mantis C for an explanation).
+
 The boarding drone will eventually kill any automated ship, unless it lands in an isolated piloting room. That means it can kill 90% of automated ships, unless they are running away. With an upgraded teleporter, this becomes 100% with the help of your Mantis, but it’s not worth 30 early-game scrap. Regardless, consider avoiding nebula beacons early on, as you are stronger against crewed ships.
 
 Don’t hesitate to spend drone parts when fights look dangerous. Your boarding drone is not just for automated ships. A rapid crew-kill can be your best defence.
@@ -423,11 +425,13 @@ Auto-assaults no longer appear in sector 1, so the boarding drone can kill 95% o
 
 Shields-3, shields-4, then look for weapons. If you’re still low on crew in the mid-game, buy some.
 
-Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew. When completely safe, destroy systems for surrender offers (as low as 1 hull).
+Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew.
 
-The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. Remember that the Engi can board too. Boarding with 3 crew can often disable clone/medbays without spending missiles.
+Boarding with all 3 crew can be your fastest way to disable enemy weapons, using distraction tactics (similar to Lanius B). Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times). For even more time punching weapons, follow this with a Lockdown or Stun Bomb. This tactic only fails when enemies have 3 crew **and** a two-tile shields room.
 
-The Stun Bomb and Lockdown Bomb are "bad" weapons, but reliable as boarding support. Either can get the job done, so it’s safe to sell one early. The Stun Bomb is generally more useful; with good timing, you can stun enemy crew and avoid stunning your own, while also disabling a weapon or drone.
+The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. When completely safe, destroy systems for surrender offers (as low as 1 hull).
+
+The Stun Bomb and Lockdown Bomb are "bad" weapons, but reliable as boarding support. Either can get the job done, so it’s safe to sell one early. The Stun Bomb is generally more useful; with good timing, you can stun enemy crew and avoid stunning your own, while also disabling a weapon or drone. Even without perfect timing, you can just stun enemies with your Lanius and let them suffocate. Sometimes this is more effective than breaking the medbay.
 
 However, using both bombs together enables some clever tactics. Sometimes you can board and Lockdown weapons at the same time, making the pilot leave in time to drop evasion. Before the Lockdown wears off, Stun Bomb the crew trying to break in. Lockdown lasts for 12 seconds and the stun lasts 15, so your crew have up to 27 seconds unmolested in the weapons room; that’s enough to break 4 weapons levels. Your Mantis will start suffocating after about 14 seconds, and will die 15 seconds later.
 
