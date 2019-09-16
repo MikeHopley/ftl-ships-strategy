@@ -374,6 +374,8 @@ Sector 1 distress beacons are worth visiting. You have a clone bay, plus blue op
 
 Shields-3, shields-4, then look for a weapon. Don’t forget weapons-2 is 40 scrap; buying this lets you use the Small Bomb and Basic Laser together. Mantis Pheromones is somewhat useful, but also fine to sell. Small Bomb is a great boarding support weapon, and can also disable enemy weapons. Use it liberally in sector 1 to reduce risk.
 
+Mind control can be a strong purchase on a two-tile boarding ship, especially early, as it enables the same early-game tactics as Lanius B.
+
 When completely safe, destroy systems for surrender offers (as low as 1 hull). Boarding with 3 crew can often disable clone/medbays without spending missiles.
 
 Start two Mantis in the teleporter. I like the third Mantis on piloting, as that’s closer to the teleporter and makes the Engi more mobile. Start your fourth crew on weapons, then run to engines as needed.
@@ -478,6 +480,8 @@ The Breach Bomb can disable defence drones, letting you sneak hacking past them.
 Shields-3, shields-4, then look for a weapon. You don’t need clone/medbay as urgently as you might think (prefer clone bay).
 
 Even without Reconstructive Teleport, you *can* skip clone/medbay entirely. This gives an extra system slot. However, it also means you’ll have a harder time finding the systems you actually want (hacking!), because clone/medbay will always take up a slot in the store. On balance, I feel it’s better to pick up a medical system.
+
+Mind control can be a strong purchase on a two-tile boarding ship, especially early, as it enables the same early-game tactics as Lanius B.
 
 Consider teleporter-2, so you can more safely board automated ships. Without it, you can still board if you destroy piloting with your Artemis first (guaranteeing the Healing Burst will hit).
 
