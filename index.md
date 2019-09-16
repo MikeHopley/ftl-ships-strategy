@@ -439,7 +439,7 @@ With good timing, it’s possible to dodge all your crew out a room while stunni
 
 The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
-Mantis Pheromones is nice to have while you’re still (mostly) boarding with two crew, but less relevant once your teleporter is full. Fine to keep or sell.
+Mantis Pheromones is nice to have early on, but less relevant once your teleporter is full. Fine to keep or sell.
 
 Although keeping both bombs does extend your tactical options, they mostly overlap in function. Either bomb is sufficient for boarding support, so it’s fine to sell one early. Generally the Stun Bomb is more tactically useful, and it also lets you break Zoltan shields. You’ll probably sell both bombs eventually, as you transition to more powerful weapons.
 
