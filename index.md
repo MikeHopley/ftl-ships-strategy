@@ -98,7 +98,7 @@ You have no blue options for distress beacons in sector 1, so prefer unmarked be
 
 ### Balance Mod
 
-The Artemis lets you sneak hacking past defence drones. Bear this in mind for the flagship.
+The Artemis lets you sneak hacking past defence drones. Bear this in mind for the Flagship.
 
 
 ## Kestrel B
@@ -140,7 +140,7 @@ Even though you have a Slug now, it’s still probably better to leave the Laniu
 
 Avoid selling the Recharge Booster! It’s a good economic augment that also makes you safer. At 35 scrap it’s often worth buying; you can think of it as "budget Long-Ranged Scanners".
 
-The Breach Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
+The Breach Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the Flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
 
 Sector 1 distress beacons are worth visiting. You have a clone bay, plus blue options from the Lanius (good) and the Slug (weak).
 
@@ -214,14 +214,14 @@ Sector 1 distress beacons are worth visiting. You have a clone bay, plus blue op
 
 ### Balance Mod
 
-Defence Scrambler sells for 20. Try to keep it, so you can hack ships with defence drones (notably flagship phase 2).
+Defence Scrambler sells for 20. Try to keep it, so you can hack ships with defence drones (notably Flagship phase 2).
 
 
 ## Federation A
 
 Shields-3, shields-4, then look for a weapon. Teleporter is a reasonable fallback plan, since you start with decent boarders.
 
-Artillery is nice late-game if you have scrap to spare (particularly for the flagship), but too expensive to upgrade earlier. Beware enemies running away: when possible, manage the Artillery Beam power so that it’s ready to fire immediately after your weapons hit, or vice-versa.
+Artillery is nice late-game if you have scrap to spare (particularly for the Flagship), but too expensive to upgrade earlier. Beware enemies running away: when possible, manage the Artillery Beam power so that it’s ready to fire immediately after your weapons hit, or vice-versa.
 
 Since artillery uses a system slot, you can only pick two more systems. [Defence drones cover this ship poorly](https://i.imgur.com/Y92J2ml.jpg): weapons and drones are vulnerable.
 
@@ -313,7 +313,7 @@ In sector 1, prefer unmarked beacons over distress. Your only blue option is fro
 
 Hacking costs 130, so it’s harder to pick up in sector 1. Nevertheless, visiting stores with at least 55 scrap is still useful, as this lets you buy almost any one- or two-power weapon. Burst Laser 2 is 90, Flak 1 is 80.
 
-The Leto lets you sneak hacking past defence drones. Bear this in mind for the flagship.
+The Leto lets you sneak hacking past defence drones. Bear this in mind for the Flagship.
 
 
 ## Zoltan B
@@ -388,7 +388,7 @@ Sector 1 distress beacons are worth visting. You have blue options from the Engi
 
 ### Balance Mod
 
-The Small Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
+The Small Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the Flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
 
 ## Mantis B
 
@@ -411,7 +411,7 @@ Precise venting helps against solar flares or fire-lighting weapons. Just before
 
 Have the pilot Mantis move to the teleporter during the FTL jump, and start the other Mantis in sensors. This delays boarding by under 2 seconds, and in some trickier situations sensor information can stop you sending crew on a suicide mission. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
-Your defences are strong, but not quite as strong as they appear. The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg). You only have one spare system slot, so get cloaking or hacking. Probably hacking, which allows you to kill the flagship crew easily.
+Your defences are strong, but not quite as strong as they appear. The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg). You only have one spare system slot, so get cloaking or hacking. Probably hacking, which allows you to kill the Flagship crew easily.
 
 Mantis Pheromones is nice to have while you’re still boarding with two crew, but when you fill up the teleporter it becomes less relevant. Fine to keep or sell.
 
@@ -425,23 +425,27 @@ Auto-assaults no longer appear in sector 1, so the boarding drone can kill 95% o
 
 ## Mantis C
 
-Shields-3, shields-4, then look for weapons. If you’re still low on crew in the mid-game, buy some.
+Shields-3, shields-4, then look for weapons. Finding weapons is not urgent, however: the Stun Bomb lets you beat any enemy in the game, [including the Flagship](https://www.youtube.com/watch?v=n4di0ohYcOs&t=9m55s)! If you’re still low on crew in the mid-game, buy some.
+
+Mantis Pheromones is nice early on, but less relevant once your teleporter is full. Fine to keep or sell.
+
+Although keeping both bombs does extend your tactical options, they mostly overlap in function. Either bomb is sufficient for boarding support, so it’s fine to sell one early. The Stun Bomb is more tactically useful, and it also lets you break Zoltan shields. You’ll probably sell both bombs eventually, as you transition to more powerful weapons.
+
+It may be worth visiting an early store just to sell Mantis Pheromones and the Lockdown Bomb. This gets you 47 scrap, nearly enough for shields-4.
 
 Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew.
 
 Sometimes the safest option is the simplest: just kill the enemy crew as quickly as possible.
 
-Boarding with all three crew often lets you disable clone/medbays without spending missiles. It can also be your most effective way to disable enemy weapons, using distraction tactics similar to Lanius B. Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times). This tactic only really fails when enemies have three crew **and** a two-tile shields room.
+Boarding with all three crew often lets you disable clone/medbays without spending missiles. It can also be your most effective way to disable enemy weapons, using distraction tactics similar to Lanius B. Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times).
+
+This tactic fails when enemies have three crew **and** a two-tile shields room. In some fights it’s also risky to leave your ship unattended. It may be safer to leave your Engi at home, so you can repair shields.
 
 For even more time punching weapons, use your bombs tactically. Lockdown lasts for 12 seconds, and stun lasts for 15. You can stun all the enemy crew in shields; then if needed, use the Lockdown Bomb as well. Or lockdown weapons first, then stun the crew trying to break in. Or you might want to use the Stun Bomb on weapons, to switch off a dangerous weapon more quickly. There are many possible tactics!
 
 With good timing, it’s possible to dodge all your crew out a room while stunning the enemy crew. But even stunning your Lanius is effective: enemy crew will rapidly suffocate. Stunning them in an airless room can be more effective than attacking the medbay.
 
 The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. When completely safe, destroy systems for surrender offers (as low as 1 hull).
-
-Mantis Pheromones is nice to have early on, but less relevant once your teleporter is full. Fine to keep or sell.
-
-Although keeping both bombs does extend your tactical options, they mostly overlap in function. Either bomb is sufficient for boarding support, so it’s fine to sell one early. Generally the Stun Bomb is more tactically useful, and it also lets you break Zoltan shields. You’ll probably sell both bombs eventually, as you transition to more powerful weapons.
 
 Note that stuns can be chained when manning weapons with level 1 training, and so can lockdowns with fully-trained crew (but only just, so occasionally enemy crew will get through). 
 
@@ -455,9 +459,9 @@ Sector 1 distress beacons are well worth visiting&thinsp;&mdash;&thinsp;maybe ev
 
 Both bombs charge faster, so advanced tactics like perma-locking weapons are more often viable. The Lockdown Bomb chains with untrained crew manning weapons, and the Stun Bomb chains even without manning weapons
 
-The Stun Bomb can disable defence drones, letting you sneak hacking past them. But for the flagship phase 2, it’s faster to board their drones system (the crew should already be dead).
+The Stun Bomb can disable defence drones, letting you sneak hacking past them. But for the Flagship phase 2, it’s faster to board their drones system (the crew should already be dead).
 
-Stun Bomb sells for 17, Lockdown Bomb for 12.
+Stun Bomb sells for 17, Lockdown Bomb for 12. Selling both Lockdown Bomb and Mantis Pheromones gets you 37 scrap, so it could take either one or two beacons’ scrap reward before you can afford shields-4.
 
 
 ## Slug A
@@ -476,7 +480,7 @@ Sector 1 distress beacons are probably worth visiting. You have blue options fro
 
 ### Balance Mod
 
-The Breach Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
+The Breach Bomb can disable defence drones, letting you sneak hacking past them. Bear this in mind for the Flagship. Flagship drone slots have been rearranged so that the defence drone goes down first.
 
 
 ## Slug B
@@ -505,7 +509,7 @@ Sector 1 distress beacons are&hellip;maybe worth visiting. You have blue options
 
 Slug Repair Gel sells for 20, Healing Burst for 12. Healing Burst charges quicker. Reconstructive Teleport costs 45.
 
-The Artemis lets you sneak hacking past defence drones. Bear this in mind for the flagship.
+The Artemis lets you sneak hacking past defence drones. Bear this in mind for the Flagship.
 
 
 ## Slug C
@@ -549,20 +553,20 @@ Explosive Replicator means you can keep using missiles a bit longer, especially 
 
 Alternative offence is still a priority, and possibly before upgrading shields. Rock Plating sells for 30, Hull Missile for 22, Explosive Replicator for 20. Teleporter costs 80.
 
-Keeping the Artemis lets you sneak hacking past defence drones. Bear this in mind for the flagship.
+Keeping the Artemis lets you sneak hacking past defence drones. Bear this in mind for the Flagship.
 
 
 ## Rock B
 
 Your offence is good initially, but terrible against two-shield enemies. You also have a weapons buffer for the Heavy Pierce. Consider delaying shield upgrades, in the hope of finding a good store.
 
-Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons. The Fire Bomb can get some early crew kills, but only use it when you are safe. Avoid selling the Fire Bomb unless it gets you something important, as it can help you kill the flagship crew.
+Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons. The Fire Bomb can get some early crew kills, but only use it when you are safe. Avoid selling the Fire Bomb unless it gets you something important, as it can help you kill the Flagship crew.
 
 By itself, the Fire Bomb is not that effective, except against Mantis. Enemies prioritise fighting fires, and can usually put them out efficiently. The bomb explosion does 30 crew damage, but that’s a lot of missiles to kill crew directly. Soften them up with the Heavy Pierce first; either target crew directly, or maybe try for a breach in O2. Breaches attract a second crew once repaired, giving a chance to double your Fire Bomb damage. Beware enemies running away, however.
 
 It’s tempting to upgrade weapons early, so you can use them together; but this doesn’t improve your offence enough. That scrap is better saved for buying a weapon, a system, or shields-4. Mind control or hacking makes the Fire Bomb much more effective. Also consider a teleporter for Rock fire-boarding shenanigans.
 
-Doors are much too expensive to buy. Note you don’t get airlocks, although hull breaches can be used. You *can* fire-bomb your own ship to help with boarding defence, but this is rarely useful. Mind control helps, especially against the flagship. Phase 3 boarders can be rough without doors/venting, so you have extra incentive to kill the crew in phase 1; you can do this by fire-bombing shields, together with mind control or hacking.
+Doors are much too expensive to buy. Note you don’t get airlocks, although hull breaches can be used. You *can* fire-bomb your own ship to help with boarding defence, but this is rarely useful. Mind control helps, especially against the Flagship. Phase 3 boarders can be rough without doors/venting, so you have extra incentive to kill the crew in phase 1; you can do this by fire-bombing shields, together with mind control or hacking.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship well](https://i.imgur.com/FUSYVNi.jpg), as all rooms are outside the blind spot.
 
