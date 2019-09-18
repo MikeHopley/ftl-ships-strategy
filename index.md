@@ -425,7 +425,7 @@ Auto-assaults no longer appear in sector 1, so the boarding drone can kill 95% o
 
 ## Mantis C
 
-Shields-3, shields-4, then look for weapons. Finding weapons is not urgent, however: the Stun Bomb lets you beat any enemy in the game, [including the Flagship](https://www.youtube.com/watch?v=n4di0ohYcOs&t=9m55s)! If you’re still low on crew in the mid-game, buy some.
+Shields-3, shields-4, then look for weapons. Finding weapons is not urgent, as the Stun Bomb lets you beat any enemy in the game&thinsp;&mdash;&thinsp;[including the Flagship](https://www.youtube.com/watch?v=n4di0ohYcOs&t=9m55s)! If you’re still low on crew in the mid-game, buy some.
 
 Mantis Pheromones is nice early on, but less relevant once your teleporter is full. Fine to keep or sell.
 
