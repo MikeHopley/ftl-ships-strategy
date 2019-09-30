@@ -353,15 +353,15 @@ Autofiring the ion on shields is not always the best tactic. Consider sending so
 
 Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this! When the beam drone has started firing, cutting power will not interrupt its beam; you can micro that power to engines as a shot comes in.
 
-With that in mind, consider your crew positions carefully, and move them around as needed. You can start two Zoltans in weapons, with the other two in engines and piloting. This is simple and flexible. When fights drag on and your battery is about to run out, consider moving the pilot. Your first extra crew member gives one free power (replacing the pilot).
+With that in mind, consider your crew positions carefully, and move them around as needed. You can start two Zoltans in weapons, with the other two in engines and piloting. This is simple and flexible. When fights drag on and your battery is about to run out, consider moving the pilot into drones.
 
-For better defence in boarding events, you can start a Zoltan in doors (with the others in weapons, piloting, engines). This complicates optimal power micro considerably.
+For better defence in boarding events, you can start one of the weapons Zoltans in doors instead. Alternatively, start them in the bottom-left corner of drones.
 
 The clone bay is vulnerable to event boarding; pre-vent it, then let oxygen refill to 90%. This lets you vent the clone bay in 4 seconds using 4 airlocks. If you forget to do this, you can use all 6 airlocks (venting through weapons too). In both cases, you also need to turn off O2.
 
 Charge Ion is the best ion weapon in the game. Adding another 2-power ion weapon will take down shields reliably for the whole game (even a 1-power ion will do, especially mid-game). Hacking somewhat overlaps with the ion cascade, but is still very strong. For example, hack shields and ionise weapons.
 
-Early reactor upgrades are expensive. In the early game, avoid buying more than you absolutely need. You can get by with much less than you might think, for quite some time.
+Early reactor upgrades are expensive. In the early game, avoid buying more than you absolutely need. You can get by with much less than you might think, for quite some time. Your first extra crew member gives one free power (replacing the pilot).
 
 Don’t forget that two Zoltans can completely [ion-proof one shield layer](https://www.youtube.com/watch?v=jpR3veZtlsc&t=3m15s), and can also [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) when you have multiple layers.
 
