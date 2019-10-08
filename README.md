@@ -5,6 +5,7 @@ https://mikehopley.github.io/ftl-ships-strategy/
 
 ## To do:
 
+* Fed C: check whether flak artillery disrupts cloaking
 * Lanius B: check AI behaviour for shield-boarding tactic. How many crew before you are opposed? How many stop you pulling the pilot?
 * Engi B
   - 94 scrap in sellables, so better to just rush shields? How bad is it really to sell the AP drone?
