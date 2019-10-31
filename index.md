@@ -791,7 +791,7 @@ Start fights with one Crystal in the teleporter, and have the pilot start walkin
 
 Each lockdown lasts 12 seconds. Hitting lockdown **immediately** when boarding can prevent enemy crew entering the room, sometimes even when they are standing on an adjacent tile. When unopposed, two Crystals will break 3 weapons levels in ~19 seconds; three Crystals will break 8 weapons levels (!) in ~33 seconds (in a four-tile weapons room).
 
-Typically board weapons directly; but if they have crew manning the room, it may be better to board elsewhere and [sneak back into weapons](https://streamable.com/dnyto) once it’s empty. Crew can walk straight through lockdown, provided they were already past the halfway point on the adjacent tile. Your Crystals can do this too: they will lockdown the room they’re *currently* in, but still make it into the weapons room. When enemy crew are trying to break into a room, they will not stop to fight; use this to get free hits.
+Typically board weapons directly; but if they have crew manning the room, it may be better to board elsewhere and [sneak back into weapons](https://streamable.com/dnyto) once it’s empty. Crew can walk straight through lockdown, provided they were already past the halfway point on the adjacent tile.
 
 Consider pre-cloaking enemy weapons, if you think you can break them in time. Your cloak resets immediately after killing the enemy crew; use this to dodge last-second missiles.
 
