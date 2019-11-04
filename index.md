@@ -180,6 +180,8 @@ Heal your AP drone between fights, even though it’s tedious. [Park repair dron
 
 Sector 1 distress beacons are well worth visiting. You have good blue options from the Engi and both drones. It might even be better to pick distress over a guaranteed fight, especially since early fights can go badly on this ship.
 
+At the [Engi Research Station event](https://ftl.fandom.com/wiki/Engi_Research_Station), it’s always safe to save the Engi.
+
 &hellip;and I lied. It is [technically possible](https://www.reddit.com/r/ftlgame/comments/6eoqw6/impossible_to_get_through_2_bubbles_with_the/) to kill two-shield enemies with your starting weapons, if you’re utterly desperate.
 
 
