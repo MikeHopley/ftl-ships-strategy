@@ -400,7 +400,7 @@ Your vulnerability is fixed by getting more crew. An Engi is ideal, but you coul
 
 After that, seriously consider upgrading piloting with your next 20 scrap, or possibly engines-3 if you have 15 scrap. This could prevent you purchasing early crew, but I think these early upgrades are safer overall.
 
-If you see an early store, visit it even with zero scrap. You can sell Mantis Pheromones to fund an engine upgrade. You could also buy a System Repair Drone.
+If you see an early store, visit it even with zero scrap. You can sell Mantis Pheromones to fund an engine upgrade. With 5 extra scrap, you could buy a System Repair Drone.
 
 After you’ve taken care of early-game safety, look for a weapon. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
@@ -424,7 +424,7 @@ You also have good blue options from the teleporter and Defence Drone, but they 
 
 ### Balance Mod
 
-Piloting-2 is 25 scrap instead of 20, so I may take engines-3 first.
+Piloting-2 is 25 scrap instead of 20, so maybe take engines-3 first. System Repair Drones only cost 20 scrap, so you can afford one immediately.
 
 Auto-assaults no longer appear in sector 1, so the boarding drone can kill 95% of automated ships there.
 
