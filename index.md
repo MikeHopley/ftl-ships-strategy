@@ -400,7 +400,7 @@ Your vulnerability is fixed by getting more crew. An Engi is ideal, but you coul
 
 After that, seriously consider upgrading piloting with your next 20 scrap, or possibly engines-3 if you have 15 scrap. This could prevent you purchasing early crew, but I think these early upgrades are safer overall.
 
-If you see an early store, consider visiting it even with zero scrap. You can sell Mantis Pheromones to fund an engine upgrade. With 5 extra scrap, you could buy a System Repair Drone.
+If you see an early store, consider visiting it even with zero scrap. You can sell Mantis Pheromones for an engine upgrade. With 5 extra scrap, you could buy a System Repair Drone.
 
 After you’ve taken care of early-game safety, look for a weapon. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
