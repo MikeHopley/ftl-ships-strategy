@@ -394,18 +394,19 @@ The Small Bomb can disable defence drones, letting you sneak hacking past them. 
 
 ## Mantis B
 
-Occasionally you can get wrecked in the early game, due to terrible firefighting and repairs. Although getting a weapon lets you fight Zoltan ships, the absolute priority is additional crew. Buying crew improves offence and (critically) repairs.
+Despite its apparent strength, this ship is [extremely vulnerable](https://www.twitch.tv/videos/503932221?t=00h18m54s) at the start. Mantis are terrible at repairs or fighting fires, so you can easily lose in sector 1. **Accept this reality, and plan accordingly.**
 
-Rushing engines-2 and engines-3 (or piloting-2) is cheap and helps you run from dangerous fights (e.g. solar flare + enemy with nasty weapons). However, it could stop you buying crew. So on balance, my preferred strategy is:
+Your vulnerability is fixed by getting more crew. An Engi is ideal, but you could die while saving up for crew. Instead, I recommend spending your first 10 scrap on engines-2. At least your engines can then take a hit without halting the FTL charge.
 
-* Engines-2 immediately
-* Save scrap for buying crew (ideally an Engi)
+After that, seriously consider upgrading piloting with your next 20 scrap, or possibly engines-3 if you have 15 scrap. This could prevent you purchasing early crew, but I think these early upgrades are safer overall.
 
-If you don’t find crew, consider buying a weapon instead. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
+If you see an early store, visit it even with zero scrap. You can sell Mantis Pheromones to fund an engine upgrade. You could also buy a System Repair Drone.
+
+After you’ve taken care of early-game safety, look for a weapon. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
 Once you have three crew, you gain the option of using distraction tactics to break weapons (see Mantis C for an explanation).
 
-The boarding drone will eventually kill any automated ship, unless it lands in an isolated piloting room. That means it can kill 90% of automated ships, unless they are running away. With an upgraded teleporter, this becomes 100% with the help of your Mantis, but it’s not worth 30 early-game scrap. Regardless, consider avoiding nebula beacons early on, as you are stronger against crewed ships.
+The boarding drone will eventually kill any automated ship, unless it lands in an isolated piloting room. That means it can kill 90% of automated ships, unless they are running away. With an upgraded teleporter, this becomes 100% with the help of your Mantis, but it’s not worth 30 early-game scrap. Regardless, consider avoiding nebula beacons early on.
 
 Don’t hesitate to spend drone parts when fights look dangerous. Your boarding drone is not just for automated ships. A rapid crew-kill can be your best defence.
 
@@ -413,15 +414,17 @@ Precise venting helps against solar flares or fire-lighting weapons. Just before
 
 Have the pilot Mantis move to the teleporter during the FTL jump, and start the other Mantis in sensors. This delays boarding by under 2 seconds, and in some trickier situations sensor information can stop you sending crew on a suicide mission. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
-Your defences are strong, but not quite as strong as they appear. The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg). You only have one spare system slot, so get cloaking or hacking. Probably hacking, which allows you to kill the Flagship crew easily.
+The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg). You only have one spare system slot, so get cloaking or hacking. Probably hacking, which allows you to kill the Flagship crew easily.
 
 Mantis Pheromones is nice to have while you’re still boarding with two crew, but when you fill up the teleporter it becomes less relevant. Fine to keep or sell.
 
-Sector 1 distress beacons are worth visiting. You have good blue options from the teleporter and Defence Drone, but they apply to the same event. The drone is typically better, but the teleporter gives a 50% chance of crew; therefore choose teleporter unless you already got some non-Mantis crew. The Boarding Drone also has one low-scrap blue option. Even without blue options, distress beacons can give crew and do not risk any (rare) spiral-of-doom ship fights.
+Sector 1 distress beacons are worth visiting. Even without blue options, distress beacons can give crew, and are safer on average. The Boarding Drone also has a low-scrap blue option.
+
+You also have good blue options from the teleporter and Defence Drone, but they apply to [the same event](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon). The drone is typically better, but risks system damage with a fire; and the teleporter gives a 50% chance of crew. Therefore choose teleporter unless you already got some non-Mantis crew.
 
 ### Balance Mod
 
-Piloting-2 is 25 scrap instead of 20, so I’d probably take engines-3 first.
+Piloting-2 is 25 scrap instead of 20, so I may take engines-3 first.
 
 Auto-assaults no longer appear in sector 1, so the boarding drone can kill 95% of automated ships there.
 
