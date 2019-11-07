@@ -410,9 +410,9 @@ Once you have three crew, you gain the option of using distraction tactics to br
 
 The boarding drone will eventually kill any automated ship, unless it lands in an isolated piloting room. That means it can kill 90% of automated ships, unless they are running away. With an upgraded teleporter, this becomes 100% with the help of your Mantis, but it’s not worth 30 early-game scrap. Regardless, consider avoiding nebula beacons early on.
 
-Don’t hesitate to spend drone parts when fights look dangerous. Your boarding drone is not just for automated ships. A rapid crew-kill can be your best defence.
-
 When the drone starts leaving a room, you can sometimes make it change destination by toggling power. For example, when the drone lands in the shields room on an auto-scout, you can force its next room to be weapons instead of piloting.
+
+Don’t hesitate to spend drone parts when fights look dangerous. Your boarding drone is not just for automated ships. A rapid crew-kill can be your best defence.
 
 Precise venting helps against solar flares or fire-lighting weapons. Just before the fire starts, have no oxygen in the bottom-left corner, and switch off O2; but also close the doors. [Repairing O2 is possible](https://www.youtube.com/watch?v=J47ENy6-CAM&t=1m22s) even in a fully-vented ship, providing you have medbay-2: you’ll need to run relays, and the timing is very tight.
 
@@ -423,12 +423,6 @@ The defence drone is [unreliable at protecting shields and drones](https://i.img
 Sector 1 distress beacons are worth visiting. Even without blue options, distress beacons can give crew, and are safer on average. The Boarding Drone also has a low-scrap blue option.
 
 You also have good blue options from the teleporter and Defence Drone, but they apply to [the same event](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon). The drone is typically better, but risks system damage with a fire; and the teleporter gives a 50% chance of crew. Therefore choose teleporter unless you already got some non-Mantis crew.
-
-### Balance Mod
-
-Piloting-2 is 25 scrap instead of 20, so maybe take engines-3 first. System Repair Drones only cost 20 scrap, so you can afford one immediately.
-
-Auto-assaults no longer appear in sector 1, so the boarding drone can kill 95% of automated ships there.
 
 ## Mantis C
 
