@@ -396,11 +396,13 @@ The Small Bomb can disable defence drones, letting you sneak hacking past them. 
 
 Despite its apparent strength, this ship is [extremely vulnerable](https://www.twitch.tv/videos/503932221?t=00h18m54s) at the start. Mantis are terrible at repairs or fighting fires, so you can easily lose in sector 1. **Accept this reality, and plan accordingly.**
 
-Your vulnerability is fixed by getting more crew. An Engi is ideal, but you could die while saving up for crew. Instead, I recommend spending your first 10 scrap on engines-2. At least your engines can then take a hit without halting the FTL charge.
+During this vulnerable period, try to plan a route that lets you revisit a previous beacon. This gives you a safe place to repair after a disaster.
 
-After that, seriously consider upgrading piloting with your next 20 scrap, or possibly engines-3 if you have 15 scrap. This could prevent you purchasing early crew, but I think these early upgrades are safer overall.
+There are two ways to fix your vulnerabilty: crew or engine upgrades. Crew are much better (ideally an Engi), but saving scrap takes too long. Therefore spend your first 10 scrap on engines-2, and your next 15 scrap on engines-3 (unless perhaps you get free crew first). Engines-3 makes a surprisingly big difference!
 
-If you see an early store, consider visiting it even with zero scrap. You can sell Mantis Pheromones for an engine upgrade. With 5 extra scrap, you could buy a System Repair Drone.
+Piloting-2 is also tempting after engines-2, but engines-3 is cheaper and provides more safety. Piloting-2 just acts as a damage buffer, whereas engines-3 also increases your evasion and speeds up the FTL drive. Crucially, engines-3 can take a Small Bomb without stopping the FTL charge.
+
+If you see an early store, visit it even with zero scrap. You can sell Mantis Pheromones and buy engines-3. Yes, it’s that important.
 
 After you’ve taken care of early-game safety, look for a weapon. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
@@ -415,8 +417,6 @@ Precise venting helps against solar flares or fire-lighting weapons. Just before
 Have the pilot Mantis move to the teleporter during the FTL jump, and start the other Mantis in sensors. This delays boarding by under 2 seconds, and in some trickier situations sensor information can stop you sending crew on a suicide mission. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg). You only have one spare system slot, so get cloaking or hacking. Probably hacking, which allows you to kill the Flagship crew easily.
-
-Mantis Pheromones is nice to have while you’re still boarding with two crew, but when you fill up the teleporter it becomes less relevant. Fine to keep or sell.
 
 Sector 1 distress beacons are worth visiting. Even without blue options, distress beacons can give crew, and are safer on average. The Boarding Drone also has a low-scrap blue option.
 
