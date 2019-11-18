@@ -662,6 +662,8 @@ Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less 
 
 It takes 2.5 seconds to run to sensors. In cases where exact timing might matter, consider walking your engines Zoltan around the ship for timing the sensors dash (for example, against a beam drone). Standard crew movement speed is 0.45 seconds per tile. When second volleys matter, you can use your cloak cooldown as a timer (0.42 seconds per ion pip).
 
+Note that you can’t use the sensors trick in a nebula! This is another reason to avoid them.
+
 If your weapons *do* get hit, you are unlikely to win the fight. Running away is more important than repairing weapons, so prioritise repairs to piloting, engines, and cloaking. Stealth B can run surprisingly fast because cloaking buys time. Its effective minimum escape time is 28.3 seconds (realistically 30 or longer). Jump to a known safe beacon if possible, which often means jumping backwards.
 
 Later on, with fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies (notably shieldless auto-scouts).
@@ -672,7 +674,7 @@ Sector 1 distress beacons are worth visiting, but guaranteed fights are better. 
 
 Consider visiting an early store: selling Titanium System Casing gets you 25 scrap closer to cloaking-3 (which costs 40). Shields cost 120.
 
-Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer (you might still want to avoid plasma storms). This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
+Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer (but still bad, because you can’t use the sensors trick). This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
 
 ## Stealth C
 
