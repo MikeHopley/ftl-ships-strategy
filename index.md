@@ -569,6 +569,10 @@ It’s tempting to upgrade weapons early, so you can use them together; but this
 
 Doors are much too expensive to buy. Note you don’t get airlocks, although hull breaches can be used. You *can* fire-bomb your own ship to help with boarding defence, but this is rarely useful. Mind control helps, especially against the Flagship. Phase 3 boarders can be rough without doors/venting, so you have extra incentive to kill the crew in phase 1; you can do this by fire-bombing shields, together with mind control or hacking.
 
+Rock crew are good at putting out fires (67% bonus), but it’s important to stay on top of them. Fires can rage out of control in 4-tile rooms, so try to put them out quickly. In bad situations, turning off O2 can help fires burn themselves out faster.
+
+You have level 2 oxygen, but without doors it can’t counteract a breach. The Flagship’s Boarding Drone may be annoying, so consider oxygen-3 if you already have everything else you need.
+
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship well](https://i.imgur.com/FUSYVNi.jpg), as all rooms are outside the blind spot.
 
 Sector 1 distress beacons are worth visiting. You have blue options from Rock crew (good) and Rock Plating (okay).
@@ -576,6 +580,8 @@ Sector 1 distress beacons are worth visiting. You have blue options from Rock cr
 ### Balance Mod
 
 Doors are much cheaper (30), but still not worth it unless you’re trying to improve your odds of finding other systems later. Rock Plating sells for 30, Fire Bomb for 22, Teleporter costs 80.
+
+Oxygen-3 costs 30 scrap, making it more attractive as a "safety upgrade" for the Flagship.
 
 
 ## Rock C
