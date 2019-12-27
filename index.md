@@ -420,7 +420,7 @@ Leave one Mantis in piloting (to start the FTL charging immediately), and put th
 
 The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg). You only have one spare system slot, so get cloaking or hacking. Probably hacking, which allows you to kill the Flagship crew easily.
 
-Sector 1 distress beacons are worth visiting. Even without blue options, distress beacons can give crew, and are safer on average. The Boarding Drone also has a low-scrap blue option.
+Sector 1 distress beacons are worth visiting. Even without blue options, distress beacons can give crew, and are safer on average. The Boarding Drone has a low-scrap blue option.
 
 You also have good blue options from the teleporter and Defence Drone, but they apply to [the same event](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon). The drone is typically better, but risks system damage with a fire; and the teleporter gives a 50% chance of crew. Therefore choose teleporter unless you already got some non-Mantis crew.
 
@@ -440,7 +440,7 @@ Sometimes the safest option is the simplest: just kill the enemy crew as quickly
 
 Boarding with all three crew often lets you disable clone/medbays without spending missiles. It can also be your most effective way to disable enemy weapons, using distraction tactics similar to Lanius B. Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times).
 
-This tactic fails when enemies have three crew **and** a two-tile shields room. In some fights it’s also risky to leave your ship unattended. It may be safer to leave your Engi at home, so you can repair shields.
+This tactic fails when enemies have three crew **and** a two-tile shields room. In some fights it’s also risky to leave your ship unattended. It may be safer to leave your Engi at home for repairs.
 
 For even more time punching weapons, use your bombs tactically. Lockdown lasts for 12 seconds, and stun lasts for 15. You can stun all the enemy crew in shields; then if needed, use the Lockdown Bomb as well. Or lockdown weapons first, then stun the crew trying to break in. Or you might want to use the Stun Bomb on weapons, to switch off a dangerous weapon more quickly. There are many possible tactics!
 
@@ -688,7 +688,7 @@ Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and 
 
 Put the Slug in piloting. Put the Rock on weapons, because the central location offsets their slow movement; weapons is also an important room to repair, and Rocks have a hidden 67% bonus to fire-fighting. The Human can start in doors, and quickly move to engines.
 
-Use your Shield Drone precisely. Activate it immediately in most fights, but sometimes delay it instead. For example, when you have shields and the enemy has a Basic Laser and a Hermes Missile: wait 6 seconds before powering the drone, and you can block a lot of missiles. You can also depower the drone after a shield is hit, to reset the drone’s internal timer. For example, this makes you invulnerable against a Heavy Laser.
+Use your Shield Drone precisely. Activate it immediately in most fights, but sometimes delay it instead. For example, when you have shields and the enemy has a Basic Laser and a Hermes Missile: wait 6 seconds before powering the drone, and you can block a lot of missiles. You can also depower the drone after a shield is hit, to reset the drone’s internal timer. For example, this makes you invulnerable against an unmanned Heavy Laser.
 
 Against Zoltan Shields, use [precise beam placement and timing](https://www.youtube.com/watch?v=PPji41olyFM&t=5m39s) to help disable weapons.
 
