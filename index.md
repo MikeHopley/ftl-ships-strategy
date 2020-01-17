@@ -725,7 +725,7 @@ Ion Stunner can help with crew kills. For example: hack O2, destroy O2, then stu
 
 Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
-If weapons are thin, buy a teleporter. Double Lanius make excellent boarders, especially with hacking. Hack and board weapons, luring out any weapons crew first. Your Lanius can break weapons with little interruption: between the locked doors and low O2, enemy crew will barely hinder them. Adding mind control makes this even stronger: now their weapons crew works for you, or you can use Lanius B distraction tactics followed up with the Ion Stunner. Nevertheless, prefer cloaking to mind control.
+If weapons are thin, buy a teleporter. Double Lanius make excellent boarders, especially with hacking. Hack and board weapons, luring out any weapons crew first. Your Lanius can break weapons with little interruption: with doors locked and oxygen drained, enemy crew will barely hinder them. Adding mind control makes this even stronger: now their weapons crew works for you, or you can use Lanius B distraction tactics followed up with the Ion Stunner. Nevertheless, prefer cloaking to mind control.
 
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you’re pretty safe doing this.
 
