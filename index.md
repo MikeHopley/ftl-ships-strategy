@@ -715,7 +715,7 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 ## Lanius A
 
-Shields-3, shields-4, then look for a weapon. Rushing shields reduces your reliance on hacking for safety, and gives more chances for safe crew kills, . Early mind control can strengthen your crew-killing abilities. Remember you only have engines-1.
+Shields-3, shields-4, then look for a weapon or teleporter. Rushing shields reduces your reliance on hacking for safety, and gives more chances for safe crew kills. Early mind control can strengthen your crew-killing abilities. Remember you only have engines-1.
 
 Put one Lanius on piloting, to protect it from boarders and help with nearby venting. Put the other Lanius in engines: this makes it easier for them to help repair weapons without accidentally murdering their crewmate. It also lets you vent shields without moving crew, and the human is faster at running to doors or sensors.
 
@@ -725,7 +725,7 @@ Ion Stunner can help with crew kills. For example: hack O2, destroy O2, then stu
 
 Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
-Double Lanius make a good boarding crew, especially with the Ion Stunner, and even more so if you already bought mind control. Therefore buying a teleporter is a solid fallback plan if weapons are thin (it slots next to the clone bay).
+If weapons are thin, buy a teleporter. Double Lanius make excellent boarders, especially with hacking. Hack and board weapons, luring out any weapons crew first. Your Lanius can break weapons with little interruption: between the locked doors and low O2, enemy crew will barely hinder them. Adding mind control makes this even stronger: now their weapons crew works for you, or you can use Lanius B distraction tactics followed up with the Ion Stunner. Nevertheless, prefer cloaking to mind control.
 
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you’re pretty safe doing this.
 
