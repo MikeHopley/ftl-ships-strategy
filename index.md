@@ -200,7 +200,7 @@ Shields-3, shields-4, then look for a weapon. Dual Lasers are great, but may eve
 
 At each fight, consider whether to use your beam drone, hacking, both&thinsp;&mdash;&thinsp;or neither! Remember that preventing a damage cascade is more important than hoarding resources, and this is especially relevant while you only have 1 shield. It’s mostly best to use two drones early on, just look for opportunities where you can safely economise.
 
-Choose your hacking targets carefully in the early game. Hacking weapons is tempting, as it lets you fire first; but this only gives you one (targeted) damage against enemy weapons and only if both shots hit. Hacking shields is often better, as it gives you two shots against enemy weapons and may also let the beam drone hit twice; it also gives you a way to do damage even if your weapons are taken out. On the other hand, hacking weapons is great when you can de-synchronise them (e.g. Basic Laser and Mini Beam).
+Choose your hacking targets carefully in the early game. Hacking weapons is tempting, as it lets you fire first; but this only gives you one (targeted) damage against enemy weapons and only if both shots hit. Hacking shields is often better, as it gives you two shots against enemy weapons and a way to do damage even if your weapons are taken out. On the other hand, hacking weapons is great when you can de-synchronise them (e.g. Basic Laser and Mini Beam).
 
 Line up your Beam Drone early, as this gives a better chance to hit important systems. If it’s aiming at something useless, let it reposition while you wait for weapons / hacking.
 
@@ -244,6 +244,8 @@ Put the Slug in piloting, and the Zoltan in weapons: they can [de-ionise shields
 
 The layout is a little awkward, but you can still vent shields or weapons in under 3 seconds by using **all** airlocks and turning off O2.
 
+Enemies may start running away when your weapons or Artillery hits them, so try to have the other damage source ready to fire immediately afterwards. Manage the power on your Artillery Beam so that it fires at a good time.
+
 In sector 1, prefer unmarked beacons over distress. Your only blue option is from the Slug (weak).
 
 ### Balance Mod: The Albatross
@@ -262,7 +264,7 @@ Don’t rush to sell the Hermes, unless it lets you buy something important. Rem
 
 When calculating weapon timings, remember you have an Automated Reloader. This multiplies your charge time by 1/1.1, so with untrained crew the Hermes takes 11.5 seconds and the Heavy Laser 2 takes 10.6 seconds. The Reloader also affects your Artillery Beam.
 
-With the slow weapons, it’s important to use your Artillery Beam tactically. Enemies may start running away when your weapons or Artillery hits them, so try to have the other damage source ready to fire immediately afterwards. Manage the power on your Artillery Beam so that it fires at a good time.
+Enemies may start running away when your weapons or Artillery hits them, so try to have the other damage source ready to fire immediately afterwards. Manage the power on your Artillery Beam so that it fires at a good time.
 
 Medbay-2 makes sector 1 distress beacons slightly better, but not much. Unmarked beacons are probably still better.
 
@@ -276,7 +278,7 @@ Remember to use the airlocks on clone bay and shields! They are hard to see.
 
 Mantis and Human are the strongest and safest boarding party (Zoltan bombing is more cute than effective). Keeping Zoltans at home also has tactical advantages: they can ion-proof your clone bay, [ion-proof one shield layer](https://www.youtube.com/watch?v=jpR3veZtlsc&t=3m15s), or [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) even when you have multiple layers.
 
-If you’re tight on power, consider starting the engines Zoltan in the artillery room. They can run through the teleporter to power it, and will reach the engines station after 4 seconds.
+Consider running the engines Zoltan through the teleporter, to power it. You can even move them during the FTL jump. With correct placement, they can be manning the engines 3 seconds after the battle starts (a good place to start is the bottom-left clone bay tile).
 
 Emergency Respirators make automated ships much easier to board. Keep them until you need to sell them for something better, like a weapon.
 
