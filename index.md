@@ -91,7 +91,7 @@ Conserve missiles, but do use the Artemis against threatening weapons. Keep the 
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual.
 
-Consider running your pilot to doors during the FTL jump. Just remember to send them back!
+Consider running your pilot to doors during the FTL jump. Just remember to send them back! This might stop boarders from entering your weapons room. The Artemis can take down an unmanned Burst Laser 2 or Mini Beam before it fires, but only if you are manning weapons. If you use this tactic, also move the engines crew into (or nearer) weapons, so they can distract enemy boarders outside the weapons room.
 
 You have no blue options for distress beacons in sector 1, so prefer unmarked beacons.
 
