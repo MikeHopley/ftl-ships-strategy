@@ -649,7 +649,7 @@ The ideal upgrade path is:
 
 Spend your first 50 scrap on cloaking-3. This lets you kill most enemies before they can fire, by cloaking first.
 
-The Glaive falls off hard against 2 shields, so try to get extra offence before sector 3. Hacking is ideal; failing that, look for a 1-power weapon.
+The Glaive falls off hard against 2 shields, so try to get extra offence before sector 3. Hacking is ideal. Level 1 hacking will always take down 2 shields, *provided your framerate is high and the "frame limit" setting is on.*
 
 2-power weapons are costly to get online with the Glaive: as well as buying the weapon, you need 165 scrap for weapons-6 and power. This can leave you vulnerable in sector 3 (and maybe even sector 4). Consider replacing the Glaive with another weapon that you can get online sooner; ideally still keep the Glaive for later, but sell it if necessary. For example, something like Flak 1 + Hull Laser 1 requires no upgrades and can last a long time.
 
@@ -660,7 +660,9 @@ Buying shields significantly increases your chance to find hacking later, so gen
 * 50% if you have shields
 * 60% if you have both
 
-Even if you find a great weapon like a Burst Laser 2, *consider* buying shields instead. A Burst Laser 2 does not make you safe in the same way that hacking does, because unlike hacking it can miss. Sector 3 is reasonably safe with shields, especially if you upgrade them (try to save enough scrap for hacking, though).
+The most difficult choice is between shields and a weapon. Even a Burst Laser 2 is somewhat risky without shields, because unlike hacking it can miss. Shields make you a lot safer, especially once upgraded&thinsp;&mdash;&thinsp;but that’s another 50 scrap into defence that won’t help you against 3-shield enemies in sector 4.
+
+2-power weapons are also very expensive to get online (165 scrap for weapons-6 and power), so generally prefer 1-power weapons. An Ion Blast 1 is especially good, because it’s cheap. Spending less scrap on weapons gives you a better chance to switch into hacking later.
 
 At intervals, consider buying a weapons buffer. Early on there are more important uses of scrap. However, if you pick up a two-power weapon, it may be worth buying the buffer while you wait.
 
@@ -686,7 +688,7 @@ Consider visiting an early store: selling Titanium System Casing gets you 25 scr
 
 Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer (but still bad, because you can’t use the sensors trick). This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
 
-Bear in mind that hacking is defeated by defence drones. Enemies in sector 3 can have up to 5 power in drones, so you could fight an enemy with offensive drones and two shields that you cannot hack!
+Bear in mind that hacking is stopped by defence drones. Enemies in sector 3 can have up to 5 power in drones, so you could fight an enemy with offensive drones and two shields that you cannot hack!
 
 ## Stealth C
 
