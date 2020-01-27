@@ -649,7 +649,7 @@ The ideal upgrade path is:
 
 Spend your first 50 scrap on cloaking-3. This lets you kill most enemies before they can fire, by cloaking first.
 
-The Glaive falls off hard against 2 shields, so try to get extra offence before sector 3. Hacking is ideal. Level 1 hacking will always take down 2 shields, *providing you have a consistent high framerate, and use the "frame limit" setting.*
+The Glaive falls off hard against 2 shields, so try to get extra offence before sector 3. Hacking is ideal. Level 1 hacking will always take down 2 shields, *providing you have a consistent high framerate and use the "frame limit" setting.*
 
 Buying shields significantly increases your chance to find hacking later, so generally buy them when the store isn’t selling hacking. Also consider buying backup battery. If the next store is selling systems, its chance to sell hacking is *approximately*:
 
