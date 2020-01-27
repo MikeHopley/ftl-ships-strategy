@@ -660,7 +660,7 @@ Buying shields significantly increases your chance to find hacking later, so gen
 * 50% if you have shields
 * 60% if you have both
 
-Even if you find a great weapon like a Burst Laser 2, consider buying shields instead. A Burst Laser 2 does not make you safe in the same way that hacking does, because unlike hacking it can miss. Sector 3 is reasonably safe with shields, especially if you upgrade them (try to save enough scrap for hacking, though).
+Even if you find a great weapon like a Burst Laser 2, *consider* buying shields instead. A Burst Laser 2 does not make you safe in the same way that hacking does, because unlike hacking it can miss. Sector 3 is reasonably safe with shields, especially if you upgrade them (try to save enough scrap for hacking, though).
 
 At intervals, consider buying a weapons buffer. Early on there are more important uses of scrap. However, if you pick up a two-power weapon, it may be worth buying the buffer while you wait.
 
@@ -674,7 +674,7 @@ It takes 2.5 seconds to run to sensors. In cases where exact timing might matter
 
 Note that you can’t use the sensors trick in a nebula! This is another reason to avoid them.
 
-If your weapons *do* get hit, you are unlikely to win the fight. Running away is more important than repairing weapons, so prioritise repairs to piloting, engines, and cloaking. Stealth B can run surprisingly fast because cloaking buys time. Its effective minimum escape time is 28.3 seconds (realistically 30 or longer). Jump to a known safe beacon if possible, which often means jumping backwards.
+If your weapons *do* get hit, you are unlikely to win the fight. Running away is more important than repairing weapons, so prioritise repairs to piloting, engines, and cloaking. Stealth B can run surprisingly fast because cloaking buys time. Its effective minimum escape time is 28.3 seconds (realistically 30 or longer). Jump to a known safe beacon if possible.
 
 Later on, with fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies (notably shieldless auto-scouts).
 
