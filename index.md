@@ -660,7 +660,7 @@ Buying shields significantly increases your chance to find hacking later, so gen
 * 50% if you have shields
 * 60% if you have both
 
-Even if you find a great weapon like a Burst Laser 2, consider buying shields instead. A Burst Laser 2 does not make you safe in the same way that hacking does, because unlike hacking it can miss. And it doesn’t do much until you egt the expensive weapons upgrades. Sector 3 is reasonably safe with shields, especially if you upgrade them (try to save enough scrap for hacking, though).
+Even if you find a great weapon like a Burst Laser 2, consider buying shields instead. A Burst Laser 2 does not make you safe in the same way that hacking does, because unlike hacking it can miss. Sector 3 is reasonably safe with shields, especially if you upgrade them (try to save enough scrap for hacking, though).
 
 At intervals, consider buying a weapons buffer. Early on there are more important uses of scrap. However, if you pick up a two-power weapon, it may be worth buying the buffer while you wait.
 
