@@ -658,7 +658,7 @@ Buying shields significantly increases your chance to find hacking later, so gen
 * 50% if you have shields
 * 60% if you have both
 
-The most difficult choice is between shields and a weapon. Even a Burst Laser 2 is somewhat risky without shields, because unlike hacking it can miss. Shields make you a lot safer, especially once upgraded&thinsp;&mdash;&thinsp;but that’s another 50 scrap into defence that won’t help you against 3-shield enemies in sector 4.
+The most difficult choice is between shields and a weapon. Even a Burst Laser 2 is somewhat risky without shields, because unlike hacking it can miss. Shields make you a lot safer, especially once upgraded&thinsp;&mdash;&thinsp;but that’s another 50 scrap into defence that won’t help you kill 3-shield enemies in sector 4.
 
 2-power weapons are also very expensive to get online (165 scrap for weapons-6 and power), so generally prefer 1-power weapons. An Ion Blast 1 is especially good, because it’s cheap. Spending less scrap on weapons gives you a better chance to switch into hacking later.
 
