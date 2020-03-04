@@ -37,31 +37,31 @@ Shields-3 provides a damage buffer, so your shield will not go down from (say) a
 
 Don’t wait on power before buying shields-4. Having two shields makes you vastly safer in sectors 1 and 2: many enemies will be unable to hurt you at all. Power can come much later; save for a weapon first.
 
-This strategy has a downside: it may prevent you from buying something useful in a sector 1 store, such as a great weapon. Sector 2 could have an awful layout that prevents you from finding any stores; or you might visit two stores and find only crew and augments. This is unlikely but possible.
+This strategy has a downside: it may prevent you from buying something useful in a sector 1 store, such as a great weapon. Sector 2 could have an awful layout that prevents you from finding any stores; or you might visit two stores and find only crew and augments.
 
-For that reason, there can be some benefit in delaying your shield upgrades slightly. There are two possibilities:
+For that reason, it’s sometimes worth delaying your shield upgrades slightly. There are two possibilities:
 
 * Get shields-3 immediately, but delay shields-4
 * Delay both
 
-You can also choose how long you delay them. You could delay just a few jumps, because you are circling around a store in the middle of the sector. Or you could be very greedy, and delay them until you reach a store at the end of sector 1 or even the beginning of sector 2.
+You can also choose how long you delay them. You could delay just a few jumps, because you are circling around a store in the middle of the sector. Or you could be very greedy, and wait for a store at the end of sector 1 or early sector 2.
 
 In my view, it’s usually not worth delaying shields more than a few jumps, and even then only in favourable circumstances. In many cases it would be best not to delay shields at all.
 
 The balance of risk varies by the ship. Some ships have safer starts. Some ships are more desperate for additional offence. Some ships have more stuff to sell at a store. As an overview, here’s what I currently think:
 
-* 15 ships should immediately buy shields-3 then shields-4, no matter what
+* 15 ships should immediately buy shields-3 then shields-4
 * 7 ships should **consider** delaying shield upgrades
 * 1 ship should **definitely** delay shield upgrades (Zoltan A)
 * 5 ships work differently (Stealth Cruisers, Zoltan B, Mantis B)
 
 ## Other strategies
 
-Engines-2 and engines-3 are useful and cheap. Fit them in when you can, but do not allow engine upgrades to stop you upgrading shields or buying an important weapon. At 15 scrap, engines-3 competes with shields-3, and I think shields-3 is almost strictly better.
+Engines-2 and engines-3 are useful and cheap. Fit them in when you can; but do not allow engine upgrades to delay shield upgrades, or stop you buying an important weapon. At 15 scrap, engines-3 competes with shields-3, and I think shields-3 is almost strictly better.
 
-Note that shields-4 is **much** better than early engine upgrades, because it also lets you farm crew skill against enemies that cannot hurt you. 10% free evade works out around 90 scrap value!
+Note that shields-4 is **much** better than early engine upgrades, because it also lets you farm crew skill against enemies that cannot hurt you. 10% free evade is about 90 scrap value!
 
-Piloting-2 can be tempting when you’re visiting lots of nebula beacons without a clone bay, for a [chance of a free weapon](http://ftl.wikia.com/wiki/Plasma_Storm_Incapacitated_Ships). But this is very luck-dependent. That 20 scrap is better spent on shields-3.
+Piloting-2 can be tempting when you’re visiting nebula beacons without a clone bay, for a [chance of a free weapon](http://ftl.wikia.com/wiki/Plasma_Storm_Incapacitated_Ships). But this is very luck-dependent. That 20 scrap is better spent on shields-3.
 
 Never waste early-game scrap on luxury purchases like medbay-2, doors-2, or Scrap Recovery Arm.
 
@@ -74,11 +74,11 @@ The important scrap thresholds are 130, 90, 80, and 55. I’m sad about visiting
 
 # Some tips are micro-optimisations
 
-In this guide, I’ve included small optimisations that are unlikely to make a difference in most cases. I mainly include them for my own benefit. These advanced tactics often come with a price: they can be tedious to perform, and getting them wrong might make things worse.
+In this guide, I’ve included small optimisations that usually don’t matter. I mainly include them for my own benefit. These advanced tactics often come with a price: they can be tedious to perform, and getting them wrong might make things worse.
 
-For example, on some ships I think it’s optimal to run your pilot to doors during the FTL jump, for boarding defence...but it’s **really** easy to forget you did this! Or on the Zoltan B, there is a fiddly tactic to optimise your weapon usage against certain enemies...but messing it up will depower your weapons!
+For example: on Zoltan B, there is a fiddly tactic to optimise your weapon usage against one-shield enemies...but messing it up will depower your weapons!
 
-I’ve included these tactics because I *think* they are optimal. You might decide some tactics are incorrect, or too error-prone, or just too tedious to bother with. Feel free to pick and choose!
+I’ve included these tactics because I *think* they are optimal. You might decide some tactics are incorrect, or too error-prone, or just too tedious. Feel free to pick and choose!
 
 
 # The ships
@@ -90,8 +90,6 @@ The starting weapons can handle two-shield enemies, so get shields-3, shields-4,
 Conserve missiles, but do use the Artemis against threatening weapons. Keep the Artemis unless you need the slot or absolutely need the scrap. If you find no weapons but do get crew, consider buying a teleporter: the Artemis provides good boarding support.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual.
-
-Consider running your pilot to doors during the FTL jump. Just remember to send them back! This might stop boarders from entering your weapons room. The Artemis can take down an unmanned Burst Laser 2 or Mini Beam before it fires, but only if you are manning weapons. If you use this tactic, also move the engines crew into (or nearer) weapons, so they can distract enemy boarders outside the weapons room.
 
 You have no blue options for distress beacons in sector 1, so prefer unmarked beacons.
 
@@ -118,7 +116,7 @@ Treat it as a weaker Lanius A (no hacking) or Kestrel A (weaker weapons). Shield
 
 Typcially you’ll wait a moment for the Ion Stunner to (nearly) reach shields, then fire the Dual Lasers at weapons. But against some enemy weapons, it’s better to fire immediately. If all shots hit, the Dual Lasers will take down one weapon, and the ion will disable the second (even a two-power weapon).
 
-Put the Lanius on piloting, to protect it from boarders and help with nearby venting. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled. Run your Lanius pilot to doors during the FTL jump; just remember to send them back!
+Put the Lanius on piloting, to protect it from boarders and help with nearby venting. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled.
 
 With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
@@ -208,7 +206,7 @@ Try crew kills when safe: hack O2 then immediately destroy it. Hacking often let
 
 Don’t forget the weirdly-placed airlock on the drones room! With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
-Start your engines crew on sensors, and run your pilot to doors during the FTL jump. Just remember to send them back!
+Start your engines crew on sensors, as enemy crew composition may be relevant when choosing a hack target. Just remember to send them back!
 
 Hacking’s cooldown resets when you jump.
 
