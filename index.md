@@ -37,7 +37,7 @@ Shields-3 provides a damage buffer, so your shield will not go down from (say) a
 
 Don’t wait on power before buying shields-4. Having two shields makes you vastly safer in sectors 1 and 2: many enemies will be unable to hurt you at all. Power can come much later; save for a weapon first.
 
-This strategy has a downside: it may prevent you from buying something useful in a sector 1 store, such as a great weapon. Sector 2 could have an awful layout that prevents you from finding any stores; or you might visit two stores and find only crew and augments.
+This strategy has a downside: it may stop you buying something useful in a sector 1 store, such as a great weapon. Sector 2 could have an awful layout that prevents you from finding any stores, or all the stores might sell only crew and augments.
 
 For that reason, it’s sometimes worth delaying your shield upgrades slightly. There are two possibilities:
 
