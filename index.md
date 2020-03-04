@@ -394,7 +394,7 @@ The Small Bomb can disable defence drones, letting you sneak hacking past them. 
 
 ## Mantis B
 
-Despite its apparent strength, this ship is [extremely vulnerable](https://www.twitch.tv/videos/503932221?t=00h18m54s) at the start. Mantis are terrible at repairs or fighting fires, so you can easily lose in sector 1. **Accept this reality, and plan accordingly.**
+Despite its apparent strength, this ship is extremely vulnerable at the start. Mantis are terrible at repairs or fighting fires, so you can easily lose in sector 1. **Accept this reality, and plan accordingly.**
 
 During this vulnerable period, try to plan a route that lets you revisit a previous beacon. This gives you a safe place to repair after a disaster.
 
