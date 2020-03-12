@@ -752,7 +752,7 @@ Shields-3, shields-4, then look for a weapon. Remember you only start with engin
 
 Start both Lanius in the teleporter, and [use distraction tactics](https://www.youtube.com/watch?v=gmEKvFe8A30) to make enemies fight in shields while your Lanius punch down another system (such as weapons or medbay). When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
-Distraction tactics 
+Distraction tactics will occupy up to 4 crew in a big shields room. When ships have more crew, they will follow your Lanius around.
 
 Your Lanius can’t use the medical airlock, so try to limit damage to them. When enemy weapons are no longer a threat, you can take your time and avoid fighting crew directly. Instead of actually fighting in an airless room, dance your Lanius in the doorway to keep enemies repositioning. Then trick low-health enemies into walking through the airless room, by attacking a system on the opposite side.
 
