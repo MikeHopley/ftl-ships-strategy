@@ -276,11 +276,11 @@ Remember to use the airlocks on clone bay and shields! They are hard to see.
 
 Mantis and Human are the strongest and safest boarding party (Zoltan bombing is more cute than effective). Keeping Zoltans at home also has tactical advantages: they can ion-proof your clone bay, [ion-proof one shield layer](https://www.youtube.com/watch?v=jpR3veZtlsc&t=3m15s), or [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) even when you have multiple layers.
 
-Consider running the engines Zoltan through the teleporter, to power it. You can even move them during the FTL jump. With correct placement, they can be manning the engines 3 seconds after the battle starts (a good place to start is the bottom-left clone bay tile).
+Running the engines Zoltan through the teleporter powers it and counters teleporter hacks. You can move them during the FTL jump; with correct placement, they man engines ~3 seconds after the battle starts.
 
 Emergency Respirators make automated ships much easier to board. Keep them until you need to sell them for something better, like a weapon.
 
-As usual, the artillery is too expensive to upgrade, unless you are late in the game with plenty of scrap.
+As usual, the artillery is too expensive to upgrade, unless you are late in the game with plenty of scrap. Unlike a normal flak weapon, it does not disrupt cloaking.
 
 Sector 1 distress beacons are worth visiting. You have a clone bay, plus an okay teleporter blue option.
 
@@ -752,7 +752,9 @@ Shields-3, shields-4, then look for a weapon. Remember you only start with engin
 
 Start both Lanius in the teleporter, and [use distraction tactics](https://www.youtube.com/watch?v=gmEKvFe8A30) to make enemies fight in shields while your Lanius punch down another system (such as weapons or medbay). When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
-Your Lanius can’t use the medical airlock, so try to limit damage to them. When enemy weapons are no longer a threat, you can take your time and avoid fighting crew directly. Destroy O2, then walk your Lanius around the ship to drain oxygen from rooms (especially weapons). Once a room has no air, you can get free combat XP by punching down the system. You can also trick enemies into running through airless rooms.
+Distraction tactics 
+
+Your Lanius can’t use the medical airlock, so try to limit damage to them. When enemy weapons are no longer a threat, you can take your time and avoid fighting crew directly. Instead of actually fighting in an airless room, dance your Lanius in the doorway to keep enemies repositioning. Then trick low-health enemies into walking through the airless room, by attacking a system on the opposite side.
 
 You can use your teleporter to abduct mind-controlled crew, but in most cases this is just too slow to be useful. Sometimes this could help save your Lanius’s health.
 
