@@ -664,15 +664,27 @@ Also consider replacing the Glaive with another weapon that you can get online s
 
 At intervals, consider buying a weapons buffer. Early on there are more important uses of scrap. However, if you pick up a two-power weapon, it may be worth buying the buffer while you wait.
 
-Protect your weapons by checking where combat drones are aiming before you cloak. Only cloak if they are about to hit weapons or cloaking. While all drones hit the exact centre of the target room, beam drones do not "line up" at the exact angle they will fire, making them harder to predict.
+Protect your weapons by checking where combat drones are aiming before you cloak. Only cloak if they are about to hit weapons, cloaking, or possibly sensors. While all drones hit the exact centre of the target room, beam drones do not "line up" at the exact angle they will fire, making them harder to predict.
 
-Beam drones can drag across to an adjacent room. Beam 1 drones cannot drag across the "long side" of a room (their beam is shorter than 1 tile), but Beam 2 drones can.
+Beam drones can drag across to an adjacent room. Beam 1 drones cannot drag across the "long side" of a room (their beam is shorter than 1 tile), but Beam 2 drones can. It’s worth knowing the odds of a bad drag:
+
+* Beam drone 1:
+  * From sensors, 13% drag into cloaking
+  * From the empty room above weapons, 7% drag into weapons
+* Beam drone 2: 
+  * From doors, 53% drag into weapons
+  * From weapons, 33% drag into cloaking
+  * From sensors, 27% drag into cloaking
+  * From cloaking, 27% drag into weapons
+  * From the empty room above weapons, 27% drag into weapons
+
+Mini Beam into cloaking has a 40% chance to drag into weapons. Cloaking is less likely to be targeted when on cooldown, so you should pre-cloak the Mini Beam. This also gives the best chance of running away.
 
 Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors to watch weapons charge. Depower your Glaive when the charge bar is full, but before weapons "turn green"; then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
 
 It takes 2.5 seconds to run to sensors. In cases where exact timing might matter, consider walking your engines Zoltan around the ship for timing the sensors dash (for example, against a beam drone). Standard crew movement speed is 0.45 seconds per tile. When second volleys matter, you can use your cloak cooldown as a timer (0.42 seconds per ion pip).
 
-Note that you can’t use the sensors trick in a nebula! This is another reason to avoid them.
+Note that you can’t use the sensors trick in a nebula! This is another reason to avoid them. Also consider that a drone hit into sensors makes enemy weapons much more likely to target your weapons! This is particularly relevant against a Mini Beam, which cannot be dodged.
 
 If your weapons *do* get hit, you are unlikely to win the fight. Running away is more important than repairing weapons, so prioritise repairs to piloting, engines, and cloaking. Stealth B can run surprisingly fast because cloaking buys time. Its effective minimum escape time is 28.3 seconds (realistically 30 or longer). Jump to a known safe beacon if possible.
 
