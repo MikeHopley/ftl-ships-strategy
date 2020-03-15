@@ -168,9 +168,13 @@ If your weapons take one damage, you can still attack. Fire the ion then switch 
 
 Remember to use your Engi for manning and repairs; you only have 10% dodge anyway. Walk them towards weapons during the FTL jump. Consider venting below 50% oxygen to reduce the chance of enemies targeting weapons. Your repair drones make this quite safe, but the layout is a little awkward. Rather than venting important rooms (like shields, weapons, or medbay), turn off O2 to get the oxygen a little lower.
 
+The drones system requires power to be smart-targeted. Turn on a drone before enemy weapons fire.
+
 Try crew kills when safe. Use the Heavy Laser as a shield-breaker, so you can ion O2. This is one reason not to delay shields-4 too long.
 
-Drone Reactor Booster has little effect and can be sold immediately. Consider buying crew; and until you get more crew, try to keep the AP drone and one repair drone. AP drone sells for 17, repair drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items (excluding Heavy Laser), so it’s also reasonable to visit a store on your first jump.
+AP drone sells for 17, repair drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items (excluding Heavy Laser), so it’s reasonable to visit early stores.
+
+Consider buying crew, but crew are less important than weapons. Drone Reactor Booster has little effect and can be sold immediately. Until you get more crew, selling the AP drone is quite dangerous: a single bad boarding event could kill your Engi, even with perfect micro. Typically keep the AP drone and one Repair drone until you get more crew.
 
 Note that enemy boarders will stay in an airless room, provided they are already fighting your "crew". Try to time your venting so that the AP drone arrives shortly before the air leaves.
 
