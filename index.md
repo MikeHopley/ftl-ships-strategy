@@ -166,19 +166,21 @@ You urgently need extra offence, since you **cannot** harm ships with two shield
 
 If your weapons take one damage, you can still attack. Fire the ion then switch to the laser (you can wait to see if the ion hits).
 
-Remember to use your Engi for manning and repairs; you only have 10% dodge anyway. Walk them towards weapons during the FTL jump. Consider venting below 50% oxygen to reduce the chance of enemies targeting weapons. Your repair drones make this quite safe, but the layout is a little awkward. Rather than venting important rooms (like shields, weapons, or medbay), turn off O2 to get the oxygen a little lower.
+Remember to use your Engi for manning and repairs; you only have 10% dodge anyway. Walk them towards weapons during the FTL jump. Consider venting below 50% oxygen to reduce the chance of enemies targeting weapons. Your Repair Drones make this quite safe, but the layout is a little awkward. Rather than venting important rooms (like shields, weapons, or medbay), turn off O2 to get the oxygen a little lower.
 
 The drones system requires power to be smart-targeted. Turn on a drone before enemy weapons fire.
 
 Try crew kills when safe. Use the Heavy Laser as a shield-breaker, so you can ion O2. This is one reason not to delay shields-4 too long.
 
-AP drone sells for 17, repair drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items (excluding Heavy Laser), so it’s reasonable to visit early stores.
+AP Drone sells for 17, Depair Drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items (excluding Heavy Laser), so it’s reasonable to visit early stores.
 
-Consider buying crew, but crew are less important than weapons. Drone Reactor Booster has little effect and can be sold immediately. Until you get more crew, selling the AP drone is quite dangerous: a single bad boarding event could kill your Engi, even with perfect micro. Typically keep the AP drone and one Repair drone until you get more crew.
+Consider buying crew, but crew are less important than weapons. Drone Reactor Booster has little effect and can be sold immediately. Until you get more crew, selling the AP Drone is quite dangerous: a single bad boarding event could kill your Engi, even with perfect micro. Typically keep the AP Drone and one Repair Drone until you get more crew.
 
-Note that enemy boarders will stay in an airless room, provided they are already fighting your "crew". Try to time your venting so that the AP drone arrives shortly before the air leaves.
+Note that enemy boarders will stay in an airless room, provided they are already fighting your "crew". Try to time your venting so that the AP Drone arrives shortly before the air leaves.
 
-Heal your AP drone between fights, even though it’s tedious. [Park repair drones](https://www.reddit.com/r/ftlgame/comments/8mxqw5/depower_a_repair_drone_to_park_it_in_a_system/) for quicker repairs and to prevent boarders trashing them. Note that having even one extra crew helps you [control repair drones](https://www.reddit.com/r/ftlgame/comments/7wvjed/controlling_system_repair_drones/).
+Heal your AP drone between fights, even though it’s tedious. [Park Repair Drones](https://www.reddit.com/r/ftlgame/comments/8mxqw5/depower_a_repair_drone_to_park_it_in_a_system/) for quicker repairs and to prevent boarders trashing them; but bear in mind they sometimes insist on returning home before repairs! Note that having even one extra crew helps you [control Repair Drones](https://www.reddit.com/r/ftlgame/comments/7wvjed/controlling_system_repair_drones/).
+
+When a vented room is on fire, Repair Drones will wait for the fires to go out before setting off. Sometimes you might want to turn the drones off until the room is vented, to make them prioritise another room.
 
 Sector 1 distress beacons are well worth visiting. You have good blue options from the Engi and both drones. It might even be better to pick distress over a guaranteed fight, especially since early fights can go badly on this ship.
 
