@@ -691,7 +691,7 @@ It’s also worth knowing how fast they attack, to help decide when to cloak. On
 * Beam 1 attacks every 3.6 seconds
 * Beam 2 attacks every 4.4 seconds
 
-Mini Beam into cloaking has a 40% chance to drag into weapons. Cloaking is less likely to be targeted when on cooldown, so you should pre-cloak the Mini Beam. This also gives the best chance of running away.
+Mini Beam into cloaking has a 40% chance to drag into weapons. Cloaking is less likely to be targeted when on cooldown, so you should pre-cloak the Mini Beam (unless perhaps that stops you cloaking another weapon). This also gives the best chance of running away.
 
 Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors to watch weapons charge. Depower your Glaive when the charge bar is full, but before weapons "turn green"; then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
 
