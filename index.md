@@ -684,6 +684,13 @@ Beam drones can drag across to an adjacent room. Beam 1 drones cannot drag acros
   * From cloaking, 27% drag into weapons
   * From the empty room above weapons, 27% drag into weapons
 
+It’s also worth knowing how fast they attack, to help decide when to cloak. On average:
+
+* Combat 1 attacks every 2.9 seconds
+* Combat 2 attacks every 1.9 seconds
+* Beam 1 attacks every 3.6 seconds
+* Beam 2 attacks every 4.4 seconds
+
 Mini Beam into cloaking has a 40% chance to drag into weapons. Cloaking is less likely to be targeted when on cooldown, so you should pre-cloak the Mini Beam. This also gives the best chance of running away.
 
 Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors to watch weapons charge. Depower your Glaive when the charge bar is full, but before weapons "turn green"; then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
@@ -705,6 +712,11 @@ Consider visiting an early store: selling Titanium System Casing gets you 25 scr
 Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer (but still bad, because you can’t use the sensors trick). This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
 
 Bear in mind that hacking is stopped by defence drones. Enemies in sector 3 can have up to 5 power in drones, so you could fight an enemy with offensive drones and two shields that you cannot hack!
+
+Mark 2 drones attack slightly faster:
+
+* Combat 2 attacks every 1.7 seconds
+* Beam 2 attacks every 4.0 seconds
 
 ## Stealth C
 
