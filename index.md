@@ -713,7 +713,7 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 Bear in mind that hacking is stopped by defence drones. Enemies in sector 3 can have up to 5 power in drones, so you could fight an enemy with offensive drones and two shields that you cannot hack!
 
-Mark 2 drones attack slightly faster:
+Mark 2 drones attack slightly faster. On average:
 
 * Combat 2 attacks every 1.7 seconds
 * Beam 2 attacks every 4.0 seconds
