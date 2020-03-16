@@ -172,7 +172,7 @@ The drones system requires power to be smart-targeted. Turn on a drone before en
 
 Try crew kills when safe. Use the Heavy Laser as a shield-breaker, so you can ion O2. This is one reason not to delay shields-4 too long.
 
-AP Drone sells for 17, Depair Drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items (excluding Heavy Laser), so it’s reasonable to visit early stores.
+AP Drone sells for 17, Repair Drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items (excluding Heavy Laser), so it’s reasonable to visit early stores.
 
 Consider buying crew, but crew are less important than weapons. Drone Reactor Booster has little effect and can be sold immediately. Until you get more crew, selling the AP Drone is quite dangerous: a single bad boarding event could kill your Engi, even with perfect micro. Typically keep the AP Drone and one Repair Drone until you get more crew.
 
