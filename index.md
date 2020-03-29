@@ -832,6 +832,8 @@ The Crystal weapons can distract defence drones, allowing hacking to slip throug
 
 ## Crystal B
 
+Pre-vent the cloaking room, as it’s a long way from your other stations.
+
 You cannot touch Zoltan ships initially, and can cripple but not kill automated ships. In the worst possible case, you could be forced into a Zoltan sector 2 where you’ll have to run from many fights. Cloaking also provides good defence, so consider delaying shield upgrades in the hope of finding a weapon.
 
 If you are without weapons in a Rebel sector or Uncharted Nebula, consider buying clone bay so you can kill automated ships. Same goes for Abandoned sectors (although an upgraded teleporter will work there, with careful play).
