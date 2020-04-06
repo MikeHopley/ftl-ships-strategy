@@ -780,7 +780,7 @@ Emergency Respirators sell for just 12 scrap, so you might want to keep them a b
 
 Shields-3, shields-4, then look for a weapon. Remember you only start with engines-1. Despite its strength, this ship has nothing special defensively at the start, so it’s still possible to have rough encounters.
 
-Start both Lanius in the teleporter, and [use distraction tactics](https://www.youtube.com/watch?v=gmEKvFe8A30) to make enemies fight in shields while your Lanius punch down another system (such as weapons or medbay). When completely safe, destroy systems for surrender offers (as low as 1 hull).
+Move the Engi to weapons during the FTL jump. Start both Lanius in the teleporter, and [use distraction tactics](https://www.youtube.com/watch?v=gmEKvFe8A30) to make enemies fight in shields while your Lanius punch down another system (such as weapons or medbay). When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 Distraction tactics will occupy up to 4 crew in a big shields room. When ships have more crew, they will follow your Lanius around.
 
