@@ -757,7 +757,7 @@ Put one Lanius on piloting, to protect it from boarders and help with nearby ven
 
 Despite slow weapons, you can still get the first shot by hacking enemy weapons. Use this liberally in sector 1 to reduce risk. You can fire the Ion Stunner immediately, and the shield will still be down for the lasers. But sometimes it’s be better to fire them together: if all shots hit, the ion will disable a second weapon (even a two-power weapon).
 
-Ion Stunner can help with crew kills. For example: hack O2, destroy O2, then stun whoever repairs it. You can depower the Chain Laser after one shot to avoid damaging the hull (although this resets its charge time). Sometimes you can stun them in the shields room instead, as they walk towards O2.
+Ion Stunner can help with crew kills. For example: hack O2, destroy O2, then stun whoever repairs it. You can depower the Chain Laser after one shot to avoid damaging the hull; if done quickly, this won’t reset the chain. Sometimes you can stun them in the shields room instead, as they walk towards O2.
 
 Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
 
