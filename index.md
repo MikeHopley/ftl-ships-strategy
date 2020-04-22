@@ -15,14 +15,14 @@
 
 I made these notes during my second and third win-streaks, mostly to help me remember some less obvious ideas. I’ve tidied them up and added to them, so they might help other people too. I also mention [Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page) differences.
 
-This is about winning consistently on Hard, which means playing as "safely" as possible and getting through the dangerous early game in good shape. To be "safe", you need two things ASAP:
+This is about winning consistently on Hard, which means playing as “safely” as possible and getting through the dangerous early game in good shape. To be “safe”, you need two things ASAP:
 
 * Two shields
 * Offence that works well against two-shield enemies
 
-"Offence" at this stage usually means a weapon, but it could be hacking, mind control, teleporter, or a combat drone. Prefer 1- or 2-power weapons that you can get online quickly.
+“Offence” at this stage usually means a weapon, but it could be hacking, mind control, teleporter, or a combat drone. Prefer 1- or 2-power weapons that you can get online quickly.
 
-Hacking is especially strong. When I say "look for a weapon", that’s really  shorthand for "look for a weapon, or hacking, or other offence". But ideally I like to start with a good weapon, then add hacking a bit later.
+Hacking is especially strong. When I say “look for a weapon”, that’s really  shorthand for “look for a weapon, or hacking, or other offence”. But ideally I like to start with a good weapon, then add hacking a bit later.
 
 
 # General strategy
@@ -76,7 +76,7 @@ The important scrap thresholds are 130, 90, 80, and 55. I’m sad about visiting
 
 In this guide, I’ve included small optimisations that usually don’t matter. I mainly include them for my own benefit. These advanced tactics often come with a price: they can be tedious to perform, and getting them wrong might make things worse.
 
-For example: on Zoltan B, there is a fiddly tactic to optimise your weapon usage against one-shield enemies...but messing it up will depower your weapons!
+For example: on Zoltan B, there is a fiddly tactic to optimise your weapon usage against one-shield Enemies…but messing it up will depower your weapons!
 
 I’ve included these tactics because I *think* they are optimal. You might decide some tactics are incorrect, or too error-prone, or just too tedious. Feel free to pick and choose!
 
@@ -85,7 +85,7 @@ I’ve included these tactics because I *think* they are optimal. You might deci
 
 ## Kestrel A
 
-The starting weapons can handle two-shield enemies, so get shields-3, shields-4, then look for a weapon.
+The starting weapons can handle two-shield enemies, and you have nothing to sell, so typically rush shields and then look for a weapon. However, you also have a 2-point weapons buffer for the Artemis, which gives a degree of safety. Occasionally it may be better to save scrap for an early store, especially if early jumps drop vendor trash.
 
 Conserve missiles, but do use the Artemis against threatening weapons. Keep the Artemis unless you need the slot or absolutely need the scrap. If you find no weapons but do get crew, consider buying a teleporter: the Artemis provides good boarding support.
 
@@ -101,7 +101,9 @@ The Artemis lets you sneak hacking past defence drones. Bear this in mind for th
 
 ## Kestrel B
 
-The starting weapons can handle two-shield enemies, so get shields-3, shields-4, then look for a weapon. Your Zoltan can [power shields-3](https://www.youtube.com/watch?v=jpR3veZtlsc&t=1m59s) against ion.
+The starting weapons can handle two-shield enemies, and you have little to sell, so typically rush shields and then look for a weapon. Your Zoltan can [power shields-3](https://www.youtube.com/watch?v=jpR3veZtlsc&t=1m59s) against ion.
+
+Your strong offence also provides a degree of safety, however. Occasionally it may be better to save scrap for an early store, especially if early jumps drop vendor trash.
 
 Ideally you want fast weapons to complement your remaining Basic Lasers. If you find only slow weapons, consider hacking or mind control instead, as this keeps your volley fast for longer. You have three empty system slots to fill, so try to buy your first system a little early anyway.
 
@@ -112,7 +114,11 @@ You have no blue options for distress beacons in sector 1, so prefer unmarked be
 
 ## Kestrel C
 
-Treat it as a weaker Lanius A (no hacking) or Kestrel A (weaker weapons). Shields-3, shields-4, then look for a weapon. Dual Lasers are fantastic on a 4-slot ship; almost always keep them. The Ion Stunner can help you get crew kills: destroy O2, then stun the crew repairing it.
+Treat it as a weaker Lanius A (no hacking) or Kestrel A (weaker weapons).
+
+You have little to sell, and a single hit to weapons makes your offence very weak. Almost always rush shields and then look for a weapon. Rushing shields also means more chances for early crew kills.
+
+Dual Lasers are fantastic on a 4-slot ship. The Ion Stunner can help you get crew kills: destroy O2, then stun the crew repairing it.
 
 Typcially you’ll wait a moment for the Ion Stunner to (nearly) reach shields, then fire the Dual Lasers at weapons. But against some enemy weapons, it’s better to fire immediately. If all shots hit, the Dual Lasers will take down one weapon, and the ion will disable the second (even a two-power weapon).
 
@@ -145,40 +151,42 @@ Sector 1 distress beacons are worth visiting. You have a clone bay, plus blue op
 
 ## Engi A
 
-Shields-3, shields-4, then look for a weapon.
+A single hit to weapons disables your offence, so almost always rush shields and then look for a weapon. Rushing shields also gives more chances for early crew kills.
 
 Early on, micromanage the drone to break a shield for your ion, which can then rapidly take down weapons. Against harmless ships, try ionising O2 for a crew kill (and this is a good reason for rushing shields-4).
 
 Late-game the Ion Blast 2 needs help from another ion weapon to reliably take down shields. This leaves only one slot for a hull-damaging weapon. Some combinations work, but don’t be afraid to ditch the ion in exchange for reliable damage-dealers.
 
-Med-bot Dispersal is fine to keep or sell (definitely sell it for anything important). Take particular note of the [unknown disease event](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony), which gives a high scrap reward and a weapon, provided you have both med-bots and medbay-2. This event occurs in Civilian, Pirate, Mantis, Rock, and Uncharted Nebula sectors (at a distress beacon).
-
-Medbay-2 is still not worth buying early, but consider it once you are stable&thinsp;&mdash;&thinsp;providing you kept the augment and are visiting a distress beacon in one of those sectors, especially later in the game.
+Med-bot Dispersal is usually best sold. Take note of the [unknown disease event](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony), however. With med-bots and medbay-2, this gives a high scrap reward and a weapon. This event occurs in Civilian, Pirate, Mantis, Rock, and Uncharted Nebula sectors (at a distress beacon).
 
 Start your engines crew on doors. Just remember to send them back!
 
-Sector 1 distress beacons are worth visiting, since the Engi gives good blue options.
+Sector 1 distress beacons are worth visiting, since Engi give good blue options.
 
 
 ## Engi B
 
-You urgently need extra offence, since you **cannot** harm ships with two shields. On the other hand, your bad offence makes you vulnerable. A good compromise might be to rush shields-3, but consider delaying shields-4.
+You urgently need extra offence, since you **cannot** harm ships with two shields. Bad offence makes you vulnerable, however, so shield upgrades are urgent too. You want crew as well, but they are a much lower priority than shields and weapons.
+
+The ship does have a lot to sell at a store, especially if you get free crew early. AP Drone sells for 17, Repair Drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items.
+
+Until you get more crew, it’s typically best to keep one Repair Drone and the AP Drone. Selling both Repair Drones is viable, but selling the AP drone is really dangerous. Keeping the AP drone brings down the sellable total to 77 scrap.
+
+Because you have so much to sell, typically rush shield upgrades, especially shields-3. Occasionally delay them by a jump or two, depending on exact scrap numbers, if you are about to hit a store.
+
+Rushing shields also gives more chances for early crew kills. Use the Heavy Laser as a shield-breaker, so you can ion O2.
 
 If your weapons take one damage, you can still attack. Fire the ion then switch to the laser (you can wait to see if the ion hits).
 
-Remember to use your Engi for manning and repairs; you only have 10% dodge anyway. Walk them towards weapons during the FTL jump. Consider venting below 50% oxygen to reduce the chance of enemies targeting weapons. Your Repair Drones make this quite safe, but the layout is a little awkward. Rather than venting important rooms (like shields, weapons, or medbay), turn off O2 to get the oxygen a little lower.
+Use your Engi for manning and repairs; you only have 10% dodge anyway. Walk them towards weapons during the FTL jump.
 
-The drones system requires power to be smart-targeted. Turn on a drone before enemy weapons fire.
+Vent below 50% oxygen to reduce the chance of enemies targeting weapons. Your Repair Drones make this quite safe. Before the fight, drop O2 to 95%. Then open all doors, and shut the weapons left door and the doors right door. With O2 off, this gets you below 50% in under 8 seconds.
 
-Try crew kills when safe. Use the Heavy Laser as a shield-breaker, so you can ion O2. This is one reason not to delay shields-4 too long.
+The drone system requires power to be smart-targeted. Turn on a drone before enemy weapons fire. It may be worth deploying an AP drone before it’s even needed, as that powers the system without letting Repair Drones unpark themselves (see below).
 
-AP Drone sells for 17, Repair Drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items (excluding Heavy Laser), so it’s reasonable to visit early stores.
+Note that enemy boarders will stay in an airless room, provided they are already fighting your “crew”. Try to time your venting so that the AP Drone arrives shortly before the air leaves.
 
-Consider buying crew, but crew are less important than weapons. Drone Reactor Booster has little effect and can be sold immediately. Until you get more crew, selling the AP Drone is quite dangerous: a single bad boarding event could kill your Engi, even with perfect micro. Typically keep the AP Drone and one Repair Drone until you get more crew.
-
-Note that enemy boarders will stay in an airless room, provided they are already fighting your "crew". Try to time your venting so that the AP Drone arrives shortly before the air leaves.
-
-Heal your AP drone between fights, even though it’s tedious. [Park Repair Drones](https://www.reddit.com/r/ftlgame/comments/8mxqw5/depower_a_repair_drone_to_park_it_in_a_system/) for quicker repairs and to prevent boarders trashing them; but bear in mind they sometimes insist on returning home before repairs! Note that having even one extra crew helps you [control Repair Drones](https://www.reddit.com/r/ftlgame/comments/7wvjed/controlling_system_repair_drones/).
+Heal your AP drone between fights, even though it’s tedious. [Park Repair Drones](https://www.reddit.com/r/ftlgame/comments/8mxqw5/depower_a_repair_drone_to_park_it_in_a_system/) for quicker repairs and to prevent boarders trashing them; but they sometimes insist on returning home before repairs, so park them close to the drone room! Note that having even one extra crew helps you [control Repair Drones](https://www.reddit.com/r/ftlgame/comments/7wvjed/controlling_system_repair_drones/).
 
 When a vented room is on fire, Repair Drones will wait for the fires to go out before setting off. Sometimes you might want to turn the drones off until the room is vented, to make them prioritise another room.
 
@@ -204,11 +212,11 @@ Shields-3, shields-4, then look for a weapon. Dual Lasers are great, but may eve
 
 At each fight, consider whether to use your beam drone, hacking, both&thinsp;&mdash;&thinsp;or neither! Remember that preventing a damage cascade is more important than hoarding resources, and this is especially relevant while you only have 1 shield. It’s mostly best to use two drones early on, just look for opportunities where you can safely economise.
 
-Choose your hacking targets carefully in the early game. Hacking weapons is tempting, as it lets you fire first; but this only gives you one (targeted) damage against enemy weapons and only if both shots hit. Hacking shields is often better, as it gives you two shots against enemy weapons and a way to do damage even if your weapons are taken out. On the other hand, hacking weapons is great when you can de-synchronise them (e.g. Basic Laser and Mini Beam).
+Choose your hacking targets carefully in the early game. Hacking weapons is tempting, as it lets you fire first; but this only gives you one (targeted) damage against enemy weapons and only if both shots hit. Hacking shields is often better, as it gives you two shots against enemy weapons and a way to do damage even if your weapons are taken out. On the other hand, hacking weapons is great when you can de-synchronise them.
 
 Line up your Beam Drone early, as this gives a better chance to hit important systems. If it’s aiming at something useless, let it reposition while you wait for weapons / hacking.
 
-Try crew kills when safe: hack O2 then immediately destroy it. Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
+Try crew kills when safe: hack O2 then immediately destroy it. Hacking often lets you farm crew skill early, by de-synchronising enemy weapons.
 
 Don’t forget the weirdly-placed airlock on the drones room! With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.
 
@@ -636,43 +644,40 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 ## Stealth B
 
-Plan your jumps carefully, to avoid being forced into asteroid fields. Suns are also bad, since they have a higher chance of enemies with drones. Pulsars are awful: every 11&ndash;18 seconds, your Glaive has a 23.4% chance to be taken offline for 15 seconds.
+Put the Zoltan on engines. They can steal power from cloaking.
 
-Look for flexible routes, so you can skip these hazards without losing beacons. Try to avoid nebulas too, as they often contain Auto-assaults (with drones). Plasma storms are especially risky: you can only power the Glaive and a level-1 cloak, with no engines.
+Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also very bad. Try to avoid nebulas too, as they disable your sensors and often contain Auto-ships.
 
-Also try to plan a route that lets you retreat to a previous beacon. This gives you a safe place to recover after a disaster.
+Look for flexible routes, so you can skip these hazards without losing beacons. Try to plan a route that lets you retreat to a previous beacon. This gives you a safe place to recover after a disaster. Also plan around doubled fleet pursuit.
 
-Usually start the Glaive in shields, for maximum damage. Sometimes it’s better to start in weapons or drones; for example, a manned Heavy Laser will fire before your Glaive finishes. But if this doesn’t kill the ship or occupy all crew with repairs, they may run away before you can fire again. Against Zoltan Shields, use [exact beam placement](https://www.youtube.com/watch?v=oJ8uLSidl7o) to damage weapons.
+Usually start the Glaive in shields, for maximum damage. Sometimes it’s better to start in weapons or drones; for example, a manned Heavy Laser may fire before your Glaive finishes. Against Zoltan Shields, use [exact beam placement](https://www.youtube.com/watch?v=oJ8uLSidl7o) to damage weapons.
 
 The ideal upgrade path is:
 
 * Cloaking-3
 * Hacking
 * Shields
-* Shields-3, shields-4
 
-Spend your first 50 scrap on cloaking-3. This lets you kill most enemies before they can fire, by cloaking first.
+Spend your first 50 scrap on cloaking-3. This lets you kill most enemies before they can fire, by cloaking first. The Glaive falls off hard against 2 shields, so try to get extra offence before sector 3. Hacking is by far the best option.
 
-The Glaive falls off hard against 2 shields, so try to get extra offence before sector 3. Hacking is ideal. Level 1 hacking will always take down 2 shields, *providing you have a consistent high framerate and use the "frame limit" setting.*
-
-Buying shields significantly increases your chance to find hacking later, so generally buy them when the store isn’t selling hacking. Also consider buying backup battery. If the next store is selling systems, its chance to sell hacking is *approximately*:
+If hacking is not offered, generally buy shields. Buying shields significantly increases your chance to find hacking later. Also consider buying backup battery. If the next store is selling systems, its chance to sell hacking is *approximately*:
 
 * 33% if you bought no systems
 * 40% if you have backup battery
 * 50% if you have shields
 * 60% if you have both
 
-The most difficult choice is between shields and a weapon. Even a Burst Laser 2 is somewhat risky without shields, because unlike hacking it can miss. Shields make you a lot safer, especially once upgraded&thinsp;&mdash;&thinsp;but that’s another 50 scrap into defence that won’t help you kill 3-shield enemies in sector 4.
+The most difficult choice is between shields and a weapon. Usually take shields. Even a Burst Laser 2 is somewhat risky without shields, because unlike hacking it can miss. Shields make you a lot safer, especially once upgraded&thinsp;&mdash;&thinsp;but that’s another 50 scrap into defence that won’t help you kill 3-shield enemies in sector 4.
 
-2-power weapons are also very expensive to get online (165 scrap for weapons-6 and power), so generally prefer 1-power weapons. An Ion Blast 1 is especially good, because it’s cheap. Spending less scrap on weapons gives you a better chance to switch into hacking later.
+2-power weapons are very expensive to get online (165 scrap for weapons-6 and power), so generally prefer 1-power weapons. An Ion Blast 1 is especially good, because it’s cheap. Spending less scrap on weapons gives you a better chance to switch into hacking later.
 
 Also consider replacing the Glaive with another weapon that you can get online sooner; ideally still keep the Glaive for later, but sell it if necessary. For example, something like Flak 1 + Hull Laser 1 requires no upgrades and can last a long time.
 
 At intervals, consider buying a weapons buffer. Early on there are more important uses of scrap. However, if you pick up a two-power weapon, it may be worth buying the buffer while you wait.
 
-Protect your weapons by checking where combat drones are aiming before you cloak. Only cloak if they are about to hit weapons, cloaking, or possibly sensors. While all drones hit the exact centre of the target room, beam drones do not "line up" at the exact angle they will fire, making them harder to predict.
+Protect your weapons by checking where combat drones are aiming before you cloak. Only cloak if they are about to hit weapons, cloaking, or possibly sensors. Otherwise, delay your cloak until enemy weapons fire. Even then, wait to see whether weapons are targeting anything important. Ideally you’ll let them hit irrelevant rooms, to reduce the chance of the drone sniping your Glaive when cloak ends.
 
-Beam drones can drag across to an adjacent room. Beam 1 drones cannot drag across the "long side" of a room (their beam is shorter than 1 tile), but Beam 2 drones can. It’s worth knowing the odds of a bad drag:
+All drones hit the exact centre of the target room, but beam drones do not “line up” at the exact angle they will fire, making them harder to predict. Beam drones can drag into an adjacent room. Beam 1 drones cannot drag across the “long side” of a room (their beam is shorter than 1 tile), but Beam 2 drones can. It’s worth knowing the odds of a bad drag:
 
 * Beam drone 1:
   * From sensors, 13% drag into cloaking
@@ -693,23 +698,36 @@ It’s also worth knowing how fast they attack, to help decide when to cloak. On
 
 Mini Beam into cloaking has a 40% chance to drag into weapons. Cloaking is less likely to be targeted when on cooldown, so you should pre-cloak the Mini Beam (unless perhaps that stops you cloaking another weapon). This also gives the best chance of running away.
 
-Put the Zoltan on engines. On Hard, venting below 50% oxygen makes enemies less likely to target weapons or cloaking. Run the weapons crew to sensors to watch weapons charge. Depower your Glaive when the charge bar is full, but before weapons "turn green"; then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being hit.
-
-It takes 2.5 seconds to run to sensors. In cases where exact timing might matter, consider walking your engines Zoltan around the ship for timing the sensors dash (for example, against a beam drone). Standard crew movement speed is 0.45 seconds per tile. When second volleys matter, you can use your cloak cooldown as a timer (0.42 seconds per ion pip).
-
-Note that you can’t use the sensors trick in a nebula! This is another reason to avoid them. Also consider that a drone hit into sensors makes enemy weapons much more likely to target your weapons! This is particularly relevant against a Mini Beam, which cannot be dodged.
-
-If your weapons *do* get hit, you are unlikely to win the fight. Running away is more important than repairing weapons, so prioritise repairs to piloting, engines, and cloaking. Stealth B can run surprisingly fast because cloaking buys time. Its effective minimum escape time is 28.3 seconds (realistically 30 or longer). Jump to a known safe beacon if possible.
+If your weapons *do* get hit, don’t just rush all your crew to repair them. Keep the FTL charging, and also try to repair cloaking. The correct repair priorities are very difficult to judge, and depend on the situation. If you jump away with critical systems damaged, jump to a known safe beacon.
 
 Later on, with fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies (notably shieldless auto-scouts).
 
+Watch out for Mantis Interceptors (including pirates), because you can’t hit both shields and weapons. Consider this when a fight is optional.
+
 Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You have blue options from cloaking (okay, good once upgraded) and the Glaive Beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
+
+### Hard-mode trickery
+
+On Hard mode specifically, enemy targeting can be manipulated to reduce the chance that your weapons or cloaking get hit.
+
+Run the weapons crew to sensors to watch weapons charge. Depower your Glaive when the charge bar is full, then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being targeted, from 31.5% to 6.5%.
+
+It takes 2.5 seconds to run to sensors. In cases where exact timing might matter, consider walking your engines Zoltan around the ship for timing the sensors dash (for example, against a beam drone, or even a manned Heavy Laser). Standard crew movement speed is 2.2 tiles per second.
+
+Note that you can’t use the sensors trick in a nebula! This is another reason to avoid them. Also consider that a drone hit into sensors effectively makes enemy weapons more dangerous.
+
+Venting below 50% oxygen makes enemies less likely to target cloaking. It also reduces the chance of weapons being targeted to 14.8%, but that’s only relevant if you can’t use the sensors trick. Venting also has some risks, for example if your O2 gets hacked.
+
+For that reason, vent precisely. Before jumping, drop O2 to 75%. Then vent the 4 empty rooms in the top part of the ship, with O2 off. This gets you under 50% O2 in ~6 seconds, or ~3 seconds if you also vent the airlock below engines. You can then decide whether to vent at the start of a battle.
+
+Wait to see where enemy hacks land before venting. Get your weapons crew near a door. Remove power from rooms before they get hacked, especially weapons (on the first hack).
+
 
 ### Balance Mod
 
 Consider visiting an early store: selling Titanium System Casing gets you 25 scrap closer to cloaking-3 (which costs 40). Shields cost 120.
 
-Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer (but still bad, because you can’t use the sensors trick). This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
+Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer (but still bad, because you can’t use the sensors trick, and hacking / cloaking are also scary). This also greatly reduces the chance of facing drones at suns: sun fights are 50% split between auto-ships and pirates, and the pirate ship is a random layout.
 
 Bear in mind that hacking is stopped by defence drones. Enemies in sector 3 can have up to 5 power in drones, so you could fight an enemy with offensive drones and two shields that you cannot hack!
 
@@ -724,9 +742,7 @@ Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and 
 
 Put the Slug in piloting. Put the Rock on weapons, because the central location offsets their slow movement; weapons is also an important room to repair, and Rocks have a hidden 67% bonus to fire-fighting. The Human can start in doors, and quickly move to engines.
 
-Use your Shield Drone precisely. Activate it immediately in most fights, but sometimes delay it instead. For example, when you have shields and the enemy has a Basic Laser and a Hermes Missile: wait 6 seconds before powering the drone, and you can block a lot of missiles. You can also depower the drone after a shield is hit, to reset the drone’s internal timer. For example, this makes you invulnerable against an unmanned Heavy Laser.
-
-Against Zoltan Shields, use [precise beam placement and timing](https://www.youtube.com/watch?v=PPji41olyFM&t=5m39s) to help disable weapons.
+[Use your Shield Drone precisely](https://www.youtube.com/watch?v=7KrfF8NN3yQ). Against Zoltan Shields, use [precise beam placement and timing](https://www.youtube.com/watch?v=PPji41olyFM&t=5m39s) to help disable weapons.
 
 As with Stealth B, keeping oxygen below 50% decreases the chance of weapons being hit.
 
@@ -832,7 +848,7 @@ The Crystal weapons can distract defence drones, allowing hacking to slip throug
 
 ## Crystal B
 
-Pre-vent the cloaking room, as it’s a long way from your other stations.
+Pre-vent the cloaking room, as it’s a long way from your other stations. You might even want to pre-vent weapons.
 
 You cannot touch Zoltan ships initially, and can cripple but not kill automated ships. In the worst possible case, you could be forced into a Zoltan sector 2 where you’ll have to run from many fights. Cloaking also provides good defence, so consider delaying shield upgrades in the hope of finding a weapon.
 
