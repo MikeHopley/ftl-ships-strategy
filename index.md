@@ -172,9 +172,7 @@ The ship does have a lot to sell at a store, especially if you get free crew ear
 
 Until you get more crew, it’s typically best to keep one Repair Drone and the AP Drone. Selling both Repair Drones is viable, but selling the AP drone is really dangerous. Keeping the AP drone brings down the sellable total to 77 scrap.
 
-Because you have so much to sell, typically rush shield upgrades, especially shields-3. Occasionally delay them by a jump or two, depending on exact scrap numbers, if you are about to hit a store.
-
-Rushing shields also gives more chances for early crew kills. Use the Heavy Laser as a shield-breaker, so you can ion O2.
+Because you are so vulnerable, almost always rush shield upgrades. It’s even worth hitting an immediate store to trade drone stuff for shields. Rushing shields also gives more chances for early crew kills. Use the Heavy Laser as a shield-breaker, so you can ion O2.
 
 If your weapons take one damage, you can still attack. Fire the ion then switch to the laser (you can wait to see if the ion hits).
 
@@ -186,7 +184,7 @@ The drone system requires power to be smart-targeted. Turn on a drone before ene
 
 Note that enemy boarders will stay in an airless room, provided they are already fighting your “crew”. Try to time your venting so that the AP Drone arrives shortly before the air leaves.
 
-Heal your AP drone between fights, even though it’s tedious. [Park Repair Drones](https://www.reddit.com/r/ftlgame/comments/8mxqw5/depower_a_repair_drone_to_park_it_in_a_system/) for quicker repairs and to prevent boarders trashing them; but they sometimes insist on returning home before repairs, so park them close to the drone room! Note that having even one extra crew helps you [control Repair Drones](https://www.reddit.com/r/ftlgame/comments/7wvjed/controlling_system_repair_drones/).
+Heal your AP drone between fights, even though it’s tedious. [Park Repair Drones](https://www.reddit.com/r/ftlgame/comments/8mxqw5/depower_a_repair_drone_to_park_it_in_a_system/) for quicker repairs and to prevent boarders trashing them; but they sometimes insist on returning home before repairs, so maybe park them close to the drone room! Note that having even one extra crew helps you [control Repair Drones](https://www.reddit.com/r/ftlgame/comments/7wvjed/controlling_system_repair_drones/).
 
 When a vented room is on fire, Repair Drones will wait for the fires to go out before setting off. Sometimes you might want to turn the drones off until the room is vented, to make them prioritise another room.
 
@@ -233,7 +231,9 @@ Defence Scrambler sells for 20. Try to keep it, so you can hack ships with defen
 
 ## Federation A
 
-Shields-3, shields-4, then look for a weapon. Teleporter is a reasonable fallback plan, since you start with decent boarders.
+This ship starts vulnerable, due to weak offence that goes offline with a single hit. Rush shields, then look for a weapon. Teleporter is a reasonable fallback plan, since you start with decent boarders.
+
+Buying a weapons buffer for 25 scrap is a reasonable alternative to rushing shields, but I still think the shield upgrades are safer overall. Do get the weapons buffer when you can, but not if it might prevent you buying a weapon.
 
 Artillery is nice late-game if you have scrap to spare (particularly for the Flagship), but too expensive to upgrade earlier. Beware enemies running away: when possible, manage the Artillery Beam power so that it’s ready to fire immediately after your weapons hit, or vice-versa.
 
@@ -243,12 +243,14 @@ For crew positions, I like: Rock piloting, Mantis engines, Human weapons, Engi s
 
 Consider pre-venting the empty rooms on the right side, then letting them refill a bit. Also consider pre-venting the top-left rooms above engines.
 
-Sector 1 distress beacons are well worth visiting. You have good blue options with Engi and Rock crew. A guaranteed fight is probably still better.
+Sector 1 distress beacons are well worth visiting. You have good blue options with Engi and Rock crew, and a weak one from the Artillery. A guaranteed fight is probably still better.
 
 
 ## Federation B
 
-Shields-3, shields-4, then look for a weapon. Your Zoltan can [power shields-3](https://www.youtube.com/watch?v=jpR3veZtlsc&t=1m59s) against ion. Leto is weak but worth keeping unless you need the slot for something else. Dual Lasers are fantastic on a 4-slot ship; almost always keep them.
+This ship starts vulnerable due to weak offence. Rush shields, then look for a weapon. A weapons buffer is also good, but I think the shield upgrades are safer. Get the weapons buffer when you can, but not if it might prevent you buying a weapon.
+
+Your Zoltan can [power shields-3](https://www.youtube.com/watch?v=jpR3veZtlsc&t=1m59s) against ion. Leto is weak but worth keeping unless you need the slot for something else. Dual Lasers are fantastic on a 4-slot ship; almost always keep them.
 
 [Defence drones cover this ship poorly](https://i.imgur.com/TpuD5BE.jpg): shields and weapons are vulnerable. Avoid spending scrap on the artillery beam, unless everything else is set.
 
@@ -258,7 +260,7 @@ The layout is a little awkward, but you can still vent shields or weapons in und
 
 Enemies may start running away when your weapons or Artillery hits them, so try to have the other damage source ready to fire immediately afterwards. Manage the power on your Artillery Beam so that it fires at a good time.
 
-In sector 1, prefer unmarked beacons over distress. Your only blue option is from the Slug (weak).
+In sector 1, prefer unmarked beacons over distress. Your have weak blue options from the Slug and Artillery.
 
 ### Balance Mod: The Albatross
 
@@ -282,11 +284,9 @@ Medbay-2 makes sector 1 distress beacons slightly better, but not much. Unmarked
 
 ## Federation C
 
-Shields-3, shields-4, then look for weapons. Weapons-2 costs 40 scrap, so 1-power weapons are particularly helpful early on.
+This ship takes a lot of early damage, since it has no quick way to disable enemy weapons. Rush shields, then look for weapons. Weapons-2 costs 40 scrap, so 1-power weapons are particularly helpful early on. A Small Bomb is ideal.
 
 When completely safe, destroy systems for surrender offers (as low as 1 hull).
-
-Remember to use the airlocks on clone bay and shields! They are hard to see.
 
 Mantis and Human are the strongest and safest boarding party (Zoltan bombing is more cute than effective). Keeping Zoltans at home also has tactical advantages: they can ion-proof your clone bay, [ion-proof one shield layer](https://www.youtube.com/watch?v=jpR3veZtlsc&t=3m15s), or [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) even when you have multiple layers.
 
@@ -363,7 +363,7 @@ Auto-assaults (which have drones) no longer appear in sector 1, so jumping to ne
 
 ## Zoltan C
 
-Zoltan Shield provides strong defence in most fights, so consider delaying shields-3 or even shields-4, in the hope of finding a good weapon. Power constraints also make shields-4 less immediately useful (although still very good).
+Zoltan Shield provides strong defence in most fights, and you kill early enemies quickly. Therefore delay shield upgrades and save scrap for a weapon. Power constraints also make shields-4 less immediately useful (although still very good).
 
 Autofiring the ion on shields is not always the best tactic. Consider sending some ion into enemy weapons; this kills ships more slowly but can be safer. Micro the drone so it doesn’t waste time firing when their shield is up. Against enemies with two shields, fully charge the Charge Ion for the first volley to help it "stick" (and if you only hit one shot, start again).
 
@@ -371,7 +371,7 @@ Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually
 
 With that in mind, consider your crew positions carefully, and move them around as needed. You can start two Zoltans in weapons, with the other two in engines and piloting. This is simple and flexible. When fights drag on and your battery is about to run out, consider moving the pilot into drones.
 
-For better defence in boarding events, you can start one of the weapons Zoltans in doors instead. Alternatively, start them in the bottom-left corner of drones.
+For better defence in boarding events, you can start one of the weapons Zoltans in the bottom-left corner of drones (where they can dash into doors).
 
 The clone bay is vulnerable to event boarding; pre-vent it, then let oxygen refill to 90%. This lets you vent the clone bay in 4 seconds using 4 airlocks. If you forget to do this, you can use all 6 airlocks (venting through weapons too). In both cases, you also need to turn off O2.
 
@@ -388,7 +388,9 @@ Sector 1 distress beacons are worth visiting. You have a clone bay, plus blue op
 
 ## Mantis A
 
-Shields-3, shields-4, then look for a weapon. Don’t forget weapons-2 is 40 scrap; buying this lets you use the Small Bomb and Basic Laser together. Mantis Pheromones is somewhat useful, but also fine to sell. Small Bomb is a great boarding support weapon, and can also disable enemy weapons. Use it liberally in sector 1 to reduce risk.
+Rush shields, then look for offence. Weapons-2 is 40 scrap; buying this lets you use the Small Bomb and Basic Laser together, and also gives you a damage buffer for the Small Bomb. This is a good early upgrade, but don’t let it prevent you buying a weapon or hacking.
+
+Mantis Pheromones is somewhat useful, but also fine to sell. Small Bomb is a great boarding support weapon, and can also disable enemy weapons. Use it liberally in sector 1 to reduce risk.
 
 Mind control can be a strong purchase on a two-tile boarding ship, especially early, as it enables the same early-game tactics as Lanius B.
 
@@ -408,17 +410,13 @@ The Small Bomb can disable defence drones, letting you sneak hacking past them. 
 
 ## Mantis B
 
-Despite its apparent strength, this ship is extremely vulnerable at the start. Mantis are terrible at repairs or fighting fires, so you can easily lose in sector 1. **Accept this reality, and plan accordingly.**
+Despite its apparent strength, this ship is vulnerable at the start because Mantis crew are terrible at repairs and fire-fighting. Plan routes that let you revisit a previous beacon and repair after a disaster.
 
-During this vulnerable period, try to plan a route that lets you revisit a previous beacon. This gives you a safe place to repair after a disaster.
+Mantis B’s nemesis is an Automated ship with a Small Bomb and Burst Laser 2. Even with **perfect** play, you’ll die about 1 time in 3. I’m not kidding.
 
-There are two ways to fix your vulnerabilty: crew or engine upgrades. Crew are much better (ideally an Engi), but saving scrap takes too long. Therefore spend your first 10 scrap on engines-2, and your next 15 scrap on engines-3 (unless perhaps you get free crew first). Engines-3 makes a surprisingly big difference!
+The quickest fix is engines. Engines-2 increases your odds of survival to ~94%, engines-3 to nearly 100% and likely to take a lot less damage. If you see an immediate store, take it. You can sell Mantis Pheromones and buy engines-2, maybe engines-3.
 
-Piloting-2 is also tempting after engines-2, but engines-3 is cheaper and provides more safety. Piloting-2 just acts as a damage buffer, whereas engines-3 also increases your evasion and speeds up the FTL drive. Crucially, engines-3 can take a Small Bomb without stopping the FTL charge.
-
-If you see an early store, visit it even with zero scrap. You can sell Mantis Pheromones and buy engines-3. Yes, it’s that important.
-
-After you’ve taken care of early-game safety, look for a weapon. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
+After you’ve taken care of early-game safety, look for weapons, crew, or hacking. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
 Once you have three crew, you gain the option of using distraction tactics to break weapons (see Mantis C for an explanation).
 
@@ -430,23 +428,21 @@ Don’t hesitate to spend drone parts when fights look dangerous. Your boarding 
 
 Precise venting helps against solar flares or fire-lighting weapons. Just before the fire starts, have no oxygen in the bottom-left corner, and switch off O2; but also close the doors. [Repairing O2 is possible](https://www.youtube.com/watch?v=J47ENy6-CAM&t=1m22s) even in a fully-vented ship, providing you have medbay-2: you’ll need to run relays, and the timing is very tight.
 
-Leave one Mantis in piloting (to start the FTL charging immediately), and put the other in sensors. This delays boarding by about 2 seconds, but in some trickier situations sensor information can stop you sending crew on a suicide mission. When completely safe, destroy systems for surrender offers (as low as 1 hull).
+Leave one Mantis in piloting (to start the FTL charging immediately), and put the other in sensors. This delays boarding by under 2 seconds, but occasionally stops you sending crew on a suicide mission. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg). You only have one spare system slot, so get cloaking or hacking. Probably hacking, which allows you to kill the Flagship crew easily.
 
 Sector 1 distress beacons are worth visiting. Even without blue options, distress beacons can give crew, and are safer on average. The Boarding Drone has a low-scrap blue option.
 
-You also have good blue options from the teleporter and Defence Drone, but they apply to [the same event](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon). The drone is typically better, but risks system damage with a fire; and the teleporter gives a 50% chance of crew. Therefore choose teleporter unless you already got some non-Mantis crew.
+You also have good blue options from the teleporter and Defence Drone, but they apply to [the same event](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon). The drone is typically better, but risks system damage with a fire; and the teleporter gives a 50% chance of crew. Therefore choose teleporter unless maybe you already got some non-Mantis crew.
 
 ## Mantis C
 
-Shields-3, shields-4, then look for weapons. Finding weapons is not urgent, as the Stun Bomb lets you beat any enemy in the game&thinsp;&mdash;&thinsp;[including the Flagship](https://www.youtube.com/watch?v=n4di0ohYcOs&t=9m55s)! If you’re still low on crew in the mid-game, buy some.
+Rush shields, then look for weapons. Finding weapons is not urgent though, as the Stun Bomb lets you beat any enemy in the game&thinsp;&mdash;&thinsp;[including the Flagship](https://www.youtube.com/watch?v=n4di0ohYcOs&t=9m55s)! If you’re still low on crew in the mid-game, buy some.
 
-Mantis Pheromones is nice early on, but less relevant once your teleporter is full. Fine to keep or sell.
+Hit early stores to fund your shield upgrades. Selling Lockdown Bomb and Mantis Pheromones gives you 47 scrap.
 
-Although keeping both bombs does extend your tactical options, they mostly overlap in function. Either bomb is sufficient for boarding support, so it’s fine to sell one early. The Stun Bomb is more tactically useful, and it also lets you break Zoltan shields. You’ll probably sell both bombs eventually, as you transition to more powerful weapons.
-
-It may be worth visiting an early store just to sell Mantis Pheromones and the Lockdown Bomb. This gets you 47 scrap, nearly enough for shields-4.
+Although keeping both bombs does extend your tactical options, they mostly overlap in function. Either bomb is sufficient for boarding support. The Stun Bomb is more tactically useful, and also lets you break Zoltan shields.
 
 Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FTL jump (force them to go the bottom route), and the Lanius from weapons to the teleporter (so the teleporter stays oxygenated). This gives you sensor information, and lets you board as fast as possible with either two or three crew.
 
@@ -458,7 +454,7 @@ This tactic fails when enemies have three crew **and** a two-tile shields room. 
 
 For even more time punching weapons, use your bombs tactically. Lockdown lasts for 12 seconds, and stun lasts for 15. You can stun all the enemy crew in shields; then if needed, use the Lockdown Bomb as well. Or lockdown weapons first, then stun the crew trying to break in. Or you might want to use the Stun Bomb on weapons, to switch off a dangerous weapon more quickly. There are many possible tactics!
 
-With good timing, it’s possible to dodge all your crew out a room while stunning the enemy crew. But even stunning your Lanius is effective: enemy crew will rapidly suffocate. Stunning them in an airless room can be more effective than attacking the medbay.
+With good timing, it’s possible to dodge all your crew out a room while stunning the enemy crew. Even just stunning your Lanius is effective: enemy crew will rapidly suffocate. Stunning them in an airless room can be more effective than attacking the medbay.
 
 The Lanius cannot use the medical airlock, so try to limit damage to them or get them killed off just before the fight ends. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
@@ -481,7 +477,7 @@ Stun Bomb sells for 17, Lockdown Bomb for 12. Selling both Lockdown Bomb and Man
 
 ## Slug A
 
-Shields-3, shields-4, then look for a weapon. Rushing shields gives you more opportunities for safe crew kills. Slug Repair Gel is fine to keep or sell (sells for 20 in Balance Mod).
+Rush shields, then look for a weapon. Rushing shields gives more opportunities for safe crew kills.
 
 Start fights with Dual Lasers and Breach Bomb powered, then switch to Anti-bio Beam when enemies are not a threat. Use the bomb against threatening weapons. The Breach Bomb can be an effective crew-killing weapon too (target O2); remember that breaches attract a second crew once repaired, giving a chance to double the damage from a laser or bomb. Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
 
@@ -500,9 +496,9 @@ The Breach Bomb can disable defence drones, letting you sneak hacking past them.
 
 ## Slug B
 
-Shields-3, shields-4, then look for a weapon. You don’t need clone/medbay as urgently as you might think (prefer clone bay).
+Rush shields, then look for a weapon. You don’t need clone/medbay as urgently as you might think (prefer clone bay).
 
-Even without Reconstructive Teleport, you *can* skip clone/medbay entirely. This gives an extra system slot. However, it also means you’ll have a harder time finding the systems you actually want (hacking!), because clone/medbay will always take up a slot in the store. On balance, I feel it’s better to pick up a medical system.
+Even without Reconstructive Teleport, you *can* skip clone/medbay entirely, for an extra system slot. I don’t recommend it though, because because clone/medbay will always take up a slot in stores, making it harder to find the systems you want. The extra system is only an endgame advantage, and by that time you’ve already won.
 
 Mind control can be a strong purchase on a two-tile boarding ship, especially early, as it enables the same early-game tactics as Lanius B.
 
@@ -529,15 +525,15 @@ The Artemis lets you sneak hacking past defence drones. Bear this in mind for th
 
 ## Slug C
 
-Shields-3, shields-4, then look for a weapon. Slug Repair Gel is fine to keep or sell (sells for 20 in Balance Mod).
+Rush shields, then look for a weapon. A weapons buffer is also good, but I think the shield upgrades are safer overall. Get the weapons buffer when you can, but not if it might prevent you buying a weapon.
 
-Rushing shields gives you more opportunities for safe crew kills. Mind control can often get the job done by itself (with a few lasers to finish them off). Otherwise hack oxygen.
+Rushing shields gives you more opportunities for safe crew kills. Mind control can often get the job done by itself (with lasers to finish them off). Otherwise hack oxygen. You can de-power the Chain Laser to fire a single shot, and it will keep its chain progress if you are quick enough.
 
-Chain Laser is slow, but you can still get the first shot by hacking enemy weapons. Hack liberally to reduce damage and risk, especially while you only have 1 shield. Consider buying a weapons buffer, but not if it might prevent you buying a weapon.
+Chain Laser is slow, but you can still get the first shot by hacking enemy weapons. Hack liberally to reduce damage and risk, especially while you only have 1 shield.
 
-Early-game tactics are slightly different depending on enemy crew count. Against two crew, mind control the pilot when you fire the Chain Laser. But against three crew, immediately mind control the weapons crew instead: this guarantees one point of system damage at 12.5 seconds.
+Early-game tactics are slightly different depending on enemy crew count. Against two crew, mind control the pilot when you fire the Chain Laser. But against three crew, usually mind control the weapons crew instead: this guarantees one point of system damage at 12.5 seconds.
 
-When completely safe and with a guaranteed crew-kill, damage the hull for surrender offers (as low as 1 hull). The safest way to do this is mind-controlling the pilot (on ships with level 1 piloting). Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.
+When completely safe and with a guaranteed crew-kill, damage the hull for surrender offers (as low as 1 hull). The safest way to do this is mind-controlling the pilot (on ships with level 1 piloting). Hacking often lets you farm crew skill early, by de-synchronising enemy weapons.
 
 [Defence drones cover this ship well](https://i.imgur.com/bhrfCeE.jpg), as all rooms are outside the blind spot.
 
@@ -550,9 +546,11 @@ Sector 1 distress beacons are probably worth visiting. You have a clone bay and 
 
 You urgently need non-missile offence. Ideally get good weapons, but you really need *two* weapons to make a reasonable loadout for sector 3, and that can be tricky without some luck. Nevertheless, a single non-missile weapon can at least reduce your missile usage, so consider damage-dealers like a Heavy Laser. Even an Ion Blast is good, as it’s cheap and helps against Zoltan Shields.
 
-Seriously consider buying a teleporter. This fixes your missile dependency and gives you a reliable way to win fights for a long time, as the Artemis is a great boarding support weapon. Unfortunately that means boarding with painfully slow Rocks and leaving just a pilot at home. At least the teleporter slots right next to the medbay. When you get more crew (especially Mantis and Engi), it will be much more comfortable.
+Seriously consider buying a teleporter. This fixes your missile dependency and gives you a reliable way to win fights for a long time, as the Artemis is a great boarding support weapon. Unfortunately that means boarding with slow Rocks and leaving just a pilot at home. At least the teleporter slots right next to the medbay. When you get more crew (especially Mantis and Engi), it will be much more comfortable.
 
-The Artemis has a 2-point weapons buffer, so consider delaying shield upgrades in the hope of hitting a good store. Selling the Rock Plating and Hull Missile nets you 72 scrap. Bear in mind that the Hull Missile may still be useful if you bought a teleporter: you might get forced into an Abandoned sector 2. Similarly, consider keeping the Rock Plating if you can: it has a blue option that guarantees a weapon in one reasonably common event in Engi, Rock, and Pirate sectors. Without the blue option, it’s 1/3 chance.
+The Artemis has a 2-point weapons buffer, so delay shield upgrades enough to afford a weapon or teleporter. Selling the Rock Plating and Hull Missile nets you 72 scrap, so you only need to float 18 scrap.
+
+Bear in mind the Hull Missile may still be useful if you bought a teleporter: you might get forced into an Abandoned sector 2. Similarly, consider keeping the Rock Plating if you can: it has a blue option that guarantees a weapon in one reasonably common event in Engi, Rock, and Pirate sectors. Without the blue option, it’s 1/3 chance.
 
 Use missiles as efficiently as possible, but do use them against threatening weapons. Sometimes it might not be worth fighting a Zoltan ship. As a last resort, buy missiles: it’s better than being unable to win fights. Accept missile-heavy surrenders.
 
@@ -573,7 +571,7 @@ Keeping the Artemis lets you sneak hacking past defence drones. Bear this in min
 
 ## Rock B
 
-Your offence is good initially, but terrible against two-shield enemies. You also have a weapons buffer for the Heavy Pierce. Consider delaying shield upgrades, in the hope of finding a good store.
+Your offence is good initially, but terrible against two-shield enemies. You also have a weapons buffer for the Heavy Pierce. Delay shield upgrades enough to afford a weapon. Selling Rock Plating and Fire Bomb gets you 65 scrap, so you only need to float 15 scrap.
 
 Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons. The Fire Bomb can get some early crew kills, but only use it when you are safe. Avoid selling the Fire Bomb unless it gets you something important, as it can help you kill the Flagship crew.
 
@@ -710,13 +708,15 @@ Sector 1 distress beacons are worth visiting, but guaranteed fights are better. 
 
 On Hard mode specifically, enemy targeting can be manipulated to reduce the chance that your weapons or cloaking get hit.
 
-Run the weapons crew to sensors to watch weapons charge. Depower your Glaive when the charge bar is full, then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being targeted, from 31.5% to 6.5%.
+Run the weapons crew to sensors to watch weapons charge; they take 2.5 seconds to get there. Depower your Glaive when the charge bar is full, then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being targeted, from 31.5% to 6.5%.
 
-It takes 2.5 seconds to run to sensors. In cases where exact timing might matter, consider walking your engines Zoltan around the ship for timing the sensors dash (for example, against a beam drone, or even a manned Heavy Laser). Standard crew movement speed is 2.2 tiles per second.
+Consider walking your engines Zoltan around the ship for timing the sensors dash. This can matter more than you might expect. For example, against an unmanned Heavy Laser and Small Bomb, perfect timing will let your Glaive finish firing before the Bomb detonates.
 
 Note that you can’t use the sensors trick in a nebula! This is another reason to avoid them. Also consider that a drone hit into sensors effectively makes enemy weapons more dangerous.
 
-Venting below 50% oxygen makes enemies less likely to target cloaking. It also reduces the chance of weapons being targeted to 14.8%, but that’s only relevant if you can’t use the sensors trick. Venting also has some risks, for example if your O2 gets hacked.
+Without sensor information, it’s possible to time at least some enemy weapons purely with crew movement and weapon animation. You’ll need the Glaive offline a few frames longer, but you can man weapons the whole time. The manning bonus also speeds up weapon *drain*, so move the weapons crew while it’s offline.
+
+Venting below 50% oxygen makes enemies less likely to target cloaking. It also reduces the chance of weapons being targeted to 14.8%, but that’s only relevant if you can’t toggle the weapons power. Venting also has some risks, for example if your O2 gets hacked.
 
 For that reason, vent precisely. Before jumping, drop O2 to 75%. Then vent the 4 empty rooms in the top part of the ship, with O2 off. This gets you under 50% O2 in ~6 seconds, or ~3 seconds if you also vent the airlock below engines. You can then decide whether to vent at the start of a battle.
 
