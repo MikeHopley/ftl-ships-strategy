@@ -604,7 +604,7 @@ Wait to see where enemy hacks land before venting. Get your weapons crew near a 
 
 ### *Now you’re just being silly*
 
-Consider walking your engines Zoltan around the ship for timing the sensors dash. You can use my [Zoltan treadmill]() for accurate timing.
+Consider walking your engines Zoltan around the ship for timing the sensors dash. You can use my [Zoltan treadmill](https://mikehopley.github.io/zoltan-treadmill/) for accurate timing.
 
 It’s even possible to time enemy weapons purely with crew movement and weapon animation (and this can potentially be used by *any* ship). This means you can continue using the trick when sensors don’t work, such as in a nebula. It means you can let beam drones hit your sensors without cloaking.
 
