@@ -604,11 +604,11 @@ Wait to see where enemy hacks land before venting. Get your weapons crew near a 
 
 ### *Now you’re just being silly*
 
-Consider walking your engines Zoltan around the ship for timing the sensors dash. <!-- You can use my [Zoltan treadmill]() for accurate timing. -->
+Consider walking your engines Zoltan around the ship for timing the sensors dash. You can use my [Zoltan treadmill]() for accurate timing.
 
-It’s even possible to time enemy weapons purely with crew movement and weapon animation. This means you can continue using the trick when sensors don’t work, such as in a nebula. It means you can let beam drones hit your sensors without cloaking.
+It’s even possible to time enemy weapons purely with crew movement and weapon animation (and this can potentially be used by *any* ship). This means you can continue using the trick when sensors don’t work, such as in a nebula. It means you can let beam drones hit your sensors without cloaking.
 
-In most cases this will charge your Glaive faster too. This can matter more than you might expect. It could stop a beam drone sniping your weapons. An unmanned Small Bomb will explode just *after* your Glaive finishes firing.
+In most cases this will charge your Glaive slightly faster too. This can sometimes matter more than you might expect. For example, an unmanned Small Bomb will explode just *after* your Glaive finishes firing.
 
 Use crew movement to time the weapon charge and de-power, wait for the weapon to “go green”, then re-power on the *next* animation frame. For missiles and bombs, listen for the firing sound.
 
