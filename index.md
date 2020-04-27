@@ -711,7 +711,7 @@ Sell Crystal Vengeance at the first store you visit.
 
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship poorly](https://i.imgur.com/CEsuzYp.jpg), as weapons are vulnerable.
 
-Crew positions are hard to decide. Crystal crew are slow to move around this sprawling ship, so there’s an argument for putting them on piloting and engines. But you might want to board with them later; they also have a 17% penalty to fire-fighting.
+Crew positions are hard to decide. I like Crystals in piloting and weapons, with humans in engines and doors. Piloting and weapons are good rooms for lockdown, and having humans spread around the ship means more flexibility for repairs and fighting fires. This isn’t ideal for boarding, but if you cross-train it doesn’t matter.
 
 You have no blue options for distress beacons in sector 1, so prefer unmarked beacons.
 
