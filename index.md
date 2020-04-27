@@ -294,10 +294,6 @@ You have three empty system slots to fill, so try to buy your first system a lit
 
 Sector 1 distress beacons are somewhat worth visiting, mostly because they are not asteroid fields! You have one blue option from the Ion Blast (good, but just one event).
 
-### Balance Mod
-
-Auto-assaults (which have drones) no longer appear in sector 1, so jumping to nebula beacons is safer.
-
 
 ## Zoltan C
 
