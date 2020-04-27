@@ -11,11 +11,19 @@
 | Lanius     | [Kruos](#lanius-a)            | [The Shrike](#lanius-b)                                              | None                                                          |
 | Crystal    | [Bravais](#crystal-a)         | [Carnelian](#crystal-b)                                              | None                                                          |
 
-# Context
 
-I made this guide first for myself, second for others. I hope it may be useful for players at all different levels. It could be overwhelming, especially for newer players: you **will not** understand everything, so gloss over the difficult parts. You can revisit them later in your FTL journey.
+# About this guide
 
-This is about winning consistently on Hard, which means playing as “safely” as possible and getting through the dangerous early game in good shape. To be “safe”, you need two things ASAP:
+I wrote this guide first for myself, second for others. It contains all kinds of tips, from basic strategy to extremely advanced micro.
+
+Some of these tips are tiny optimisations that usually don’t matter. Depending on your skill level and also how you prefer to play, you may want to ignore those parts.
+
+Less experienced players might find it overwhelming in places. I recommend skipping over the parts you don’t understand, for now. You can always come back to them later.
+
+
+# Play the early game well
+
+To win consistently on Hard, you must play as “safely” as possible and get through the dangerous early game in good shape. To be “safe”, you need two things ASAP:
 
 * Two shields
 * Offence that works well against two-shield enemies
@@ -25,7 +33,7 @@ This is about winning consistently on Hard, which means playing as “safely” 
 Hacking is especially strong. When I say “look for a weapon”, that’s really  shorthand for “look for a weapon, or hacking, or other offence”. But ideally I like to start with a good weapon, then add hacking a bit later.
 
 
-# General strategy
+# General early strategy
 
 For most ships and most runs:
 
@@ -45,6 +53,8 @@ For that reason, it’s sometimes worth delaying your shield upgrades briefly. T
 * Delay both
 
 You can also choose how long you delay them. You could delay just a few jumps, because you are circling around a store in the middle of the sector. Or you could wait for a store at the end of sector 1 or early sector 2.
+
+In most circumstances (but not all), I think it’s incorrect to delay shield upgrades more than a few jumps.
 
 
 ## What factors influence this decision?
@@ -73,7 +83,7 @@ Never waste early-game scrap on luxury purchases like medbay-2, doors-2, or Scra
 
 ## Exceptions
 
-Some ships start with something other than shields-2. The Stealth cruisers have no shield system at all, and Zoltan B only has shields-1. Mantis B starts with shields-4.
+The Stealth cruisers have no shield system at all, and Zoltan B only has shields-1. Mantis B starts with shields-4.
 
 The strategies for these ships are quite different, reflecting their special starting conditions.
 
