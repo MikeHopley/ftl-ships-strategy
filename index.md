@@ -54,7 +54,7 @@ For that reason, it’s sometimes worth delaying your shield upgrades briefly. T
 
 You can also choose how long you delay them. You could delay just a few jumps, because you are circling around a store in the middle of the sector. Or you could wait for a store at the end of sector 1 or early sector 2.
 
-In most circumstances&thinsp;&mdash;&thinsp;but not all, and it depends on the ship)&thinsp;&mdash;&thinsp;I think it’s incorrect to delay shield upgrades more than a few jumps.
+In most circumstances&thinsp;&mdash;&thinsp;but not all, and it depends on the ship&thinsp;&mdash;&thinsp;I think it’s incorrect to delay shield upgrades more than a few jumps.
 
 *Never forget: the [shield hack event](https://ftl.fandom.com/wiki/Rebel_AI_Scout_carrying_Shield_Virus) is out there, waiting for you with a beam drone. It knows nothing of mercy, neither of fairness, nor yet charity; and in its lifeless eyes, the noble pursuit of win streaks is but a guttering candle, soon to be extinguished.*
 
